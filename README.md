@@ -11,6 +11,10 @@
 
 * Webster, R. G., Monto, A. S., Braciale, T. J., & Lamb, R. A. (2014). [Textbook of Influenza](http://www.amazon.com/Textbook-Influenza-Robert-G-Webster/dp/0470670487/). John Wiley & Sons.
 
+*Paper*
+
+* Cox, N. J., & Subbarao, K. (2000). Global epidemiology of influenza: past and present. Annual review of medicine, 51(1), 407-421.
+
 ## Modeling Infectious Diseases
 *Textbook*
 
