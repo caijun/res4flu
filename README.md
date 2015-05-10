@@ -43,7 +43,7 @@
 
 ## Data on Influenza
 
-* [FluNet](http://www.who.int/influenza/gisrs_laboratory/flunet/en/)
+* [FluNet](http://www.who.int/influenza/gisrs_laboratory/flunet/en/): a global tool for influenza virological surveillance.
 
 ## Workshops and Conferences
 
