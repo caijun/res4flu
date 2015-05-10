@@ -44,6 +44,7 @@
 ## Database for Influenza Research
 
 * [WHO FluNet](http://www.who.int/influenza/gisrs_laboratory/flunet/en/): a global tool for influenza virological surveillance.
+* [CDC FluView](http://gis.cdc.gov/grasp/fluview/fluportaldashboard.html): national and regional level outpatient illness and viral surveillence.
 * [Influenza Research Database (IRD)](http://www.fludb.org/): global public database and analysis resource for the study of influenza viruses.
 * [NCBI Influenza Virus Resource](http://www.ncbi.nlm.nih.gov/genomes/FLU/)
 * [EMPRES Global Animal Disease Information System (EMPRES-i)](http://empres-i.fao.org/eipws3g/)
