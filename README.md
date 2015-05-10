@@ -43,6 +43,8 @@
 
 ## Data on Influenza
 
+* [FluNet](http://www.who.int/influenza/gisrs_laboratory/flunet/en/)
+
 ## Workshops and Conferences
 
 * [Multinational Influenza Seasonal Mortality Study (MISMS) Workshop](http://www.origem.info/misms/)
