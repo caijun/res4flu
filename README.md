@@ -1,12 +1,12 @@
 # Resources for Influenza Research
 
 - [Data on Influenza](#data-on-influenza)
-- [Ecology, Evolution and Epidemiology of Influenza](#ecology,-evolution-epidemiology-of-influenza)
+- [Ecology and Evolution of Influenza](#ecology-and-evolution-of-influenza)
 - [Modeling Infectious Diseases](#modeling-infectious-diseases)
 
 ## Data on Influenza
 
-## Ecology, Evolution and Epidemiology of Influenza
+## Ecology and Evolution of Influenza
 *Textbook*
 
 * Webster, R. G., Monto, A. S., Braciale, T. J., & Lamb, R. A. (2014). [Textbook of Influenza](http://www.amazon.com/Textbook-Influenza-Robert-G-Webster/dp/0470670487/). John Wiley & Sons.
