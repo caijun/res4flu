@@ -14,7 +14,9 @@
 *Review Papers*
 
 * Nelson, M. I., & Holmes, E. C. (2007). [The Evolution of Epidemic Influenza](http://www.nature.com/nrg/journal/v8/n3/abs/nrg2053.html). Nature reviews genetics, 8(3), 196-205.
+* Earn, D. J., Dushoff, J., & Levin, S. A. (2002). [Ecology and Evolution of the Flu](http://www.sciencedirect.com/science/article/pii/S0169534702025028). Trends in ecology & evolution, 17(7), 334-340.
 * Cox, N. J., & Subbarao, K. (2000). [Global Epidemiology of Influenza: Past and Present](http://www.annualreviews.org/doi/abs/10.1146/annurev.med.51.1.407). Annual review of medicine, 51(1), 407-421.
+* Webster, R. G., Bean, W. J., Gorman, O. T., Chambers, T. M., & Kawaoka, Y. (1992). [Evolution and Ecology of Influenza A Viruses](http://mmbr.asm.org/content/56/1/152.short). Microbiological reviews, 56(1), 152-179.
 
 ## Modeling Infectious Diseases
 *Textbook*
