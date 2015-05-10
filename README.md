@@ -2,7 +2,7 @@
 
 - [Data](#data)
 - [Background on Influenza](#background-on-influenza)
-- [modeling infectious diseases](#modeling-infectious-diseases)
+- [Modeling Infectious Diseases](#modeling-infectious-diseases)
 
 ## Data
 
