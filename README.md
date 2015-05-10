@@ -1,10 +1,12 @@
 # Resources for Influenza Research
 
-- [Data on Influenza](#data-on-influenza)
+- [Keywords](#keywords)
 - [Ecology and Evolution of Influenza](#ecology-and-evolution-of-influenza)
 - [Modeling Infectious Diseases](#modeling-infectious-diseases)
+- [Data on Influenza](#data-on-influenza)
 
-## Data on Influenza
+## Keywords
+* [Phylogeography](http://en.wikipedia.org/wiki/Phylogeography)
 
 ## Ecology and Evolution of Influenza
 *Textbook*
@@ -31,3 +33,5 @@
 * A Special Issue of *Epidemics* on [Challenges in Modelling Infectious Disease Dynamics](http://www.sciencedirect.com/science/journal/17554365/10).
 * Grassly, N. C., & Fraser, C. (2008). [Mathematical Models of Infectious Disease Transmission](http://www.nature.com/nrmicro/journal/v6/n6/full/nrmicro1845.html). Nature Reviews Microbiology, 6(6), 477-487.
 * Hethcote, H. W. (2000). [The Mathematics of Infectious Diseases](http://epubs.siam.org/doi/abs/10.1137/S0036144500371907). SIAM review, 42(4), 599-653.
+
+## Data on Influenza
