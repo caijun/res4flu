@@ -48,4 +48,4 @@
 * [Multinational Influenza Seasonal Mortality Study (MISMS) Workshop](http://www.origem.info/misms/)
 * [International Conference on Emerging Infectious Diseases](http://www.iceid.org/)
 * [Epidemics: International Conference on Infectious Disease Dynamics](http://www.epidemics.elsevier.com/)
-* [Ecology and Evolution of Infectious Disease](http://eeidconference.org/)
+* [Annual Ecology and Evolution of Infectious Disease Conference](http://eeidconference.org/)
