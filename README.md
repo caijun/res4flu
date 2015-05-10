@@ -59,3 +59,14 @@
 * [International Conference on Emerging Infectious Diseases](http://www.iceid.org/)
 * [Epidemics: International Conference on Infectious Disease Dynamics](http://www.epidemics.elsevier.com/)
 * [Annual Ecology and Evolution of Infectious Disease Conference](http://eeidconference.org/)
+
+## MOOCs
+*Massive open online courses*
+
+* [Epidemics - the Dynamics of Infectious Diseases](https://www.coursera.org/course/epidemics): a course about the dynamics of Malaria, HIV/AIDS, Influenza, Measles - how they emerge, how they spread around the globe, and how they can best be controlled.
+
+## Contributing
+
+Your contributions are always welcome!
+
+This work is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
