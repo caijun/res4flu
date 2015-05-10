@@ -10,7 +10,7 @@
 * [Influenza](http://en.wikipedia.org/wiki/Influenza) | Flu
 * Ecology of Influenza
 * Modeling Influenza
-  - Spatial Spread
+  - Transmission
   - Forecasting
 * Epidemiology of Influenza
 * [Phylogeography](http://en.wikipedia.org/wiki/Phylogeography)
