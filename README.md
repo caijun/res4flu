@@ -1,18 +1,19 @@
 # Resources for Influenza Research
 
-- [Data](#data)
-- [Background on Influenza](#background-on-influenza)
+- [Data on Influenza](#data-on-influenza)
+- [Ecology, Evolution and Epidemiology of Influenza](#ecology-evolution-epidemiology-of-influenza)
 - [Modeling Infectious Diseases](#modeling-infectious-diseases)
 
-## Data
+## Data on Influenza
 
-## Background on Influenza
+## Ecology, Evolution and Epidemiology of Influenza
 *Textbook*
 
 * Webster, R. G., Monto, A. S., Braciale, T. J., & Lamb, R. A. (2014). [Textbook of Influenza](http://www.amazon.com/Textbook-Influenza-Robert-G-Webster/dp/0470670487/). John Wiley & Sons.
 
 *Review Papers*
 
+* Nelson, M. I., & Holmes, E. C. (2007). [The Evolution of Epidemic Influenza](http://www.nature.com/nrg/journal/v8/n3/abs/nrg2053.html). Nature reviews genetics, 8(3), 196-205.
 * Cox, N. J., & Subbarao, K. (2000). [Global Epidemiology of Influenza: Past and Present](http://www.annualreviews.org/doi/abs/10.1146/annurev.med.51.1.407). Annual review of medicine, 51(1), 407-421.
 
 ## Modeling Infectious Diseases
