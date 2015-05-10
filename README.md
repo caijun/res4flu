@@ -3,7 +3,7 @@
 - [Topics and Keywords](#topics-and-keywords)
 - [Ecology and Evolution of Influenza](#ecology-and-evolution-of-influenza)
 - [Modeling Infectious Diseases](#modeling-infectious-diseases)
-- [Database for Influenza Research](#database-for-influenza-research)
+- [Databases for Influenza Research](#databases-for-influenza-research)
 - [Workshops and Conferences](#worksshopts-and-conferences)
 
 ## Topics and Keywords
