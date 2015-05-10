@@ -43,7 +43,8 @@
 
 ## Data on Influenza
 
-* [FluNet](http://www.who.int/influenza/gisrs_laboratory/flunet/en/): a global tool for influenza virological surveillance.
+* [WHO FluNet](http://www.who.int/influenza/gisrs_laboratory/flunet/en/): a global tool for influenza virological surveillance.
+* [EMPRES Global Animal Disease Information System (EMPRES-i)](http://empres-i.fao.org/eipws3g/)
 
 ## Workshops and Conferences
 
