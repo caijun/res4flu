@@ -13,7 +13,7 @@
 
 *Paper*
 
-* Cox, N. J., & Subbarao, K. (2000). Global epidemiology of influenza: past and present. Annual review of medicine, 51(1), 407-421.
+* Cox, N. J., & Subbarao, K. (2000). [Global Epidemiology of Influenza: Past and Present](http://www.annualreviews.org/doi/abs/10.1146/annurev.med.51.1.407). Annual review of medicine, 51(1), 407-421.
 
 ## Modeling Infectious Diseases
 *Textbook*
