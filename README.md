@@ -25,6 +25,6 @@
 
 *Review Papers*
 
-* Heesterbeek, H., Anderson, R. M., Andreasen, V., Bansal, S., De Angelis, D., Dye, C., ... & Viboud, C. (2015). [Modeling Infectious Disease Dynamics in the Complex Landscape of Global Health](http://www.sciencemag.org/content/347/6227/aaa4339.short). Science, 347(6227), aaa4339. [![Google Scholar](https://github.com/caijun/res4flu/blob/master/GoogleScholar.png)]
+* Heesterbeek, H., Anderson, R. M., Andreasen, V., Bansal, S., De Angelis, D., Dye, C., ... & Viboud, C. (2015). [Modeling Infectious Disease Dynamics in the Complex Landscape of Global Health](http://www.sciencemag.org/content/347/6227/aaa4339.short). Science, 347(6227), aaa4339.
 * Grassly, N. C., & Fraser, C. (2008). [Mathematical Models of Infectious Disease Transmission](http://www.nature.com/nrmicro/journal/v6/n6/full/nrmicro1845.html). Nature Reviews Microbiology, 6(6), 477-487.
 * Hethcote, H. W. (2000). [The Mathematics of Infectious Diseases](http://epubs.siam.org/doi/abs/10.1137/S0036144500371907). SIAM review, 42(4), 599-653.
