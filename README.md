@@ -29,7 +29,7 @@
 * Webster, R. G., Bean, W. J., Gorman, O. T., Chambers, T. M., & Kawaoka, Y. (1992). [Evolution and Ecology of Influenza A Viruses](http://mmbr.asm.org/content/56/1/152.short). Microbiological reviews, 56(1), 152-179.
 
 ## Modeling Infectious Diseases
-*Textbook*
+*Textbooks*
 
 * Anderson, R. M., & May, R. M. (1991). [Infectious Diseases of Humans: Dynamics and Control](http://www.amazon.com/Infectious-Diseases-Humans-Dynamics-Publications/dp/019854040X). Oxford: Oxford university press.
 * Keeling, M. J., & Rohani, P. (2008). [Modeling Infectious Diseases in Humans and Animals](http://www.amazon.com/Modeling-Infectious-Diseases-Humans-Animals/dp/0691116172/). Princeton University Press.
@@ -42,7 +42,7 @@
 * Grassly, N. C., & Fraser, C. (2008). [Mathematical Models of Infectious Disease Transmission](http://www.nature.com/nrmicro/journal/v6/n6/full/nrmicro1845.html). Nature Reviews Microbiology, 6(6), 477-487.
 * Hethcote, H. W. (2000). [The Mathematics of Infectious Diseases](http://epubs.siam.org/doi/abs/10.1137/S0036144500371907). SIAM review, 42(4), 599-653.
 
-## Database for Influenza Research
+## Databases for Influenza Research
 
 * [WHO FluNet](http://www.who.int/influenza/gisrs_laboratory/flunet/en/): a global tool for influenza virological surveillance.
 * [Weekly U.S. Influenza Surveillance Report](http://www.cdc.gov/flu/weekly/)
