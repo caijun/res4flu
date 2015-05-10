@@ -1,12 +1,12 @@
 # Resources for Influenza Research
 
-- [Keywords](#keywords)
+- [Topics | Keywords](#topics-|-keywords)
 - [Ecology and Evolution of Influenza](#ecology-and-evolution-of-influenza)
 - [Modeling Infectious Diseases](#modeling-infectious-diseases)
 - [Data on Influenza](#data-on-influenza)
 - [Conferences](#conferences)
 
-## Keywords
+## Topics | Keywords
 * [Influenza](http://en.wikipedia.org/wiki/Influenza) | Flu
 * Ecology of Influenza
 * Modeling Influenza
