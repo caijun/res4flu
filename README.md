@@ -9,11 +9,11 @@
 ## Keywords
 * [Influenza](http://en.wikipedia.org/wiki/Influenza) | Flu
 * Ecology of Influenza
-* [Phylogeography](http://en.wikipedia.org/wiki/Phylogeography)
 * Modeling Influenza
   - Spatial Spread
   - Forecasting
 * Epidemiology of Influenza
+* [Phylogeography](http://en.wikipedia.org/wiki/Phylogeography)
 
 ## Ecology and Evolution of Influenza
 *Textbook*
