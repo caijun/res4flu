@@ -4,6 +4,7 @@
 - [Ecology and Evolution of Influenza](#ecology-and-evolution-of-influenza)
 - [Modeling Infectious Diseases](#modeling-infectious-diseases)
 - [Data on Influenza](#data-on-influenza)
+- [Conferences](#conferences)
 
 ## Keywords
 * [Phylogeography](http://en.wikipedia.org/wiki/Phylogeography)
@@ -35,3 +36,8 @@
 * Hethcote, H. W. (2000). [The Mathematics of Infectious Diseases](http://epubs.siam.org/doi/abs/10.1137/S0036144500371907). SIAM review, 42(4), 599-653.
 
 ## Data on Influenza
+
+## Conferences
+
+* [International Conference on Emerging Infectious Diseases](http://www.iceid.org/)
+* [Ecology and Evolution of Infectious Disease](http://eeidconference.org/)
