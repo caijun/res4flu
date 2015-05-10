@@ -1,7 +1,7 @@
 # Resources for Influenza Research
 
 - [Data on Influenza](#data-on-influenza)
-- [Ecology, Evolution and Epidemiology of Influenza](#ecology-evolution-epidemiology-of-influenza)
+- [Ecology, Evolution and Epidemiology of Influenza](#ecology,-evolution-epidemiology-of-influenza)
 - [Modeling Infectious Diseases](#modeling-infectious-diseases)
 
 ## Data on Influenza
