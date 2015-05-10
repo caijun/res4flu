@@ -5,8 +5,8 @@
 - [Modeling Infectious Diseases](#modeling-infectious-diseases)
 - [Databases for Influenza Research](#databases-for-influenza-research)
 - [Workshops and Conferences](#workshops-and-conferences)
-- [Moocs](#moocs)
-- [Contributing](#conbributing)
+- [MOOCs](#moocs)
+- [Contributing](#contributing)
 
 ## Topics and Keywords
 * [Influenza](http://en.wikipedia.org/wiki/Influenza) | Flu
