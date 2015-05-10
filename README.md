@@ -4,7 +4,9 @@
 - [Ecology and Evolution of Influenza](#ecology-and-evolution-of-influenza)
 - [Modeling Infectious Diseases](#modeling-infectious-diseases)
 - [Databases for Influenza Research](#databases-for-influenza-research)
-- [Workshops and Conferences](#worksshopts-and-conferences)
+- [Workshops and Conferences](#workshops-and-conferences)
+- [Moocs](#moocs)
+- [Contributing](#conbributing)
 
 ## Topics and Keywords
 * [Influenza](http://en.wikipedia.org/wiki/Influenza) | Flu
