@@ -1,10 +1,10 @@
 # Resources for Influenza Research
 
-- [Topics | Keywords](#topics-)
+- [Topics | Keywords](#topics--keywords)
 - [Ecology and Evolution of Influenza](#ecology-and-evolution-of-influenza)
 - [Modeling Infectious Diseases](#modeling-infectious-diseases)
 - [Data on Influenza](#data-on-influenza)
-- [Conferences](#conferences)
+- [Conferences](#worksshopts--conferences)
 
 ## Topics | Keywords
 * [Influenza](http://en.wikipedia.org/wiki/Influenza) | Flu
@@ -43,7 +43,7 @@
 
 ## Data on Influenza
 
-## Conferences
+## Workshops | Conferences
 
 * [Multinational Influenza Seasonal Mortality Study (MISMS) Workshop](http://www.origem.info/misms/)
 * [International Conference on Emerging Infectious Diseases](http://www.iceid.org/)
