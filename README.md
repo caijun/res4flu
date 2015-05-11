@@ -10,6 +10,7 @@
 
 ## Topics and Keywords
 * [Influenza](http://en.wikipedia.org/wiki/Influenza) | Flu
+* Pandemic vs. Epidemic
 * Ecology of Influenza
 * Modeling Influenza
   - Transmission
