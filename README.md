@@ -11,11 +11,12 @@
 ## Topics and Keywords
 * [Influenza](http://en.wikipedia.org/wiki/Influenza) | Flu
 * Pandemic vs. Epidemic
-* Ecology of Influenza
 * Modeling Influenza
   - Transmission
   - Forecasting
 * Epidemiology of Influenza
+* Surveillence of Influenza
+* Ecology of Influenza
 * [Phylogeography](http://en.wikipedia.org/wiki/Phylogeography)
 
 ## Ecology and Evolution of Influenza
@@ -45,12 +46,29 @@
 * Grassly, N. C., & Fraser, C. (2008). [Mathematical Models of Infectious Disease Transmission](http://www.nature.com/nrmicro/journal/v6/n6/full/nrmicro1845.html). Nature Reviews Microbiology, 6(6), 477-487.
 * Hethcote, H. W. (2000). [The Mathematics of Infectious Diseases](http://epubs.siam.org/doi/abs/10.1137/S0036144500371907). SIAM review, 42(4), 599-653.
 
+## Surveillence of Influenza
+
+### Digital Disease Detection
+*Review Paper*
+
+* Salathe, M., Bengtsson, L., Bodnar, T. J., Brewer, D. D., Brownstein, J. S., Buckee, C., ... & Vespignani, A. (2012). [Digital Epidemiology](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002616). PLoS computational biology, 8(7), e1002616.
+
+*Classical Paper*
+
+* Ginsberg, J., Mohebbi, M. H., Patel, R. S., Brammer, L., Smolinski, M. S., & Brilliant, L. (2009). [Detecting Influenza Epidemics using Search Engine Query Data](http://www.nature.com/nature/journal/v457/n7232/abs/nature07634.html). Nature, 457(7232), 1012-1014.
+
+*Projects*
+
+* [Google Flu Trends](https://www.google.org/flutrends/intl/en_us/)
+* [HealthMap](http://www.healthmap.org/en/): flu & Ebola map | virus & contagious disease surveillence 
+
 ## Databases for Influenza Research
 
 * [WHO FluNet](http://www.who.int/influenza/gisrs_laboratory/flunet/en/): a global tool for influenza virological surveillance.
 * [Weekly U.S. Influenza Surveillance Report](http://www.cdc.gov/flu/weekly/)
   - [FluView](http://gis.cdc.gov/grasp/fluview/fluportaldashboard.html): national and regional level outpatient illness and viral surveillence.
-  - [FluView](http://gis.cdc.gov/grasp/fluview/main.html): influenza-like illness (ILI) activity level indicator determined by data reported to ILINet. 
+  - [FluView](http://gis.cdc.gov/grasp/fluview/main.html): influenza-like illness (ILI) activity level indicator determined by data reported to ILINet.
+* Data from [Google Flu Trends](https://www.google.org/flutrends/intl/en_us/)
 * [Influenza Research Database (IRD)](http://www.fludb.org/): global public database and analysis resource for the study of influenza viruses.
 * [NCBI Influenza Virus Resource](http://www.ncbi.nlm.nih.gov/genomes/FLU/)
 * [Global Initiative on Sharing Avian Influenza Data (GISAID)](http://platform.gisaid.org/)
