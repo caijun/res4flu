@@ -75,6 +75,7 @@
 * [NCBI Influenza Virus Resource](http://www.ncbi.nlm.nih.gov/genomes/FLU/)
 * [Global Initiative on Sharing Avian Influenza Data (GISAID)](http://platform.gisaid.org/)
 * [EMPRES Global Animal Disease Information System (EMPRES-i)](http://empres-i.fao.org/eipws3g/)
+* [FluWeb Historical Influenza Database](http://influenza.sph.unimelb.edu.au/)L: free access to a number of rare and valuable sources of data concerning past influenza outbreaks.
 
 ## Workshops and Conferences
 
