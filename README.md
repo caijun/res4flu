@@ -3,6 +3,7 @@
 - [Topics and Keywords](#topics-and-keywords)
 - [Ecology and Evolution of Influenza](#ecology-and-evolution-of-influenza)
 - [Modeling Infectious Diseases](#modeling-infectious-diseases)
+- [Seasonality of Influenza](#seasonality-of-influenza)
 - [Surveillence of Influenza](#surveillence-of-influenza)
   - [Digital Disease Detection](#digital-disease-detection)
 - [Databases for Influenza Research](#databases-for-influenza-research)
@@ -13,10 +14,10 @@
 ## Topics and Keywords
 * [Influenza](http://en.wikipedia.org/wiki/Influenza) | Flu
 * Pandemic vs. Epidemic
+* Epidemiology of Influenza
 * Modeling Influenza
   - Transmission
   - Forecasting
-* Epidemiology of Influenza
 * Surveillence of Influenza
 * Ecology of Influenza
 * [Phylogeography](http://en.wikipedia.org/wiki/Phylogeography)
@@ -47,6 +48,14 @@
 * A Special Issue of *Epidemics* on [Challenges in Modelling Infectious Disease Dynamics](http://www.sciencedirect.com/science/journal/17554365/10).
 * Grassly, N. C., & Fraser, C. (2008). [Mathematical Models of Infectious Disease Transmission](http://www.nature.com/nrmicro/journal/v6/n6/full/nrmicro1845.html). Nature Reviews Microbiology, 6(6), 477-487.
 * Hethcote, H. W. (2000). [The Mathematics of Infectious Diseases](http://epubs.siam.org/doi/abs/10.1137/S0036144500371907). SIAM review, 42(4), 599-653.
+
+## Seasonality of Influenza
+*Review Papers*
+
+* Rates, C. (2011). [Global Influenza Seasonality: Reconciling Patterns Across Temperate and Tropical Regions](http://ehp.niehs.nih.gov/1002383/). Environmental health perspectives, 119(4), 439.
+* Fuhrmann, C. (2010). [The Effects of Weather and Climate on the Seasonality of Influenza: What We Know and What We Need to Know](http://onlinelibrary.wiley.com/doi/10.1111/j.1749-8198.2010.00343.x/full). Geography Compass, 4(7), 718-730.
+* Lipsitch, M., & Viboud, C. (2009). [Influenza Seasonality: Lifting the Fog](http://www.pnas.org/content/106/10/3645.short). Proceedings of the National Academy of Sciences, 106(10), 3645-3646.
+* Lofgren, E., Fefferman, N. H., Naumov, Y. N., Gorski, J., & Naumova, E. N. (2007). [Influenza Seasonality: Underlying Causes and Modeling Theories](http://jvi.asm.org/content/81/11/5429.short). Journal of virology, 81(11), 5429-5436.
 
 ## Surveillence of Influenza
 
