@@ -60,8 +60,8 @@
 
 *Projects*
 
-* [Google Flu Trends](https://www.google.org/flutrends/intl/en_us/)
-* [HealthMap](http://www.healthmap.org/en/): flu & Ebola map | virus & contagious disease surveillence 
+* [Google Flu Trends](https://www.google.org/flutrends/intl/en_us/): using aggregated Google search data to estimate flu activity.
+* [HealthMap](http://www.healthmap.org/en/): flu & Ebola map | virus & contagious disease surveillence.
 
 ## Databases for Influenza Research
 
@@ -69,7 +69,7 @@
 * [Weekly U.S. Influenza Surveillance Report](http://www.cdc.gov/flu/weekly/)
   - [FluView](http://gis.cdc.gov/grasp/fluview/fluportaldashboard.html): national and regional level outpatient illness and viral surveillence.
   - [FluView](http://gis.cdc.gov/grasp/fluview/main.html): influenza-like illness (ILI) activity level indicator determined by data reported to ILINet.
-* Data from [Google Flu Trends](https://www.google.org/flutrends/intl/en_us/)
+* Estimated flu activity from [Google Flu Trends](https://www.google.org/flutrends/intl/en_us/)
 * [Influenza Research Database (IRD)](http://www.fludb.org/): global public database and analysis resource for the study of influenza viruses.
 * [NCBI Influenza Virus Resource](http://www.ncbi.nlm.nih.gov/genomes/FLU/)
 * [Global Initiative on Sharing Avian Influenza Data (GISAID)](http://platform.gisaid.org/)
