@@ -5,7 +5,8 @@
 - [Modeling Infectious Diseases](#modeling-infectious-diseases)
 - [Seasonality of Influenza](#seasonality-of-influenza)
 - [Surveillence of Influenza](#surveillence-of-influenza)
-  - [Digital Disease Detection](#digital-disease-detection)
+  - [Forecasting Dynamics of Influenza](#forecasting-dynamics-of-influenza)
+  - [Digital Detection of Influenza](#digital-disease-detection)
 - [Databases for Influenza Research](#databases-for-influenza-research)
 - [Workshops and Conferences](#workshops-and-conferences)
 - [MOOCs](#moocs)
@@ -20,7 +21,8 @@
   - Forecasting
 * Surveillence of Influenza
 * Ecology of Influenza
-* [Phylogeography](http://en.wikipedia.org/wiki/Phylogeography)
+* Evolution of Influenza
+  - [Phylogeography](http://en.wikipedia.org/wiki/Phylogeography)
 
 ## Ecology and Evolution of Influenza
 *Textbook*
@@ -58,8 +60,13 @@
 * Lofgren, E., Fefferman, N. H., Naumov, Y. N., Gorski, J., & Naumova, E. N. (2007). [Influenza Seasonality: Underlying Causes and Modeling Theories](http://jvi.asm.org/content/81/11/5429.short). Journal of virology, 81(11), 5429-5436.
 
 ## Surveillence of Influenza
+### Forecasting Dynamics of Influenza
+*Review Papers*
 
-### Digital Disease Detection
+* Nsoesie, E. O., Brownstein, J. S., Ramakrishnan, N., & Marathe, M. V. (2014). [A Systematic Review of Studies on Forecasting the Dynamics of Influenza Outbreaks](http://onlinelibrary.wiley.com/doi/10.1111/irv.12226/full). Influenza and other respiratory viruses, 8(3), 309-316.
+* Chretien, J. P., George, D., Shaman, J., Chitale, R. A., & McKenzie, F. E. (2014). [Influenza Forecasting in Human Populations: a Scoping Review](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094130). PloS one, 9(4), e94130.
+
+### Digital Detection of Influenza
 *Review Paper*
 
 * Salathe, M., Bengtsson, L., Bodnar, T. J., Brewer, D. D., Brownstein, J. S., Buckee, C., ... & Vespignani, A. (2012). [Digital Epidemiology](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002616). PLoS computational biology, 8(7), e1002616.
