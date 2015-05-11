@@ -4,6 +4,7 @@
 - [Ecology and Evolution of Influenza](#ecology-and-evolution-of-influenza)
 - [Modeling Infectious Diseases](#modeling-infectious-diseases)
 - [Surveillence of Influenza](#surveillence-of-influenza)
+  - [Digital Disease Detection](#digital-disease-detection)
 - [Databases for Influenza Research](#databases-for-influenza-research)
 - [Workshops and Conferences](#workshops-and-conferences)
 - [MOOCs](#moocs)
