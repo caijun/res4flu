@@ -15,6 +15,7 @@
 ## Topics and Keywords
 * [Influenza](http://en.wikipedia.org/wiki/Influenza) | Flu
 * Pandemic vs. Epidemic
+* Antigenic Shift vs. Antigenic Drift
 * Epidemiology of Influenza
 * Modeling Influenza
   - Transmission
