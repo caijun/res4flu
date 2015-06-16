@@ -103,7 +103,9 @@
 ## MOOCs
 *Massive open online courses*
 
-* [Epidemics - the Dynamics of Infectious Diseases](https://www.coursera.org/course/epidemics): a course about the dynamics of Malaria, HIV/AIDS, Influenza, Measles - how they emerge, how they spread around the globe, and how they can best be controlled.
+* [Epidemics - the Dynamics of Infectious Diseases](https://www.coursera.org/course/epidemics): a course provided by the Pennsylvania State University discusses about the dynamics of Malaria, HIV/AIDS, Influenza, Measles - how they emerge, how they spread around the globe, and how they can best be controlled.
+
+* [Epidemics](https://www.edx.org/course/epidemics-hkux-hku01x-0): a course provided by the University of Hong Kong covers these four topics: origins of novel pathogens; analysis of the spread of infectious diseases; medical and public health countermeasures to prevent and control epidemics; panel discussions involving leading public health experts with deep frontline experiences to share their views on risk communication, crisis management, ethics and public trust in the context of infectious disease control. 
 
 ## Contributing
 
