@@ -3,6 +3,7 @@
 - [Topics and Keywords](#topics-and-keywords)
 - [Ecology and Evolution of Influenza](#ecology-and-evolution-of-influenza)
 - [Modeling Infectious Diseases](#modeling-infectious-diseases)
+- [Infectious Diseases Epidemiology](#infectious-diseases-epidemiology)
 - [Seasonality of Influenza](#seasonality-of-influenza)
 - [Surveillence of Influenza](#surveillence-of-influenza)
   - [Forecasting Dynamics of Influenza](#forecasting-dynamics-of-influenza)
@@ -50,6 +51,11 @@
 * A Special Issue of *Epidemics* on [Challenges in Modelling Infectious Disease Dynamics](http://www.sciencedirect.com/science/journal/17554365/10).
 * Grassly, N. C., & Fraser, C. (2008). [Mathematical Models of Infectious Disease Transmission](http://www.nature.com/nrmicro/journal/v6/n6/full/nrmicro1845.html). Nature Reviews Microbiology, 6(6), 477-487.
 * Hethcote, H. W. (2000). [The Mathematics of Infectious Diseases](http://epubs.siam.org/doi/abs/10.1137/S0036144500371907). SIAM review, 42(4), 599-653.
+
+## Infectious Diseases Epidemiology
+*Textbooks*
+
+* Leon Gordis. (2013). [Epidemiology](http://www.amazon.com/Epidemiology-STUDENT-CONSULT-Online-Access/dp/145573733X). Elsevier: Saunders.
 
 ## Seasonality of Influenza
 *Review Papers*
