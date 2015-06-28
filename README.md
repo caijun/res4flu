@@ -55,7 +55,7 @@
 ## Infectious Diseases Epidemiology
 *Textbooks*
 
-* Leon Gordis. (2013). [Epidemiology](http://www.amazon.com/Epidemiology-STUDENT-CONSULT-Online-Access/dp/145573733X). Elsevier: Saunders.
+* Gordis, L. (2013). [Epidemiology](http://www.amazon.com/Epidemiology-STUDENT-CONSULT-Online-Access/dp/145573733X). Elsevier: Saunders.
 
 ## Seasonality of Influenza
 *Review Papers*
