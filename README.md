@@ -8,7 +8,7 @@
 - [Dynamics of Influenza](#dynamics-of-influenza)
   - [Influenza Transmission](#influenza-transmission)
   - [Influenza Forecasting](#influenza-forecasting)
-  - [Digital Detection of Influenza](#digital-disease-detection)
+  - [Digital Detection of Influenza](#digital-detection-of-influenza)
 - [Databases for Influenza Research](#databases-for-influenza-research)
 - [Workshops and Conferences](#workshops-and-conferences)
 - [MOOCs](#moocs)
