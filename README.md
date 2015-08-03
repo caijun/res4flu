@@ -1,9 +1,9 @@
 # Resources for Influenza Research
 
+- [Infectious Diseases Epidemiology](#infectious-diseases-epidemiology)
+- [Modeling Infectious Diseases](#modeling-infectious-diseases)
 - [Topics and Keywords](#topics-and-keywords)
 - [Ecology and Evolution of Influenza](#ecology-and-evolution-of-influenza)
-- [Modeling Infectious Diseases](#modeling-infectious-diseases)
-- [Infectious Diseases Epidemiology](#infectious-diseases-epidemiology)
 - [Seasonality of Influenza](#seasonality-of-influenza)
 - [Surveillence of Influenza](#surveillence-of-influenza)
   - [Forecasting Dynamics of Influenza](#forecasting-dynamics-of-influenza)
@@ -24,19 +24,11 @@
 * Ecology of Influenza
 * Evolution of Influenza
   - [Phylogeography](http://en.wikipedia.org/wiki/Phylogeography)
+  
+## Infectious Diseases Epidemiology
+*Textbooks*
 
-## Ecology and Evolution of Influenza
-*Textbook*
-
-* Webster, R. G., Monto, A. S., Braciale, T. J., & Lamb, R. A. (2014). [Textbook of Influenza](http://www.amazon.com/Textbook-Influenza-Robert-G-Webster/dp/0470670487/). John Wiley & Sons.
-
-*Review Papers*
-
-* Nelson, M. I., & Holmes, E. C. (2007). [The Evolution of Epidemic Influenza](http://www.nature.com/nrg/journal/v8/n3/abs/nrg2053.html). Nature reviews genetics, 8(3), 196-205.
-* Earn, D. J., Dushoff, J., & Levin, S. A. (2002). [Ecology and Evolution of the Flu](http://www.sciencedirect.com/science/article/pii/S0169534702025028). Trends in ecology & evolution, 17(7), 334-340.
-* Potter, C. W. (2001). [A History of Influenza](http://onlinelibrary.wiley.com/doi/10.1046/j.1365-2672.2001.01492.x/full). Journal of applied microbiology, 91(4), 572-579.
-* Cox, N. J., & Subbarao, K. (2000). [Global Epidemiology of Influenza: Past and Present](http://www.annualreviews.org/doi/abs/10.1146/annurev.med.51.1.407). Annual review of medicine, 51(1), 407-421.
-* Webster, R. G., Bean, W. J., Gorman, O. T., Chambers, T. M., & Kawaoka, Y. (1992). [Evolution and Ecology of Influenza A Viruses](http://mmbr.asm.org/content/56/1/152.short). Microbiological reviews, 56(1), 152-179.
+* Gordis, L. (2013). [Epidemiology](http://www.amazon.com/Epidemiology-STUDENT-CONSULT-Online-Access/dp/145573733X). Elsevier: Saunders.
 
 ## Modeling Infectious Diseases
 *Textbooks*
@@ -56,10 +48,18 @@
 
 * Rvachev, L. A., & Longini, I. M. (1985). [A Mathematical Model for the Global Spread of Influenza](http://www.sciencedirect.com/science/article/pii/0025556485900641). Mathematical biosciences, 75(1), 3-22.
 
-## Infectious Diseases Epidemiology
-*Textbooks*
+## Ecology and Evolution of Influenza
+*Textbook*
 
-* Gordis, L. (2013). [Epidemiology](http://www.amazon.com/Epidemiology-STUDENT-CONSULT-Online-Access/dp/145573733X). Elsevier: Saunders.
+* Webster, R. G., Monto, A. S., Braciale, T. J., & Lamb, R. A. (2014). [Textbook of Influenza](http://www.amazon.com/Textbook-Influenza-Robert-G-Webster/dp/0470670487/). John Wiley & Sons.
+
+*Review Papers*
+
+* Nelson, M. I., & Holmes, E. C. (2007). [The Evolution of Epidemic Influenza](http://www.nature.com/nrg/journal/v8/n3/abs/nrg2053.html). Nature reviews genetics, 8(3), 196-205.
+* Earn, D. J., Dushoff, J., & Levin, S. A. (2002). [Ecology and Evolution of the Flu](http://www.sciencedirect.com/science/article/pii/S0169534702025028). Trends in ecology & evolution, 17(7), 334-340.
+* Potter, C. W. (2001). [A History of Influenza](http://onlinelibrary.wiley.com/doi/10.1046/j.1365-2672.2001.01492.x/full). Journal of applied microbiology, 91(4), 572-579.
+* Cox, N. J., & Subbarao, K. (2000). [Global Epidemiology of Influenza: Past and Present](http://www.annualreviews.org/doi/abs/10.1146/annurev.med.51.1.407). Annual review of medicine, 51(1), 407-421.
+* Webster, R. G., Bean, W. J., Gorman, O. T., Chambers, T. M., & Kawaoka, Y. (1992). [Evolution and Ecology of Influenza A Viruses](http://mmbr.asm.org/content/56/1/152.short). Microbiological reviews, 56(1), 152-179.
 
 ## Seasonality of Influenza
 *Review Papers*
