@@ -5,8 +5,9 @@
 - [Topics and Keywords](#topics-and-keywords)
 - [Ecology and Evolution of Influenza](#ecology-and-evolution-of-influenza)
 - [Seasonality of Influenza](#seasonality-of-influenza)
-- [Surveillence of Influenza](#surveillence-of-influenza)
-  - [Forecasting Dynamics of Influenza](#forecasting-dynamics-of-influenza)
+- [Dynamics of Influenza](#dynamics-of-influenza)
+  - [Influenza Transmission](#influenza-transmission)
+  - [Influenza Forecasting](#influenza-forecasting)
   - [Digital Detection of Influenza](#digital-disease-detection)
 - [Databases for Influenza Research](#databases-for-influenza-research)
 - [Workshops and Conferences](#workshops-and-conferences)
@@ -44,10 +45,6 @@
 * Grassly, N. C., & Fraser, C. (2008). [Mathematical Models of Infectious Disease Transmission](http://www.nature.com/nrmicro/journal/v6/n6/full/nrmicro1845.html). Nature Reviews Microbiology, 6(6), 477-487.
 * Hethcote, H. W. (2000). [The Mathematics of Infectious Diseases](http://epubs.siam.org/doi/abs/10.1137/S0036144500371907). SIAM review, 42(4), 599-653.
 
-*Classical Paper*
-
-* Rvachev, L. A., & Longini, I. M. (1985). [A Mathematical Model for the Global Spread of Influenza](http://www.sciencedirect.com/science/article/pii/0025556485900641). Mathematical biosciences, 75(1), 3-22.
-
 ## Ecology and Evolution of Influenza
 *Textbook*
 
@@ -69,8 +66,14 @@
 * Lipsitch, M., & Viboud, C. (2009). [Influenza Seasonality: Lifting the Fog](http://www.pnas.org/content/106/10/3645.short). Proceedings of the National Academy of Sciences, 106(10), 3645-3646.
 * Lofgren, E., Fefferman, N. H., Naumov, Y. N., Gorski, J., & Naumova, E. N. (2007). [Influenza Seasonality: Underlying Causes and Modeling Theories](http://jvi.asm.org/content/81/11/5429.short). Journal of virology, 81(11), 5429-5436.
 
-## Surveillence of Influenza
-### Forecasting Dynamics of Influenza
+## Dynamics of Influenza
+### Influenza Transmission
+
+*Classical Paper*
+
+* Rvachev, L. A., & Longini, I. M. (1985). [A Mathematical Model for the Global Spread of Influenza](http://www.sciencedirect.com/science/article/pii/0025556485900641). Mathematical biosciences, 75(1), 3-22.
+
+### Influenza Forecasting
 *Review Papers*
 
 * Nsoesie, E. O., Brownstein, J. S., Ramakrishnan, N., & Marathe, M. V. (2014). [A Systematic Review of Studies on Forecasting the Dynamics of Influenza Outbreaks](http://onlinelibrary.wiley.com/doi/10.1111/irv.12226/full). Influenza and other respiratory viruses, 8(3), 309-316.
