@@ -54,7 +54,7 @@
 
 *Classical Paper*
 
-Rvachev, L. A., & Longini, I. M. (1985). [A Mathematical Model for the Global Spread of Influenza](http://www.sciencedirect.com/science/article/pii/0025556485900641). Mathematical biosciences, 75(1), 3-22.
+* Rvachev, L. A., & Longini, I. M. (1985). [A Mathematical Model for the Global Spread of Influenza](http://www.sciencedirect.com/science/article/pii/0025556485900641). Mathematical biosciences, 75(1), 3-22.
 
 ## Infectious Diseases Epidemiology
 *Textbooks*
