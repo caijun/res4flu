@@ -100,7 +100,7 @@
   - [FluView](http://gis.cdc.gov/grasp/fluview/fluportaldashboard.html): national and regional level outpatient illness and viral surveillence.
   - [FluView](http://gis.cdc.gov/grasp/fluview/main.html): influenza-like illness (ILI) activity level indicator determined by data reported to ILINet.
 * Estimated flu activity from [Google Flu Trends](https://www.google.org/flutrends/intl/en_us/)
-* [Influenza Research Database (IRD)](http://www.fludb.org/): global public database and analysis resource for the study of influenza viruses.
+* [Influenza Research Database (IRD)](http://www.fludb.org/): global public database and analysis resource for the study of influenza viruses. A detailed introduction to IRD can be found in Squires, R. B., Noronha, J., Hunt, V., García‐Sastre, A., Macken, C., Baumgarth, N., ... & Ramsey, A. (2012). [Influenza Research Database: an Integrated Bioinformatics Resource for Influenza Research and Surveillance](http://onlinelibrary.wiley.com/doi/10.1111/j.1750-2659.2011.00331.x/full). Influenza and other respiratory viruses, 6(6), 404-416.
 * [NCBI Influenza Virus Resource](http://www.ncbi.nlm.nih.gov/genomes/FLU/)
 * [Global Initiative on Sharing Avian Influenza Data (GISAID)](http://platform.gisaid.org/)
 * [EMPRES Global Animal Disease Information System (EMPRES-i)](http://empres-i.fao.org/eipws3g/)
