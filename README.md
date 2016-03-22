@@ -105,6 +105,7 @@
 * [Global Initiative on Sharing Avian Influenza Data (GISAID)](http://platform.gisaid.org/)
 * [EMPRES Global Animal Disease Information System (EMPRES-i)](http://empres-i.fao.org/eipws3g/)
 * [FluWeb Historical Influenza Database](http://influenza.sph.unimelb.edu.au/): free access to a number of rare and valuable sources of data concerning past influenza outbreaks.
+* [Project Tycho®](http://www.tycho.pitt.edu/): currently including data from all weekly notifiable disease (*influenza* and *pneumonia* included) reports for the United States dating back to 1888.
 
 ## Workshops and Conferences
 
