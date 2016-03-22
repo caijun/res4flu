@@ -10,6 +10,7 @@
   - [Influenza Forecasting](#influenza-forecasting)
   - [Digital Detection of Influenza](#digital-detection-of-influenza)
 - [Databases for Influenza Research](#databases-for-influenza-research)
+- [Software Packages for Influenza Research](#software-packages-for-influenza-research)
 - [Workshops and Conferences](#workshops-and-conferences)
 - [MOOCs](#moocs)
 - [Contributing](#contributing)
@@ -105,7 +106,13 @@
 * [Global Initiative on Sharing Avian Influenza Data (GISAID)](http://platform.gisaid.org/)
 * [EMPRES Global Animal Disease Information System (EMPRES-i)](http://empres-i.fao.org/eipws3g/)
 * [FluWeb Historical Influenza Database](http://influenza.sph.unimelb.edu.au/): free access to a number of rare and valuable sources of data concerning past influenza outbreaks.
-* [Project Tycho®](http://www.tycho.pitt.edu/): currently including data from all weekly notifiable disease (*influenza* and *pneumonia* included) reports for the United States dating back to 1888.
+* [Project Tycho®](http://www.tycho.pitt.edu/): currently including data from all weekly notifiable disease (containing **influenza** and **pneumonia**) reports for the United States dating back to 1888.
+
+## Software Packages for Influenza Research
+*R Packages*
+
+* [R0](https://cran.r-project.org/web/packages/R0/index.html): Estimation of R0 and Real-Time Reproduction Number from Epidemics.
+* [EpiDynamics](https://cran.r-project.org/web/packages/EpiDynamics/index.html): Dynamic Models in Epidemiology. Currently, the R package **EpiDynamics** implements the computer programs written in other programming languages and available in the web page of the book Keeling, M. J., & Rohani, P. (2008). [Modeling Infectious Diseases in Humans and Animals](http://www.amazon.com/Modeling-Infectious-Diseases-Humans-Animals/dp/0691116172/). Princeton University Press.
 
 ## Workshops and Conferences
 
@@ -115,7 +122,7 @@
 * [Annual Ecology and Evolution of Infectious Disease Conference](http://eeidconference.org/)
 
 ## MOOCs
-*Massive open online courses*
+*Massive Open Online Courses*
 
 * [Epidemics - the Dynamics of Infectious Diseases](https://www.coursera.org/course/epidemics): a course provided by the Pennsylvania State University discusses about the dynamics of Malaria, HIV/AIDS, Influenza, Measles - how they emerge, how they spread around the globe, and how they can best be controlled.
 
