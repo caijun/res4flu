@@ -100,6 +100,7 @@
 * [Weekly U.S. Influenza Surveillance Report](http://www.cdc.gov/flu/weekly/)
   - [FluView](http://gis.cdc.gov/grasp/fluview/fluportaldashboard.html): national and regional level outpatient illness and viral surveillence.
   - [FluView](http://gis.cdc.gov/grasp/fluview/main.html): influenza-like illness (ILI) activity level indicator determined by data reported to ILINet.
+* Weekly influenza reports from [China National Influenza Center](http://www.cnic.org.cn/chn/down/?typeid=20)
 * Estimated flu activity from [Google Flu Trends](https://www.google.org/flutrends/intl/en_us/)
 * [FluWeb Historical Influenza Database](http://influenza.sph.unimelb.edu.au/): free access to a number of rare and valuable sources of data concerning past influenza outbreaks.
 * [Project Tycho®](http://www.tycho.pitt.edu/): currently including data from all weekly notifiable disease (containing **influenza** and **pneumonia**) reports for the United States dating back to 1888.
