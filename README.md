@@ -122,6 +122,11 @@
 * [EpiModel](https://cran.r-project.org/web/packages/EpiModel/index.html): Mathematical Modeling of Infectious Disease.
 * [epitools](https://cran.r-project.org/web/packages/epitools/index.html): EpiTools: R Package for Epidemiologic Data and Graphics.
 
+*Python Packages*
+
+* [pypfilt](http://pypfilt.readthedocs.io/en/latest/): Bootstrap particle filter for epidemic forecasting.
+* [epifx](http://epifx.readthedocs.io/en/latest/): Epidemic forecasting with mechanistic infection models.
+
 ## Workshops and Conferences
 
 * [Multinational Influenza Seasonal Mortality Study (MISMS) Workshop](http://www.origem.info/misms/)
