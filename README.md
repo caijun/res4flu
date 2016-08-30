@@ -125,6 +125,7 @@
 ## Workshops and Conferences
 
 * [Multinational Influenza Seasonal Mortality Study (MISMS) Workshop](http://www.origem.info/misms/)
+* [Options for the Control of Influenza Conference](https://www.isirv.org/site/)
 * [International Conference on Emerging Infectious Diseases](http://www.iceid.org/)
 * [Epidemics: International Conference on Infectious Disease Dynamics](http://www.epidemics.elsevier.com/)
 * [Annual Ecology and Evolution of Infectious Disease Conference](http://eeidconference.org/)
