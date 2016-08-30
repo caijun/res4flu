@@ -114,13 +114,10 @@
 *R Packages*
 
 * [R0](https://cran.r-project.org/web/packages/R0/index.html): Estimation of R0 and Real-Time Reproduction Number from Epidemics.
-* [EpiEstim](https://cran.r-project.org/web/packages/EpiEstim/index.html): a package to estimate time varying reproduction numbers from epidemic curves.
-* [surveillance](https://cran.r-project.org/web/packages/surveillance/index.html): Temporal and Spatio-Temporal Modeling and Monitoring of Epidemic Phenomena.
-* [OutbreakTools](https://cran.r-project.org/web/packages/OutbreakTools/index.html): Basic Tools for the Analysis of Disease Outbreaks.
-* [outbreaker](https://cran.r-project.org/web/packages/outbreaker/index.html): Bayesian Reconstruction of Disease Outbreaks by Combining Epidemiologic and Genomic Data.
 * [EpiDynamics](https://cran.r-project.org/web/packages/EpiDynamics/index.html): Dynamic Models in Epidemiology. Currently, the R package **EpiDynamics** implements the computer programs written in other programming languages and available in [the web page of the book](http://www.modelinginfectiousdiseases.org/) Keeling, M. J., & Rohani, P. (2008). [Modeling Infectious Diseases in Humans and Animals](http://www.amazon.com/Modeling-Infectious-Diseases-Humans-Animals/dp/0691116172/). Princeton University Press.
 * [EpiModel](https://cran.r-project.org/web/packages/EpiModel/index.html): Mathematical Modeling of Infectious Disease.
 * [epitools](https://cran.r-project.org/web/packages/epitools/index.html): EpiTools: R Package for Epidemiologic Data and Graphics.
+* [The R-epi project](https://sites.google.com/site/therepiproject/home): lists resources for infectious disease epidemiology using the R software. These resources include an overview of R packages, alongside dedicated documentation, cross-packages tutorials, and links to relevant forums of discussion.
 
 *Python Packages*
 
