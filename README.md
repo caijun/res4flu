@@ -38,6 +38,7 @@
 * Anderson, R. M., & May, R. M. (1991). [Infectious Diseases of Humans: Dynamics and Control](http://www.amazon.com/Infectious-Diseases-Humans-Dynamics-Publications/dp/019854040X). Oxford: Oxford university press.
 * Keeling, M. J., & Rohani, P. (2008). [Modeling Infectious Diseases in Humans and Animals](http://www.amazon.com/Modeling-Infectious-Diseases-Humans-Animals/dp/0691116172/). Princeton University Press.
 * Sattenspiel, L. (2009). [The Geographic Spread of Infectious Diseases: Models and Applications](http://www.amazon.com/Geographic-Spread-Infectious-Diseases-Computational/dp/069112132X/). Princeton University Press.
+* Vynnycky, E., & White, R. (2010). [An introduction to infectious disease modelling](https://www.amazon.com/Introduction-Infectious-Disease-Modelling/dp/0198565763). Oxford University Press.
 * Fine, P. (1981). [Influenza Models: Prospects for Development and Use](http://www.springer.com/gp/book/9789401180528). Proceedings of a Working Group on Epidemiological Models of Influenza and Their Practical Application.
 
 *Review Papers*
