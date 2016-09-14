@@ -99,6 +99,7 @@
 ## Databases for Influenza Research
 
 * [WHO FluNet](http://www.who.int/influenza/gisrs_laboratory/flunet/en/): a global tool for influenza virological surveillance.
+* [WHO FluID](http://www.who.int/influenza/surveillance_monitoring/fluid/en/): a data collection tool to collect defined epidemiological indicators and data on seasonal and pandemic Influenza from national, regional and global systems on a weekly basis. It complements the existing virological data collection tool FluNet. 
 * [Weekly U.S. Influenza Surveillance Report](http://www.cdc.gov/flu/weekly/)
   - [FluView](http://gis.cdc.gov/grasp/fluview/fluportaldashboard.html): national and regional level outpatient illness and viral surveillence.
   - [FluView](http://gis.cdc.gov/grasp/fluview/main.html): influenza-like illness (ILI) activity level indicator determined by data reported to ILINet.
