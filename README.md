@@ -147,6 +147,7 @@
 | item | symbol | definition | source | Chinese |
 | ------| ------ | ------ | ------ | ------ |
 | basic reproduction number | R_0 | the expected number of secondary cases produced by a typical primary case in an **entirely susceptible population**. | Wallinga, J., & Teunis, P. (2004). Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures. American Journal of Epidemiology, 160(6), 509-516. | 基本再生数 |
+| emerging infectious disease (EID) |  | an infectious disease whose incidence has increased in the past 20 years and could increase in the near future. | https://en.wikipedia.org/wiki/Emerging_infectious_disease#cite_note-1 | 新发传染病 |
 
 ## Contributing
 
