@@ -148,7 +148,7 @@
 | ------| ------ | ------ | ------ | ------ |
 | index case, primary case |  |  | https://en.wikipedia.org/wiki/Index_case | 指示病例，原发病例 |
 | secondary case |  |  |  | 二代病例，继发病例 |
-| generation interval, serial interval, generation time |  | the time from symptom onset in a primary case to symptom onset in a secondary case |  | 传代间期 |
+| generation interval, serial interval, generation time |  | the time from symptom onset in a primary case to symptom onset in a secondary case | Wallinga, J., & Teunis, P. (2004). Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures. American Journal of Epidemiology, 160(6), 509-516. | 传代间期 |
 | basic reproduction number | R_0 | the expected number of secondary cases produced by a typical primary case in an **entirely susceptible population**. | Wallinga, J., & Teunis, P. (2004). Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures. American Journal of Epidemiology, 160(6), 509-516. | 基本再生数 |
 | effective reproduction number | R | a population will rarely be totally susceptible to an infection in the real world. The effective reproductive number estimates the average number of secondary cases per infectious case in a population made up of both susceptible and non-susceptible hosts. | http://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/epidemic-theory | 有效再生数 |
 | incubation period |  |  |  |  |
