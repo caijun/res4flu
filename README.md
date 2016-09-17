@@ -13,6 +13,7 @@
 - [Software Packages for Influenza Research](#software-packages-for-influenza-research)
 - [Workshops and Conferences](#workshops-and-conferences)
 - [MOOCs](#moocs)
+- [Glossary](#glossary)
 - [Contributing](#contributing)
 
 ## Topics and Keywords
@@ -140,7 +141,12 @@
 
 * [Epidemics - the Dynamics of Infectious Diseases](https://www.coursera.org/course/epidemics): a course provided by the Pennsylvania State University discusses about the dynamics of Malaria, HIV/AIDS, Influenza, Measles - how they emerge, how they spread around the globe, and how they can best be controlled.
 
-* [Epidemics](https://www.edx.org/course/epidemics-hkux-hku01x-0): a course provided by the University of Hong Kong covers these four topics: origins of novel pathogens; analysis of the spread of infectious diseases; medical and public health countermeasures to prevent and control epidemics; panel discussions involving leading public health experts with deep frontline experiences to share their views on risk communication, crisis management, ethics and public trust in the context of infectious disease control. 
+* [Epidemics](https://www.edx.org/course/epidemics-hkux-hku01x-0): a course provided by the University of Hong Kong covers these four topics: origins of novel pathogens; analysis of the spread of infectious diseases; medical and public health countermeasures to prevent and control epidemics; panel discussions involving leading public health experts with deep frontline experiences to share their views on risk communication, crisis management, ethics and public trust in the context of infectious disease control.
+
+## Glossary
+| item | symbol | definition | source | Chinese |
+| ------| ------ | ------ | ------ | ------ |
+| basic reproduction number | R_0 | the expected number of secondary cases produced by a typical primary case in an **entirely susceptible population**. | Wallinga, J., & Teunis, P. (2004). Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures. American Journal of Epidemiology, 160(6), 509-516. | 基本再生数 |
 
 ## Contributing
 
