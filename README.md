@@ -148,17 +148,11 @@
 | ------| ------ | ------ | ------ | ------ |
 | index case, primary case |  |  | https://en.wikipedia.org/wiki/Index_case | 指示病例，原发病例 |
 | secondary case |  |  |  | 二代病例，继发病例 |
-
 | basic reproduction number | R_0 | the expected number of secondary cases produced by a typical primary case in an **entirely susceptible population**. | Wallinga, J., & Teunis, P. (2004). Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures. American Journal of Epidemiology, 160(6), 509-516. | 基本再生数 |
-
 | effective reproduction number | R | a population will rarely be totally susceptible to an infection in the real world. The effective reproductive number estimates the average number of secondary cases per infectious case in a population made up of both susceptible and non-susceptible hosts. | http://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/epidemic-theory | 有效再生数 |
-
 | herd immunity |  | a form of indirect protection from infectious disease that occurs when a large percentage of a population has become immune to an infection, thereby providing a measure of protection for individuals who are not immune. | https://en.wikipedia.org/wiki/Herd_immunity | 群体免疫 |
-
 | epidemic |  | an increase in the frequency of occurrence of a disease in a population above its baseline or expected level in a given period. | https://en.wikipedia.org/wiki/Epidemic | 流行病 |
-
 | epidemic curve |  | the frequency of new cases over time based on the date of onset of disease. | http://sphweb.bumc.bu.edu/otlt/MPH-Modules/EP/EP713_DescriptiveEpi/EP713_DescriptiveEpi3.html | 流行曲线 |
-
 | emerging infectious disease (EID) |  | an infectious disease whose incidence has increased in the past 20 years and could increase in the near future. | https://en.wikipedia.org/wiki/Emerging_infectious_disease | 新发传染病 |
 
 ## Contributing
