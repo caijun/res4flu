@@ -202,10 +202,45 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
   - Source: Milwid et al. (2016), Fine (2003).
   - Chinese: 传代间期
   
++ **Morbidity (rate)**
+  - Definition: Morbidity is another term for illness.
+  - Source: https://www.health.ny.gov/diseases/chronic/basicstat.htm
+  - Chinese: 发病率
+
++ **Mortality (rate)**
+  - Definition: Mortality is another term for death.
+  - Source: https://www.health.ny.gov/diseases/chronic/basicstat.htm
+  - Chinese: 死亡率
+  
++ **Incidence**
+  - Definition: Disease incidence is defined by both epidemiologists and modelers as the number of **new** cases in a population generated within a certain time period.
+  - Source: Milwid et al. (2016).
+  - Chinese: 发病率
+
++ **Prevalence**
+  - Definition: Disease prevalence is defined as the number of cases of a disease at a single time point in a population.
+  - Source: Milwid et al. (2016).
+  - Chinese: 现患率
+  
++ **Attack rate**
+  - Definition: The attack rate describes the proportion of the population that becomes **infected** over a specified period of time.
+  - Source: Milwid et al. (2016).
+  - Chinese: 罹患率
+  
++ **Clinical attack rate**
+  - Definition: The clinical attack rate measures the proportion fo the population that develops disease **symptoms** as a result of an infection.
+  - Source: Milwid et al. (2016).
+  - Chinese: 临床罹患率
+  
++ **Secondary attack rate**
+  - Definition: The secondary attack rate (SAR) is the probability that infection occurs among susceptible persons within a reasonable incubation period following known contact with an infectious person or another infectious source.
+  - Source: Armitage & Colton (2005).
+  - Chinese: 续发率
+  
 + **Basic reproduction number/ratio**
   - Symbol: R_0
   - Definition: the expected number of secondary cases produced by a typical primary case in an **entirely susceptible population**.
-  - Source: Wallinga, J., & Teunis, P. (2004). [Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures](http://aje.oxfordjournals.org/content/160/6/509.short). American Journal of Epidemiology, 160(6), 509-516.
+  - Source: Wallinga & Teunis (2004).
   - Chinese: 基本再生数
   
 + **Effective reproduction number/ratio**
@@ -236,6 +271,7 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
   
 *References*
 
+* Armitage, P., & Colton, T. (2005). [Encyclopedia of Biostatistics](http://onlinelibrary.wiley.com/book/10.1002/0470011815).
 * Fine, P. E. (2003). [The interval between successive cases of an infectious disease](http://aje.oxfordjournals.org/content/158/11/1039.short). American Journal of Epidemiology, 158(11), 1039-1047.
 * Milwid, R., Steriu, A., Arino, J., Heffernan, J., Hyder, A., Schanzer, D., ... & Moghadas, S. M. (2016). [Toward Standardizing a Lexicon of Infectious Disease Modeling Terms](http://journal.frontiersin.org/article/10.3389/fpubh.2016.00213/full). Frontiers in Public Health, 4.
 * Wallinga, J., & Teunis, P. (2004). [Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures](http://aje.oxfordjournals.org/content/160/6/509.short). American Journal of Epidemiology, 160(6), 509-516.
