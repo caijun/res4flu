@@ -176,19 +176,21 @@
   - Chinese: 二代病例，继发病例
   
 + **Latent period**
-  - Definition: the period between exposure and infection, since the pathogen is present in a 'latent' stage, without clinical symptoms or signes of infection in the host.
-  - Source: https://wiki.ecdc.europa.eu/fem/w/wiki/incubation-period-latent-period-and-generation-time
+  - Definition: The latent period refers to the period of time between exposure to a disease with successful transmission and the onset of **infectiousness**.
+  - Source: Milwid et al. (2016).
   - Chinese: 潜染期*
   
 + **Incubation period**
-  - Definition: the period between exposure and onset of clinical symptoms.
-  - Source: 
+  - Definition: The incubation period is defined as the period of time between exposure to the disease (if transmission occurs) and the onset of **clinical symptoms**.
+  - Source: Milwid et al. (2016).
   - Chinese: 潜伏期
   
 + **Infectious period**
-  - Definition: the time period during which the host is able to transmit an infection to any susceptible host or vector they contact. Note that the infectious period may not necessarily be associated with symptoms of the disease.
-  - Source: https://wiki.ecdc.europa.eu/fem/w/wiki/incubation-period-latent-period-and-generation-time
+  - Definition: The infectious period is defined as the time interval in which the infected individual is capable of transmitting the disease.
+  - Source: Milwid et al. (2016).
   - Chinese: 传染期
+
+The relationship of periods: latent, incubation, and infectious in the SEIR model is illustrated in Figure 1 of Milwid et al. (2016).
   
 + **Generation interval, Generation time**
   - Definition: In modeling, the generation interval refers to the period of time between the onset of **the infectious period** in a primary case to the onset of **the infectious period**  in a secondary case infected by the primary case.
@@ -207,7 +209,7 @@
   - Chinese: 基本再生数
   
 + **Effective reproduction number**
-  - Symbol: R_t
+  - Symbol: R
   - Definition: a population will rarely be totally susceptible to an infection in the real world. The effective reproductive number estimates the average number of secondary cases per infectious case in a population made up of both susceptible and non-susceptible hosts.
   - Source: http://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/epidemic-theory
   - Chinese: 有效再生数
