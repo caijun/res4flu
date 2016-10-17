@@ -151,8 +151,8 @@
 
 * Mishra, S., Fisman, D. N., & Boily, M. C. (2010). [The ABC of terms used in mathematical models of infectious diseases](http://jech.bmj.com/content/early/2010/10/21/jech.2009.097113.short). Journal of epidemiology and community health, jech-2009.
 
-
-- Index case, Primary case
+* Terms *
++ Index case, Primary case
   - symbol:
   - definition:
   - source: https://en.wikipedia.org/wiki/Index_case
