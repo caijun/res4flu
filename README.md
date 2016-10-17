@@ -175,30 +175,30 @@
   - Source: 
   - Chinese: 二代病例，继发病例
   
-+ **Generation interval, Generation time**
-  - Definition: In modeling, the generation interval refers to the period of time between the onset of the infectious period in a primary case to the onset of the infectious period  in a secondary case infected by the primary case.
-  - Source: Milwid et al. (2016), Wallinga & Teunis (2004).
-  - Chinese: 传代间期
-  
-+ **Serial interval**
-  - Definition: the time from symptom onset in a primary case to symptom onset in a secondary case.
-  - Source: Wallinga, J., & Teunis, P. (2004). [Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures](http://aje.oxfordjournals.org/content/160/6/509.short). American Journal of Epidemiology, 160(6), 509-516.
-  - Chinese: 传代间期
++ **Latent period**
+  - Definition: the period between exposure and infection, since the pathogen is present in a 'latent' stage, without clinical symptoms or signes of infection in the host.
+  - Source: https://wiki.ecdc.europa.eu/fem/w/wiki/incubation-period-latent-period-and-generation-time
+  - Chinese: 潜染期*
   
 + **Incubation period**
   - Definition: the period between exposure and onset of clinical symptoms.
   - Source: 
   - Chinese: 潜伏期
   
-+ **Latent period**
-  - Definition: the period between exposure and infection, since the pathogen is present in a 'latent' stage, without clinical symptoms or signes of infection in the host.
-  - Source: https://wiki.ecdc.europa.eu/fem/w/wiki/incubation-period-latent-period-and-generation-time
-  - Chinese: 潜染期*
-  
 + **Infectious period**
   - Definition: the time period during which the host is able to transmit an infection to any susceptible host or vector they contact. Note that the infectious period may not necessarily be associated with symptoms of the disease.
   - Source: https://wiki.ecdc.europa.eu/fem/w/wiki/incubation-period-latent-period-and-generation-time
   - Chinese: 传染期
+  
++ **Generation interval, Generation time**
+  - Definition: In modeling, the generation interval refers to the period of time between the onset of **the infectious period** in a primary case to the onset of **the infectious period**  in a secondary case infected by the primary case.
+  - Source: Milwid et al. (2016), Wallinga & Teunis (2004).
+  - Chinese: 传代间期
+  
++ **Serial interval**
+  - Definition: In epidemiology, the serial interval is defined as the period of time between the onset of **symptoms** in a primary case to the onset of **symptoms** in a secondary case infected by the primary case.
+  - Source: Milwid et al. (2016), Fine (2003).
+  - Chinese: 传代间期
   
 + **Basic reproduction number**
   - Symbol: R_0
@@ -234,6 +234,7 @@
   
 *References*
 
+* Fine, P. E. (2003). [The interval between successive cases of an infectious disease](http://aje.oxfordjournals.org/content/158/11/1039.short). American Journal of Epidemiology, 158(11), 1039-1047.
 * Milwid, R., Steriu, A., Arino, J., Heffernan, J., Hyder, A., Schanzer, D., ... & Moghadas, S. M. (2016). [Toward Standardizing a Lexicon of Infectious Disease Modeling Terms](http://journal.frontiersin.org/article/10.3389/fpubh.2016.00213/full). Frontiers in Public Health, 4.
 * Wallinga, J., & Teunis, P. (2004). [Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures](http://aje.oxfordjournals.org/content/160/6/509.short). American Journal of Epidemiology, 160(6), 509-516.
 
