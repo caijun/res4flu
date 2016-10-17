@@ -32,7 +32,7 @@
 *Textbooks*
 
 * Gordis, L. (2013). [Epidemiology](http://www.amazon.com/Epidemiology-STUDENT-CONSULT-Online-Access/dp/145573733X). Elsevier: Saunders.
-* Nelson, K. E., & Williams, C. (2013). [Infectious disease epidemiology](https://www.amazon.com/Infectious-Disease-Epidemiology-Theory-Practice/dp/1449683797). Jones & Bartlett Publishers.
++ Nelson, K. E., & Williams, C. (2013). [Infectious disease epidemiology](https://www.amazon.com/Infectious-Disease-Epidemiology-Theory-Practice/dp/1449683797). Jones & Bartlett Publishers.
   - Chapter 6 Infectious Disease Dynamics
   - Chapter 7 Geographic Information Systems
   - Chapter 15 Epidemiology and Prevention of Influenza
@@ -149,6 +149,14 @@
 
 ## Glossary
 *Review Papers*
+
+* Moghadas, S., & Laskowski, M. (2014). [Review of terms used in modelling influenza infection](http://nccid.ca/publications/review-of-terms-used-in-modelling-influenza-infection/). NCCID, 1-39.
+
+* Moghadas, S., & Laskowski, M. (2014). [A Logical Modelling Framework for Influenza Infection](http://nccid.ca/publications/a-logical-modelling-framework-for-influenza-infection/). NCCID, 1-24.
+
+* Milwid, R., Steriu, A., Arino, J., Heffernan, J., Hyder, A., Schanzer, D., ... & Moghadas, S. M. (2016). [Toward Standardizing a Lexicon of Infectious Disease Modeling Terms](http://journal.frontiersin.org/article/10.3389/fpubh.2016.00213/full). Frontiers in Public Health, 4.
+
+* Moghadas, S., & Milwid, R. (2016). [Glossary of Terms for Infectious Disease Modelling: A Proposal for Consistent Language](http://nccid.ca/publications/glossary-terms-infectious-disease-modelling-proposal-consistent-language/). NCCID, 1-3.
 
 * Mishra, S., Fisman, D. N., & Boily, M. C. (2010). [The ABC of terms used in mathematical models of infectious diseases](http://jech.bmj.com/content/early/2010/10/21/jech.2009.097113.short). Journal of epidemiology and community health, jech-2009.
 
