@@ -192,7 +192,7 @@
 
 The relationship of periods: latent, incubation, and infectious in the SEIR model is illustrated in Figure 1 of Milwid et al. (2016).
   
-+ **Generation interval, Generation time**
++ **Generation interval/time**
   - Definition: In modeling, the generation interval refers to the period of time between the onset of **the infectious period** in a primary case to the onset of **the infectious period**  in a secondary case infected by the primary case.
   - Source: Milwid et al. (2016), Wallinga & Teunis (2004).
   - Chinese: 传代间期
@@ -202,14 +202,14 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
   - Source: Milwid et al. (2016), Fine (2003).
   - Chinese: 传代间期
   
-+ **Basic reproduction number**
++ **Basic reproduction number/ratio**
   - Symbol: R_0
   - Definition: the expected number of secondary cases produced by a typical primary case in an **entirely susceptible population**.
   - Source: Wallinga, J., & Teunis, P. (2004). [Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures](http://aje.oxfordjournals.org/content/160/6/509.short). American Journal of Epidemiology, 160(6), 509-516.
   - Chinese: 基本再生数
   
-+ **Effective reproduction number**
-  - Symbol: R
++ **Effective reproduction number/ratio**
+  - Symbol: R_t
   - Definition: a population will rarely be totally susceptible to an infection in the real world. The effective reproductive number estimates the average number of secondary cases per infectious case in a population made up of both susceptible and non-susceptible hosts.
   - Source: http://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/epidemic-theory
   - Chinese: 有效再生数
