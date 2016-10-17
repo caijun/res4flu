@@ -157,64 +157,64 @@
 
 \* indicates the uncertatin entry
 
-+ Index case, Primary case
++ **Index case, Primary case**
   - definition:
   - source: https://en.wikipedia.org/wiki/Index_case
   - Chinese: 指示病例，原发病例
   
-+ Secondary case
++ **Secondary case**
   - definition:
   - source: 
   - Chinese: 二代病例，继发病例
   
-+ Generation interval, Serial interval, Generation time
++ **Generation interval, Serial interval, Generation time**
   - definition: the time from symptom onset in a primary case to symptom onset in a secondary case.
   - source: Wallinga, J., & Teunis, P. (2004). [Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures](http://aje.oxfordjournals.org/content/160/6/509.short). American Journal of Epidemiology, 160(6), 509-516.
   - Chinese: 传代间期
   
-+ Incubation period
++ **Incubation period**
   - definition: the period between exposure and onset of clinical symptoms.
   - source: 
   - Chinese: 潜伏期
   
-+ Latent period
++ **Latent period**
   - definition: the period between exposure and infection, since the pathogen is present in a 'latent' stage, without clinical symptoms or signes of infection in the host.
   - source: https://wiki.ecdc.europa.eu/fem/w/wiki/incubation-period-latent-period-and-generation-time
   - Chinese: 潜染期*
   
-+ Infectious period
++ **Infectious period**
   - definition: the time period during which the host is able to transmit an infection to any susceptible host or vector they contact. Note that the infectious period may not necessarily be associated with symptoms of the disease.
   - source: https://wiki.ecdc.europa.eu/fem/w/wiki/incubation-period-latent-period-and-generation-time
   - Chinese: 传染期
   
-+ Basic reproduction number
++ **Basic reproduction number**
   - symbol: R_0
   - definition: the expected number of secondary cases produced by a typical primary case in an **entirely susceptible population**.
   - source: Wallinga, J., & Teunis, P. (2004). [Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures](http://aje.oxfordjournals.org/content/160/6/509.short). American Journal of Epidemiology, 160(6), 509-516.
   - Chinese: 基本再生数
   
-+ Effective reproduction number
++ **Effective reproduction number**
   - symbol: R_t
   - definition: a population will rarely be totally susceptible to an infection in the real world. The effective reproductive number estimates the average number of secondary cases per infectious case in a population made up of both susceptible and non-susceptible hosts.
   - source: http://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/epidemic-theory
   - Chinese: 有效再生数
   
-+ Herd immunity
++ **Herd immunity**
   - definition: a form of indirect protection from infectious disease that occurs when a large percentage of a population has become immune to an infection, thereby providing a measure of protection for individuals who are not immune.
   - source: https://en.wikipedia.org/wiki/Herd_immunity
   - Chinese: 群体免疫
   
-+ Epidemic
++ **Epidemic**
   - definition: an increase in the frequency of occurrence of a disease in a population above its baseline or expected level in a given period.
   - source: https://en.wikipedia.org/wiki/Epidemic
   - Chinese: 流行病
   
-+ Epidemic curve
++ **Epidemic curve**
   - definition: the frequency of new cases over time based on the date of onset of disease.
   - source: http://sphweb.bumc.bu.edu/otlt/MPH-Modules/EP/EP713_DescriptiveEpi/EP713_DescriptiveEpi3.html
   - Chinese: 流行曲线
   
-+ Emerging Infectious Disease (EID)
++ **Emerging Infectious Disease (EID)**
   - definition: an infectious disease whose incidence has increased in the past 20 years and could increase in the near future.
   - source: https://en.wikipedia.org/wiki/Emerging_infectious_disease
   - Chinese: 新发传染病
