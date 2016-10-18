@@ -245,14 +245,30 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
   
 + **Effective reproduction/reproductive number/ratio**
   - Symbol: R_t
-  - Definition: a population will rarely be totally susceptible to an infection in the real world. The effective reproductive number estimates the average number of secondary cases per infectious case in a population made up of both susceptible and non-susceptible hosts.
+  - Definition: A population will rarely be totally susceptible to an infection in the real world. The effective reproductive number estimates the average number of secondary cases per infectious case at time t in a population made up of both susceptible and non-susceptible hosts.
   - Source: http://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/epidemic-theory
   - Chinese: 有效再生数
+
++ **Vaccine efficacy**
+  - Definition: In epidemiological and clinical studies, vaccine efficacy refers to the percentage reduction in the attack rate of the vaccinated cohort compared to the unvaccinated cohort as observed in randomized controlled (field) trial.
+  - Source: Milwid et al. (2016).
+  - Chinese: 疫苗效能
+  
++ **Vaccine effectiveness**
+  - Definition: Vaccine effectiveness refers to the ability of a vaccine to prevent infection or related outcomes in the population in real-world conditions.
+  - Source: Milwid et al. (2016).
+  - Chinese: 疫苗有效性
   
 + **Herd immunity**
   - Definition: a form of indirect protection from infectious disease that occurs when a large percentage of a population has become immune to an infection, thereby providing a measure of protection for individuals who are not immune.
   - Source: https://en.wikipedia.org/wiki/Herd_immunity
   - Chinese: 群体免疫
+
++ **Herd immunity threshold, Eradication fraction**
+  - Symbol: S_h
+  - Definition: Under a compartmental framwork with homogenous mixing, the minimum fraction of susceptibles that must be immune (or vaccinated at birth (assuming 100% vaccine efficacy)) to reduce R_t below 1 and eradicate infection; that is, by the removal of susceptible hosts.
+  - Source: Mishra et al. (2010).
+  - Chinese: 群体免疫阈值
   
 + **Epidemic**
   - Definition: an increase in the frequency of occurrence of a disease in a population above its baseline or expected level in a given period.
@@ -274,6 +290,7 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
 * Armitage, P., & Colton, T. (2005). [Encyclopedia of Biostatistics](http://onlinelibrary.wiley.com/book/10.1002/0470011815).
 * Fine, P. E. (2003). [The interval between successive cases of an infectious disease](http://aje.oxfordjournals.org/content/158/11/1039.short). American Journal of Epidemiology, 158(11), 1039-1047.
 * Milwid, R., Steriu, A., Arino, J., Heffernan, J., Hyder, A., Schanzer, D., ... & Moghadas, S. M. (2016). [Toward Standardizing a Lexicon of Infectious Disease Modeling Terms](http://journal.frontiersin.org/article/10.3389/fpubh.2016.00213/full). Frontiers in Public Health, 4.
+* Mishra, S., Fisman, D. N., & Boily, M. C. (2010). [The ABC of terms used in mathematical models of infectious diseases](http://jech.bmj.com/content/early/2010/10/21/jech.2009.097113.short). Journal of epidemiology and community health, jech-2009.
 * Wallinga, J., & Teunis, P. (2004). [Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures](http://aje.oxfordjournals.org/content/160/6/509.short). American Journal of Epidemiology, 160(6), 509-516.
 
 
