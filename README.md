@@ -237,13 +237,13 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
   - Source: Armitage & Colton (2005).
   - Chinese: 续发率
   
-+ **Basic reproduction number/ratio**
++ **Basic reproduction/reproductive number/ratio**
   - Symbol: R_0
   - Definition: the expected number of secondary cases produced by a typical primary case in an **entirely susceptible population**.
   - Source: Wallinga & Teunis (2004).
   - Chinese: 基本再生数
   
-+ **Effective reproduction number/ratio**
++ **Effective reproduction/reproductive number/ratio**
   - Symbol: R_t
   - Definition: a population will rarely be totally susceptible to an infection in the real world. The effective reproductive number estimates the average number of secondary cases per infectious case in a population made up of both susceptible and non-susceptible hosts.
   - Source: http://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/epidemic-theory
