@@ -1,6 +1,6 @@
 # Resources for Influenza Research
 
-- [Infectious Diseases Epidemiology](#infectious-diseases-epidemiology)
+- [Infectious Disease Epidemiology](#infectious-disease-epidemiology)
 - [Modeling Infectious Diseases](#modeling-infectious-diseases)
 - [Topics and Keywords](#topics-and-keywords)
 - [Ecology and Evolution of Influenza](#ecology-and-evolution-of-influenza)
@@ -28,7 +28,7 @@
 * Evolution of Influenza
   - [Phylogeography](http://en.wikipedia.org/wiki/Phylogeography)
   
-## Infectious Diseases Epidemiology
+## Infectious Disease Epidemiology
 *Textbooks*
 
 * Gordis, L. (2013). [Epidemiology](http://www.amazon.com/Epidemiology-STUDENT-CONSULT-Online-Access/dp/145573733X). Elsevier: Saunders.
