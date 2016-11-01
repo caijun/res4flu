@@ -173,7 +173,7 @@
 + **Secondary case**
   - Definition:
   - Source: 
-  - Chinese: 二代病例，继发病例
+  - Chinese: 二代病例，继发病例，续发病例
   
 + **Latent period**
   - Definition: The latent period refers to the period of time between exposure to a disease with successful transmission and the onset of **infectiousness**.
@@ -192,10 +192,10 @@
 
 The relationship of periods: latent, incubation, and infectious in the SEIR model is illustrated in Figure 1 of Milwid et al. (2016).
   
-+ **Generation interval/time**
++ **Generation time**
   - Definition: In modeling, the generation interval refers to the period of time between the onset of **the infectious period** in a primary case to the onset of **the infectious period**  in a secondary case infected by the primary case.
   - Source: Milwid et al. (2016), Wallinga & Teunis (2004).
-  - Chinese: 传代间期
+  - Chinese: 世代时间
   
 + **Serial interval**
   - Definition: In epidemiology, the serial interval is defined as the period of time between the onset of **symptoms** in a primary case to the onset of **symptoms** in a secondary case infected by the primary case.
@@ -245,9 +245,27 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
   
 + **Effective reproduction/reproductive number/ratio**
   - Symbol: R_t
-  - Definition: A population will rarely be totally susceptible to an infection in the real world. The effective reproductive number estimates the average number of secondary cases per infectious case at time t in a population made up of both susceptible and non-susceptible hosts.
+  - Definition: A population will rarely be totally susceptible to an infection in the real world. The effective reproductive number estimates the average number of secondary cases per infectious case at time *t* in a population made up of both susceptible and non-susceptible hosts.
   - Source: http://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/epidemic-theory
   - Chinese: 有效再生数
+  - Remark: Wallinga & Teunis (2004) proposed a method that is generic and requires only case incidence data and the distribution of the serial interval to estimate effective reproduction number over the course of an epidemic. However, the approach has several drawbacks. First, estimates are **right censored**, because the estimate of *R* at time *t* requires incidence data from times later than *t*. Approaches to correct for this issue have been developed by Cauchemez et al. (2006). Furthermore, when the data aggregation time step is small (e.g., daily data), estimates of *R* can vary considerably over short time periods., producting substantial negative autocorrelation. For more details we refer the reader to Cori et al. (2013).
+  
++ **Case reproduction number**
+  - Definition: The case reproduction number is a property of individuals infected at time *t*, and is the average number of people someone infected at time t can expect to infect. It is sometimes called the **cohort reproduction number** because it counts the average number of secondary transmissions caused by a cohort infected at time step *t*.
+  - Source: Fraser (2007), Cori et al. (2013).
+  - Chinese: 病例再生数
+  - Remark: The case reproduction number is denoted R_c(t) in Fraser (2007) while R^c(t) in Cori et al. (2013). Essentially, It is the widely used effective reproduction number. The case reproduction number is the quantity estimated in the Wallinga and Teunis-type approaches.
+  
++ **Instantaneous reproduction number**
+  - Definition: The instantaneous reproduction number is a property of epidemic at time *t*, and is the average number of people someone infected at time t could expect to infect should the condition remain unchanged.
+  - Source: Fraser (2007), Cori et al. (2013). 
+  - Chinese: 瞬时再生数
+  - Remark: In both Fraser (2007) and Cori et al. (2013), the instantaneous reproduction number is denoted R(t), which is usually used as the notation for effective reproduction number. The instantaneous reproduction number is the only repproduction number easily estimated in real time. Moreover, effective control measures undertaken at time *t* are expected to result in a sudden decrease in the instantaneous reproduction number and a smoother decrease in the case reproduction number. Hence, assessing the efficiency of control measures is easier by using estimates of the instantaneous reproduction number.
+  
++ **Household reproduction number**
+  - Definition: The household reproduction number is defined as the number of households infected by each infected household.
+  - Source: Fraser (2007).
+  - Chinese: 家庭再生数
 
 + **Vaccine efficacy**
   - Definition: In epidemiological and clinical studies, vaccine efficacy refers to the percentage reduction in the attack rate of the vaccinated cohort compared to the unvaccinated cohort as observed in randomized controlled (field) trial.
@@ -288,7 +306,10 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
 *References*
 
 * Armitage, P., & Colton, T. (2005). [Encyclopedia of Biostatistics](http://onlinelibrary.wiley.com/book/10.1002/0470011815).
+* Cauchemez, S., Boëlle, P. Y., Donnelly, C. A., Ferguson, N. M., Thomas, G., Leung, G. M., ... & Valleron, A. J. (2006). [Real-time estimates in early detection of SARS](https://wwwnc.cdc.gov/eid/article/12/1/05-0593_article). Emerging infectious diseases, 12(1), 110.
+* Cori, A., Ferguson, N. M., Fraser, C., & Cauchemez, S. (2013). [A new framework and software to estimate time-varying reproduction numbers during epidemics](http://aje.oxfordjournals.org/content/178/9/1505.short). American journal of epidemiology, 178(9), 1505-1512.
 * Fine, P. E. (2003). [The interval between successive cases of an infectious disease](http://aje.oxfordjournals.org/content/158/11/1039.short). American Journal of Epidemiology, 158(11), 1039-1047.
+* Fraser, C. (2007). [Estimating individual and household reproduction numbers in an emerging epidemic](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000758). PLoS One, 2(8), e758.
 * Milwid, R., Steriu, A., Arino, J., Heffernan, J., Hyder, A., Schanzer, D., ... & Moghadas, S. M. (2016). [Toward Standardizing a Lexicon of Infectious Disease Modeling Terms](http://journal.frontiersin.org/article/10.3389/fpubh.2016.00213/full). Frontiers in Public Health, 4.
 * Mishra, S., Fisman, D. N., & Boily, M. C. (2010). [The ABC of terms used in mathematical models of infectious diseases](http://jech.bmj.com/content/early/2010/10/21/jech.2009.097113.short). Journal of epidemiology and community health, jech-2009.
 * Wallinga, J., & Teunis, P. (2004). [Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures](http://aje.oxfordjournals.org/content/160/6/509.short). American Journal of Epidemiology, 160(6), 509-516.
