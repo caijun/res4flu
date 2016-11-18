@@ -165,10 +165,15 @@
 
 \* indicates the uncertatin entry
 
-+ **Index case, Primary case**
-  - Definition:
-  - Source: https://en.wikipedia.org/wiki/Index_case
-  - Chinese: 指示病例，原发病例
++ **Index case**
+  - Definition: The  first case in a family or other defined group to come to the attention of the investigator. 
+  - Source: Porta (2014)
+  - Chinese: 指示病例
+
++ **Primary case**
+  - Definition: The individual who introduces the disease into the family or group under study. Not necessarily the  first diagnosed case in a family or group. 
+  - Source: Porta (2014)
+  - Chinese: 原发病例
   
 + **Secondary case**
   - Definition:
@@ -220,7 +225,7 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
 + **Prevalence**
   - Definition: Disease prevalence is defined as the number of cases of a disease at a single time point in a population.
   - Source: Milwid et al. (2016).
-  - Chinese: 现患率
+  - Chinese: 患病率
   
 + **Attack rate**
   - Definition: The attack rate describes the proportion of the population that becomes **infected** over a specified period of time.
@@ -305,6 +310,7 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
   
 *References*
 
+* Porta, M. (Ed.). (2014). [A dictionary of epidemiology](https://www.amazon.com/Dictionary-Epidemiology-Miquel-Porta/dp/0199976732/). Oxford University Press.
 * Armitage, P., & Colton, T. (2005). [Encyclopedia of Biostatistics](http://onlinelibrary.wiley.com/book/10.1002/0470011815).
 * Cauchemez, S., Boëlle, P. Y., Donnelly, C. A., Ferguson, N. M., Thomas, G., Leung, G. M., ... & Valleron, A. J. (2006). [Real-time estimates in early detection of SARS](https://wwwnc.cdc.gov/eid/article/12/1/05-0593_article). Emerging infectious diseases, 12(1), 110.
 * Cori, A., Ferguson, N. M., Fraser, C., & Cauchemez, S. (2013). [A new framework and software to estimate time-varying reproduction numbers during epidemics](http://aje.oxfordjournals.org/content/178/9/1505.short). American journal of epidemiology, 178(9), 1505-1512.
