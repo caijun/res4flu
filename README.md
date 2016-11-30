@@ -68,6 +68,10 @@
 * Webster, R. G., Bean, W. J., Gorman, O. T., Chambers, T. M., & Kawaoka, Y. (1992). [Evolution and Ecology of Influenza A Viruses](http://mmbr.asm.org/content/56/1/152.short). Microbiological reviews, 56(1), 152-179.
 
 ## Seasonality of Influenza
+*Key Paper*
+
+* Deyle, E. R., Maher, M. C., Hernandez, R. D., Basu, S., & Sugihara, G. (2016). [Global environmental drivers of influenza](http://www.pnas.org/content/113/46/13081.abstract). Proceedings of the National Academy of Sciences, 201607747.
+
 *Review Papers*
 
 * Rates, C. (2011). [Global Influenza Seasonality: Reconciling Patterns Across Temperate and Tropical Regions](http://ehp.niehs.nih.gov/1002383/). Environmental health perspectives, 119(4), 439.
