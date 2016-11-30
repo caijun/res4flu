@@ -26,6 +26,7 @@
 * Surveillence of Influenza
 * Ecology of Influenza
 * Evolution of Influenza
+  - [Phylodynamics](https://en.wikipedia.org/wiki/Viral_phylodynamics)
   - [Phylogeography](http://en.wikipedia.org/wiki/Phylogeography)
   
 ## Infectious Disease Epidemiology
