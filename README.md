@@ -115,16 +115,27 @@
   - [FluView](http://gis.cdc.gov/grasp/fluview/main.html): influenza-like illness (ILI) activity level indicator determined by data reported to ILINet.
 * Weekly influenza reports from [Chinese National Influenza Center](http://www.chinaivdc.cn/lgzx/zyzx/lgzb/)
 * Estimated flu activity from [Google Flu Trends](https://www.google.org/flutrends/intl/en_us/). Google is no longer publishing estimates of disease activity (as of August 20, 2015), but it continue to provide signal data for research purposes. See details on [the next chapter for Google Flu Trends](https://research.googleblog.com/2015/08/the-next-chapter-for-flu-trends.html).
+  - Source: Ginsberg et al. (2009), Butler (2013), Lazer et al. (2014).
 * [HealthMap Flu Trends](http://www.healthmap.org/flutrends/)
-  - Reference: Freifeld, C. C., Mandl, K. D., Reis, B. Y., & Brownstein, J. S. (2008). [HealthMap: global infectious disease monitoring through automated classification and visualization of Internet media reports](http://jamia.oxfordjournals.org/content/15/2/150.short). Journal of the American Medical Informatics Association, 15(2), 150-157.
+  - Source: Freifeld et al. (2008).
 * [FluWeb Historical Influenza Database](http://influenza.sph.unimelb.edu.au/): free access to a number of rare and valuable sources of data concerning past influenza outbreaks.
 * [Project Tycho®](http://www.tycho.pitt.edu/): currently including data from all weekly notifiable disease (containing **influenza** and **pneumonia**) reports for the United States dating back to 1888.
-  - Reference: Van Panhuis, W. G., Grefenstette, J., Jung, S. Y., Chok, N. S., Cross, A., Eng, H., ... & Burke, D. S. (2013). [Contagious diseases in the United States from 1888 to the present](http://www.nejm.org/doi/full/10.1056/NEJMms1215400). The New England journal of medicine, 369(22), 2152.
-* [Influenza Research Database (IRD)](http://www.fludb.org/): global public database and analysis resource for the study of influenza viruses. 
-  - Reference: Squires, R. B., Noronha, J., Hunt, V., García‐Sastre, A., Macken, C., Baumgarth, N., ... & Ramsey, A. (2012). [Influenza Research Database: an Integrated Bioinformatics Resource for Influenza Research and Surveillance](http://onlinelibrary.wiley.com/doi/10.1111/j.1750-2659.2011.00331.x/full). Influenza and other respiratory viruses, 6(6), 404-416.
+  - Source: Van Panhuis et al. (2012).
+* [Influenza Research Database (IRD)](http://www.fludb.org/): global public database and analysis resource for the study of influenza viruses.
+  - Source: Squires et al. (2012).
 * [NCBI Influenza Virus Resource](http://www.ncbi.nlm.nih.gov/genomes/FLU/)
 * [Global Initiative on Sharing Avian Influenza Data (GISAID)](http://platform.gisaid.org/)
 * [EMPRES Global Animal Disease Information System (EMPRES-i)](http://empres-i.fao.org/eipws3g/)
+
+*References*
+
+* Butler, D. (2013). [When Google got flu wrong](http://www.nature.com/news/when-google-got-flu-wrong-1.12413). Nature, 494(7436), 155.
+* Freifeld, C. C., Mandl, K. D., Reis, B. Y., & Brownstein, J. S. (2008). [HealthMap: global infectious disease monitoring through automated classification and visualization of Internet media reports](http://jamia.oxfordjournals.org/content/15/2/150.short). Journal of the American Medical Informatics Association, 15(2), 150-157.
+* Ginsberg, J., Mohebbi, M. H., Patel, R. S., Brammer, L., Smolinski, M. S., & Brilliant, L. (2009). [Detecting Influenza Epidemics using Search Engine Query Data](http://www.nature.com/nature/journal/v457/n7232/abs/nature07634.html). Nature, 457(7232), 1012-1014.
+* Lazer, D., Kennedy, R., King, G., & Vespignani, A. (2014). [The parable of Google flu: traps in big data analysis](http://science.sciencemag.org/content/343/6176/1203). Science, 343(6176), 1203-1205.
+* Squires, R. B., Noronha, J., Hunt, V., García‐Sastre, A., Macken, C., Baumgarth, N., ... & Ramsey, A. (2012). [Influenza Research Database: an Integrated Bioinformatics Resource for Influenza Research and Surveillance](http://onlinelibrary.wiley.com/doi/10.1111/j.1750-2659.2011.00331.x/full). Influenza and other respiratory viruses, 6(6), 404-416.
+* Van Panhuis, W. G., Grefenstette, J., Jung, S. Y., Chok, N. S., Cross, A., Eng, H., ... & Burke, D. S. (2013). [Contagious diseases in the United States from 1888 to the present](http://www.nejm.org/doi/full/10.1056/NEJMms1215400). The New England journal of medicine, 369(22), 2152.
+
 
 ## Software Packages for Influenza Research
 *R Packages*
