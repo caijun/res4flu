@@ -203,12 +203,12 @@
 + **Latent period**
   - Definition: The latent period refers to the period of time between exposure to a disease with successful transmission and the onset of **infectiousness**.
   - Source: Milwid et al. (2016).
-  - Chinese: 潜染期*
+  - Chinese: 潜伏期
   
 + **Incubation period**
   - Definition: The incubation period is defined as the period of time between exposure to the disease (if transmission occurs) and the onset of **clinical symptoms**.
   - Source: Milwid et al. (2016).
-  - Chinese: 潜伏期
+  - Chinese: 潜育期
   
 + **Infectious period**
   - Definition: The infectious period is defined as the time interval in which the infected individual is capable of transmitting the disease.
@@ -217,7 +217,7 @@
 
 The relationship of periods: latent, incubation, and infectious in the SEIR model is illustrated in Figure 1 of Milwid et al. (2016).
   
-+ **Generation time**
++ **Generation time (interval)**
   - Definition: In modeling, the generation interval refers to the period of time between the onset of **the infectious period** in a primary case to the onset of **the infectious period**  in a secondary case infected by the primary case.
   - Source: Milwid et al. (2016), Wallinga & Teunis (2004).
   - Chinese: 世代时间
