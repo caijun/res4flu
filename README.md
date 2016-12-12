@@ -183,8 +183,6 @@
 
 *Terms*
 
-\* indicates the uncertatin entry
-
 + **Index case**
   - Definition: The  first case in a family or other defined group to come to the attention of the investigator. 
   - Source: Porta (2014)
