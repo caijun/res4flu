@@ -14,6 +14,7 @@
 - [Workshops and Conferences](#workshops-and-conferences)
 - [MOOCs](#moocs)
 - [Glossary](#glossary)
+- [Films and TV Series](films-and-tv-series)
 - [Contributing](#contributing)
 
 ## Topics and Keywords
@@ -337,6 +338,12 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
 * Mishra, S., Fisman, D. N., & Boily, M. C. (2010). [The ABC of terms used in mathematical models of infectious diseases](http://jech.bmj.com/content/early/2010/10/21/jech.2009.097113.short). Journal of epidemiology and community health, jech-2009.
 * Porta, M. (Ed.). (2014). [A dictionary of epidemiology](https://www.amazon.com/Dictionary-Epidemiology-Miquel-Porta/dp/0199976732/). Oxford University Press.
 * Wallinga, J., & Teunis, P. (2004). [Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures](http://aje.oxfordjournals.org/content/160/6/509.short). American Journal of Epidemiology, 160(6), 509-516.
+
+
+## Films and TV Series
+
+* [Flu](https://en.wikipedia.org/wiki/Flu_(film)) from South Korea
+* [亚洲英雄](http://baike.baidu.com/view/1952499.htm) from Hong Kong
 
 
 ## Contributing
