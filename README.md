@@ -64,21 +64,21 @@
 *Review Papers*
 
 * Nelson, M. I., & Holmes, E. C. (2007). [The Evolution of Epidemic Influenza](http://www.nature.com/nrg/journal/v8/n3/abs/nrg2053.html). Nature reviews genetics, 8(3), 196-205.
-* Earn, D. J., Dushoff, J., & Levin, S. A. (2002). [Ecology and Evolution of the Flu](http://www.sciencedirect.com/science/article/pii/S0169534702025028). Trends in ecology & evolution, 17(7), 334-340.
-* Potter, C. W. (2001). [A History of Influenza](http://onlinelibrary.wiley.com/doi/10.1046/j.1365-2672.2001.01492.x/full). Journal of applied microbiology, 91(4), 572-579.
-* Cox, N. J., & Subbarao, K. (2000). [Global Epidemiology of Influenza: Past and Present](http://www.annualreviews.org/doi/abs/10.1146/annurev.med.51.1.407). Annual review of medicine, 51(1), 407-421.
+- [x] Earn, D. J., Dushoff, J., & Levin, S. A. (2002). [Ecology and Evolution of the Flu](http://www.sciencedirect.com/science/article/pii/S0169534702025028). Trends in ecology & evolution, 17(7), 334-340.
+- [x] Potter, C. W. (2001). [A History of Influenza](http://onlinelibrary.wiley.com/doi/10.1046/j.1365-2672.2001.01492.x/full). Journal of applied microbiology, 91(4), 572-579.
+- [x] Cox, N. J., & Subbarao, K. (2000). [Global Epidemiology of Influenza: Past and Present](http://www.annualreviews.org/doi/abs/10.1146/annurev.med.51.1.407). Annual review of medicine, 51(1), 407-421.
 * Webster, R. G., Bean, W. J., Gorman, O. T., Chambers, T. M., & Kawaoka, Y. (1992). [Evolution and Ecology of Influenza A Viruses](http://mmbr.asm.org/content/56/1/152.short). Microbiological reviews, 56(1), 152-179.
 
 ## Seasonality of Influenza
 *Key Paper*
 
-* Deyle, E. R., Maher, M. C., Hernandez, R. D., Basu, S., & Sugihara, G. (2016). [Global environmental drivers of influenza](http://www.pnas.org/content/113/46/13081.abstract). Proceedings of the National Academy of Sciences, 201607747.
+- [x] Deyle, E. R., Maher, M. C., Hernandez, R. D., Basu, S., & Sugihara, G. (2016). [Global environmental drivers of influenza](http://www.pnas.org/content/113/46/13081.abstract). Proceedings of the National Academy of Sciences, 201607747.
 
 *Review Papers*
 
 * Rates, C. (2011). [Global Influenza Seasonality: Reconciling Patterns Across Temperate and Tropical Regions](http://ehp.niehs.nih.gov/1002383/). Environmental health perspectives, 119(4), 439.
-* Fuhrmann, C. (2010). [The Effects of Weather and Climate on the Seasonality of Influenza: What We Know and What We Need to Know](http://onlinelibrary.wiley.com/doi/10.1111/j.1749-8198.2010.00343.x/full). Geography Compass, 4(7), 718-730.
-* Lipsitch, M., & Viboud, C. (2009). [Influenza Seasonality: Lifting the Fog](http://www.pnas.org/content/106/10/3645.short). Proceedings of the National Academy of Sciences, 106(10), 3645-3646.
+- [x] Fuhrmann, C. (2010). [The Effects of Weather and Climate on the Seasonality of Influenza: What We Know and What We Need to Know](http://onlinelibrary.wiley.com/doi/10.1111/j.1749-8198.2010.00343.x/full). Geography Compass, 4(7), 718-730.
+- [x] Lipsitch, M., & Viboud, C. (2009). [Influenza Seasonality: Lifting the Fog](http://www.pnas.org/content/106/10/3645.short). Proceedings of the National Academy of Sciences, 106(10), 3645-3646.
 * Lofgren, E., Fefferman, N. H., Naumov, Y. N., Gorski, J., & Naumova, E. N. (2007). [Influenza Seasonality: Underlying Causes and Modeling Theories](http://jvi.asm.org/content/81/11/5429.short). Journal of virology, 81(11), 5429-5436.
 
 ## Dynamics of Influenza
@@ -86,13 +86,13 @@
 
 *Classical Paper*
 
-* Rvachev, L. A., & Longini, I. M. (1985). [A Mathematical Model for the Global Spread of Influenza](http://www.sciencedirect.com/science/article/pii/0025556485900641). Mathematical biosciences, 75(1), 3-22.
+- [x] Rvachev, L. A., & Longini, I. M. (1985). [A Mathematical Model for the Global Spread of Influenza](http://www.sciencedirect.com/science/article/pii/0025556485900641). Mathematical biosciences, 75(1), 3-22.
 
 ### Influenza Forecasting
 *Review Papers*
 
 * Nsoesie, E. O., Brownstein, J. S., Ramakrishnan, N., & Marathe, M. V. (2014). [A Systematic Review of Studies on Forecasting the Dynamics of Influenza Outbreaks](http://onlinelibrary.wiley.com/doi/10.1111/irv.12226/full). Influenza and other respiratory viruses, 8(3), 309-316.
-* Chretien, J. P., George, D., Shaman, J., Chitale, R. A., & McKenzie, F. E. (2014). [Influenza Forecasting in Human Populations: a Scoping Review](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094130). PloS one, 9(4), e94130.
+- [x] Chretien, J. P., George, D., Shaman, J., Chitale, R. A., & McKenzie, F. E. (2014). [Influenza Forecasting in Human Populations: a Scoping Review](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094130). PloS one, 9(4), e94130.
 
 ### Digital Detection of Influenza
 *Review Paper*
@@ -101,7 +101,7 @@
 
 *Classical Paper*
 
-* Ginsberg, J., Mohebbi, M. H., Patel, R. S., Brammer, L., Smolinski, M. S., & Brilliant, L. (2009). [Detecting Influenza Epidemics using Search Engine Query Data](http://www.nature.com/nature/journal/v457/n7232/abs/nature07634.html). Nature, 457(7232), 1012-1014.
+- [x] Ginsberg, J., Mohebbi, M. H., Patel, R. S., Brammer, L., Smolinski, M. S., & Brilliant, L. (2009). [Detecting Influenza Epidemics using Search Engine Query Data](http://www.nature.com/nature/journal/v457/n7232/abs/nature07634.html). Nature, 457(7232), 1012-1014.
 
 *Projects*
 
@@ -175,11 +175,11 @@
 
 * Moghadas, S., & Laskowski, M. (2014). [A Logical Modelling Framework for Influenza Infection](http://nccid.ca/publications/a-logical-modelling-framework-for-influenza-infection/). NCCID, 1-24.
 
-* Milwid, R., Steriu, A., Arino, J., Heffernan, J., Hyder, A., Schanzer, D., ... & Moghadas, S. M. (2016). [Toward Standardizing a Lexicon of Infectious Disease Modeling Terms](http://journal.frontiersin.org/article/10.3389/fpubh.2016.00213/full). Frontiers in Public Health, 4.
+- [x] Milwid, R., Steriu, A., Arino, J., Heffernan, J., Hyder, A., Schanzer, D., ... & Moghadas, S. M. (2016). [Toward Standardizing a Lexicon of Infectious Disease Modeling Terms](http://journal.frontiersin.org/article/10.3389/fpubh.2016.00213/full). Frontiers in Public Health, 4.
 
 * Moghadas, S., & Milwid, R. (2016). [Glossary of Terms for Infectious Disease Modelling: A Proposal for Consistent Language](http://nccid.ca/publications/glossary-terms-infectious-disease-modelling-proposal-consistent-language/). NCCID, 1-3.
 
-* Mishra, S., Fisman, D. N., & Boily, M. C. (2010). [The ABC of terms used in mathematical models of infectious diseases](http://jech.bmj.com/content/early/2010/10/21/jech.2009.097113.short). Journal of epidemiology and community health, jech-2009.
+- [x] Mishra, S., Fisman, D. N., & Boily, M. C. (2010). [The ABC of terms used in mathematical models of infectious diseases](http://jech.bmj.com/content/early/2010/10/21/jech.2009.097113.short). Journal of epidemiology and community health, jech-2009.
 
 
 *Terms*
