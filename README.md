@@ -35,9 +35,9 @@
 
 * Gordis, L. (2013). [Epidemiology](http://www.amazon.com/Epidemiology-STUDENT-CONSULT-Online-Access/dp/145573733X). Elsevier: Saunders.
 + Nelson, K. E., & Williams, C. (2013). [Infectious disease epidemiology](https://www.amazon.com/Infectious-Disease-Epidemiology-Theory-Practice/dp/1449683797). Jones & Bartlett Publishers.
-  - Chapter 6 Infectious Disease Dynamics
-  - Chapter 7 Geographic Information Systems
-  - Chapter 15 Epidemiology and Prevention of Influenza
+  - [x] Chapter 6 Infectious Disease Dynamics
+  - [ ] Chapter 7 Geographic Information Systems
+  - [ ] Chapter 15 Epidemiology and Prevention of Influenza
 
 ## Modeling Infectious Diseases
 *Textbooks*
