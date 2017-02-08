@@ -37,7 +37,7 @@
 + Nelson, K. E., & Williams, C. (2013). [Infectious disease epidemiology](https://www.amazon.com/Infectious-Disease-Epidemiology-Theory-Practice/dp/1449683797). Jones & Bartlett Publishers.
   - [x] Chapter 6 Infectious Disease Dynamics
   - [ ] Chapter 7 Geographic Information Systems
-  - [ ] Chapter 15 Epidemiology and Prevention of Influenza
+  - [x] Chapter 15 Epidemiology and Prevention of Influenza
 
 ## Modeling Infectious Diseases
 *Textbooks*
