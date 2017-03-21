@@ -48,7 +48,7 @@
 * Diekmann, O., Heesterbeek, H., & Britton, T. (2012). [Mathematical tools for understanding infectious disease dynamics](https://www.amazon.com/Mathematical-Understanding-Infectious-Disease-Dynamics/dp/0691155399/). Princeton University Press.
 * Diekmann, O., & Heesterbeek, J. A. P. (2000). [Mathematical epidemiology of infectious diseases: model building, analysis and interpretation](https://www.amazon.com/Mathematical-Epidemiology-Infectious-Diseases-Interpretation/dp/0471986828). John Wiley & Sons.
 * Sattenspiel, L. (2009). [The Geographic Spread of Infectious Diseases: Models and Applications](http://www.amazon.com/Geographic-Spread-Infectious-Diseases-Computational/dp/069112132X/). Princeton University Press.
-* Vynnycky, E., & White, R. (2010). [An Introduction to Infectious Disease Modelling](https://www.amazon.com/Introduction-Infectious-Disease-Modelling/dp/0198565763). Oxford University Press.
+- [x] Vynnycky, E., & White, R. (2010). [An Introduction to Infectious Disease Modelling](https://www.amazon.com/Introduction-Infectious-Disease-Modelling/dp/0198565763). Oxford University Press.
   - Book website: [www.anintroductiontoinfectiousdiseasemodelling.com](http://www.anintroductiontoinfectiousdiseasemodelling.com/)
 * Fine, P. (1981). [Influenza Models: Prospects for Development and Use](http://www.springer.com/gp/book/9789401180528). Proceedings of a Working Group on Epidemiological Models of Influenza and Their Practical Application.
 
