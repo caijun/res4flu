@@ -154,7 +154,7 @@
 * [EpiDynamics](https://cran.r-project.org/web/packages/EpiDynamics/index.html): Dynamic Models in Epidemiology. Currently, the R package **EpiDynamics** implements the computer programs written in other programming languages and available in [the web page of the book](http://www.modelinginfectiousdiseases.org/) Keeling, M. J., & Rohani, P. (2008). [Modeling Infectious Diseases in Humans and Animals](http://www.amazon.com/Modeling-Infectious-Diseases-Humans-Animals/dp/0691116172/). Princeton University Press. Python Programs for this book also can be found [here](http://wiki.deductivethinking.com/wiki/Python_Programs_for_Modelling_Infectious_Diseases_book).
 * [EpiModel](https://cran.r-project.org/web/packages/EpiModel/index.html): Mathematical Modeling of Infectious Disease.
 * [epitools](https://cran.r-project.org/web/packages/epitools/index.html): EpiTools: R Package for Epidemiologic Data and Graphics.
-* [The R-epi project](https://sites.google.com/site/therepiproject/home): lists resources for infectious disease epidemiology using the R software. These resources include an overview of R packages, alongside dedicated documentation, cross-packages tutorials, and links to relevant forums of discussion.
+* [The R-epi project](https://sites.google.com/site/therepiproject/home): lists resources for infectious disease epidemiology using the R software. These resources include an overview of R packages, alongside dedicated documentation, cross-packages tutorials, and links to relevant forums of discussion. Now these are also listed in the  [projects](http://www.repidemicsconsortium.org/projects/) of [R Epidemics Consortium (RECON)](http://www.repidemicsconsortium.org/).
 
 *Python Packages*
 
