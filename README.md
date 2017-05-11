@@ -110,6 +110,7 @@
 
 * [Google Flu Trends](https://www.google.org/flutrends/intl/en_us/): using aggregated Google search data to estimate flu activity.
 * [HealthMap](http://www.healthmap.org/en/): flu & Ebola map | virus & contagious disease surveillence.
+* [flusight](http://reichlab.io/flusight/): a static influenza forecasts visualizer created by the [Reich](https://github.com/nickreich) Lab at UMass-Amherst. [source code](https://github.com/reichlab/flusight)
 
 ## Databases for Influenza Research
 
