@@ -97,6 +97,11 @@
 * Nsoesie, E. O., Brownstein, J. S., Ramakrishnan, N., & Marathe, M. V. (2014). [A Systematic Review of Studies on Forecasting the Dynamics of Influenza Outbreaks](http://onlinelibrary.wiley.com/doi/10.1111/irv.12226/full). Influenza and other respiratory viruses, 8(3), 309-316.
 - [x] Chretien, J. P., George, D., Shaman, J., Chitale, R. A., & McKenzie, F. E. (2014). [Influenza Forecasting in Human Populations: a Scoping Review](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094130). PloS one, 9(4), e94130.
 
+*Projects*
+
+* [FluSight 2016-17](https://predict.phiresearchlab.org/post/57f3f440123b0f563ece2576) from [Epidemic Prediction Initiative](https://predict.phiresearchlab.org/)
+  - [flusight](http://reichlab.io/flusight/): a static influenza forecasts visualizer created by the [Reich](https://github.com/nickreich) Lab at UMass-Amherst. [source code](https://github.com/reichlab/flusight)
+
 ### Digital Detection of Influenza
 *Review Paper*
 
@@ -110,7 +115,6 @@
 
 * [Google Flu Trends](https://www.google.org/flutrends/intl/en_us/): using aggregated Google search data to estimate flu activity.
 * [HealthMap](http://www.healthmap.org/en/): flu & Ebola map | virus & contagious disease surveillence.
-* [flusight](http://reichlab.io/flusight/): a static influenza forecasts visualizer created by the [Reich](https://github.com/nickreich) Lab at UMass-Amherst. [source code](https://github.com/reichlab/flusight)
 
 ## Databases for Influenza Research
 
