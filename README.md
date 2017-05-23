@@ -245,6 +245,8 @@ Glossary
 
 The relationship of periods: latent, incubation, and infectious in the SEIR model is illustrated in Figure 1 of Milwid et al. (2016).
 
+![](fig/periods-SEIR.png)
+
 -   **Generation time (interval)**
 -   Definition: In modeling, the generation interval refers to the period of time between the onset of **the infectious period** in a primary case to the onset of **the infectious period** in a secondary case infected by the primary case.
 -   Source: Milwid et al. (2016), Wallinga & Teunis (2004).
