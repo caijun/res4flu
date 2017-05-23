@@ -2,7 +2,7 @@
 header-includes: \usepackage{xeCJK}
 output:
   md_document:
-    variant: markdown_github
+    variant: markdown
   pdf_document:
     fig_caption: no
     latex_engine: xelatex
