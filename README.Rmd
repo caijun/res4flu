@@ -1,11 +1,11 @@
 ---
 header-includes: \usepackage{xeCJK}
 output:
+  md_document:
+    variant: markdown_github
   pdf_document:
     fig_caption: no
     latex_engine: xelatex
-  md_document:
-    variant: markdown_github
 ---
 
 # Resources for Influenza Research
