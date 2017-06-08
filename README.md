@@ -137,8 +137,12 @@ Databases for Influenza Research
 -   [WHO FluNet](http://www.who.int/influenza/gisrs_laboratory/flunet/en/): a global tool for influenza virological surveillance.
 -   [WHO FluID](http://www.who.int/influenza/surveillance_monitoring/fluid/en/): a data collection tool to collect defined epidemiological indicators and data on seasonal and pandemic Influenza from national, regional and global systems on a weekly basis. It complements the existing virological data collection tool FluNet.
 -   [Weekly U.S. Influenza Surveillance Report](http://www.cdc.gov/flu/weekly/)
-    -   [FluView](http://gis.cdc.gov/grasp/fluview/fluportaldashboard.html): national and regional level outpatient illness and viral surveillence.
     -   [FluView](http://gis.cdc.gov/grasp/fluview/main.html): influenza-like illness (ILI) activity level indicator determined by data reported to ILINet.
+    -   [FluView](http://gis.cdc.gov/grasp/fluview/fluportaldashboard.html): national and regional level outpatient illness and viral surveillence.
+    -   [FluView](https://gis.cdc.gov/grasp/fluview/flu_by_age_virus.html): age group distribution of influenza positive specimens reported by public health laboratories.
+    -   [FluView](https://gis.cdc.gov/grasp/fluview/mortality.html): pneumonia and influenza (P&I) mortality surveillance from the National Center for Health Statistics (NCHS) mortality surveillance system.
+    -   [FluView](https://gis.cdc.gov/GRASP/Fluview/PedFluDeath.html): influenza-associated pediatric mortality.
+    -   FluView: laboratory-confirmed influenza hospitalizations [preliminary cumulative rates](https://gis.cdc.gov/GRASP/Fluview/PedFluDeath.html) and [preliminary data](https://gis.cdc.gov/grasp/fluview/FluHospChars.html).
     -   The R package [cdcfluview](https://cran.r-project.org/web/packages/cdcfluview/index.html) can retrieve the U.S. flu season data from the CDC FluView portal.
 -   Weekly influenza reports from [Chinese National Influenza Center](http://www.chinaivdc.cn/lgzx/zyzx/lgzb/)
 -   Estimated flu activity from [Google Flu Trends](https://www.google.org/flutrends/intl/en_us/). Google is no longer publishing estimates of disease activity (as of August 20, 2015), but it continue to provide signal data for research purposes. See details on [the next chapter for Google Flu Trends](https://research.googleblog.com/2015/08/the-next-chapter-for-flu-trends.html).
