@@ -115,6 +115,9 @@ Dynamics of Influenza
 
 -   [FluSight 2016-17](https://predict.phiresearchlab.org/post/57f3f440123b0f563ece2576) from [Epidemic Prediction Initiative](https://predict.phiresearchlab.org/)
     -   [flusight](http://reichlab.io/flusight/): a static influenza forecasts visualizer created by the [Reich](https://github.com/nickreich) Lab at UMass-Amherst. [source code](https://github.com/reichlab/flusight)
+-   The [Delphi](http://delphi.midas.cs.cmu.edu/) group at Carnegie Mellon University focuses on developing the theory and practice of epidemiological forecasting.
+    -   [ILI-Nearby](http://delphi.midas.cs.cmu.edu/nowcast/): Geographically detailed real-time estimates (nowcasts) of Influenza-Like-Illness.
+    -   [Delphi's forecasts](http://delphi.midas.cs.cmu.edu/forecast/): Weekly forecasts of Influenza-Like-Illness nationally and in 10 U.S. regions.
 
 ### Digital Detection of Influenza
 
