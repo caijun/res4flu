@@ -149,26 +149,17 @@ Databases for Influenza Research
     -   The R package [cdcfluview](https://cran.r-project.org/web/packages/cdcfluview/index.html) can retrieve the U.S. flu season data from the CDC FluView portal.
 -   Weekly influenza reports from [Chinese National Influenza Center](http://www.chinaivdc.cn/lgzx/zyzx/lgzb/)
 -   Estimated flu activity from [Google Flu Trends](https://www.google.org/flutrends/intl/en_us/). Google is no longer publishing estimates of disease activity (as of August 20, 2015), but it continue to provide signal data for research purposes. See details on [the next chapter for Google Flu Trends](https://research.googleblog.com/2015/08/the-next-chapter-for-flu-trends.html).
-    -   Source: Ginsberg et al. (2009), Butler (2013), Lazer et al. (2014).
+    -   Source: Ginsberg et al. ([2009](#ref-Ginsberg.etal-Nature-2009)), Butler ([2013](#ref-Butler-Nature-2013)), Lazer et al. ([2014](#ref-Lazer.etal-Science-2014)).
 -   [HealthMap Flu Trends](http://www.healthmap.org/flutrends/)
-    -   Source: Freifeld et al. (2008).
+    -   Source: Freifeld et al. ([2008](#ref-Freifeld.etal-2008))
 -   [FluWeb Historical Influenza Database](http://influenza.sph.unimelb.edu.au/): free access to a number of rare and valuable sources of data concerning past influenza outbreaks.
 -   [Project Tycho®](http://www.tycho.pitt.edu/): currently including data from all weekly notifiable disease (containing **influenza** and **pneumonia**) reports for the United States dating back to 1888.
-    -   Source: Van Panhuis et al. (2012).
+    -   Source: Panhuis et al. ([2013](#ref-Panhuis.etal-NEnglJMed-2013))
 -   [Influenza Research Database (IRD)](http://www.fludb.org/): global public database and analysis resource for the study of influenza viruses.
-    -   Source: Squires et al. (2012).
+    -   Source: Squires et al. ([2012](#ref-Squires.etal-IRV-2012))
 -   [NCBI Influenza Virus Resource](http://www.ncbi.nlm.nih.gov/genomes/FLU/)
 -   [Global Initiative on Sharing Avian Influenza Data (GISAID)](http://platform.gisaid.org/)
 -   [EMPRES Global Animal Disease Information System (EMPRES-i)](http://empres-i.fao.org/eipws3g/)
-
-*References*
-
--   Butler, D. (2013). [When Google got flu wrong](http://www.nature.com/news/when-google-got-flu-wrong-1.12413). Nature, 494(7436), 155.
--   Freifeld, C. C., Mandl, K. D., Reis, B. Y., & Brownstein, J. S. (2008). [HealthMap: global infectious disease monitoring through automated classification and visualization of Internet media reports](http://jamia.oxfordjournals.org/content/15/2/150.short). Journal of the American Medical Informatics Association, 15(2), 150-157.
--   Ginsberg, J., Mohebbi, M. H., Patel, R. S., Brammer, L., Smolinski, M. S., & Brilliant, L. (2009). [Detecting Influenza Epidemics using Search Engine Query Data](http://www.nature.com/nature/journal/v457/n7232/abs/nature07634.html). Nature, 457(7232), 1012-1014.
--   Lazer, D., Kennedy, R., King, G., & Vespignani, A. (2014). [The parable of Google flu: traps in big data analysis](http://science.sciencemag.org/content/343/6176/1203). Science, 343(6176), 1203-1205.
--   Squires, R. B., Noronha, J., Hunt, V., García‐Sastre, A., Macken, C., Baumgarth, N., ... & Ramsey, A. (2012). [Influenza Research Database: an Integrated Bioinformatics Resource for Influenza Research and Surveillance](http://onlinelibrary.wiley.com/doi/10.1111/j.1750-2659.2011.00331.x/full). Influenza and other respiratory viruses, 6(6), 404-416.
--   Van Panhuis, W. G., Grefenstette, J., Jung, S. Y., Chok, N. S., Cross, A., Eng, H., ... & Burke, D. S. (2013). [Contagious diseases in the United States from 1888 to the present](http://www.nejm.org/doi/full/10.1056/NEJMms1215400). The New England journal of medicine, 369(22), 2152.
 
 Software Packages for Influenza Research
 ----------------------------------------
@@ -225,11 +216,11 @@ Glossary
 
 -   **Index case**
     -   Definition: The first case in a family or other defined group to come to the attention of the investigator.
-    -   Source: Porta (2014)
+    -   Source: Porta ([2014](#ref-Porta-dictionaryepidemiology-2014))
     -   Chinese: 指示病例
 -   **Primary case**
     -   Definition: The individual who introduces the disease into the family or group under study. Not necessarily the first diagnosed case in a family or group.
-    -   Source: Porta (2014)
+    -   Source: Porta ([2014](#ref-Porta-dictionaryepidemiology-2014))
     -   Chinese: 原发病例
 -   **Secondary case**
     -   Definition:
@@ -237,28 +228,28 @@ Glossary
     -   Chinese: 二代病例，继发病例，续发病例
 -   **Latent period**
     -   Definition: The latent period refers to the period of time between exposure to a disease with successful transmission and the onset of **infectiousness**.
-    -   Source: Milwid et al. (2016).
+    -   Source: Milwid et al. ([2016](#ref-Milwid.etal-FrontiersinPublicHealth-2016))
     -   Chinese: 潜伏期
 -   **Incubation period**
     -   Definition: The incubation period is defined as the period of time between exposure to the disease (if transmission occurs) and the onset of **clinical symptoms**.
-    -   Source: Milwid et al. (2016).
+    -   Source: Milwid et al. ([2016](#ref-Milwid.etal-FrontiersinPublicHealth-2016))
     -   Chinese: 潜育期
 -   **Infectious period**
     -   Definition: The infectious period is defined as the time interval in which the infected individual is capable of transmitting the disease.
-    -   Source: Milwid et al. (2016).
+    -   Source: Milwid et al. ([2016](#ref-Milwid.etal-FrontiersinPublicHealth-2016))
     -   Chinese: 传染期
 
-The relationship of periods: latent, incubation, and infectious in the SEIR model is illustrated in Figure 1 of Milwid et al. (2016).
+The relationship of periods: latent, incubation, and infectious in the SEIR model is illustrated in Figure 1 of Milwid et al. ([2016](#ref-Milwid.etal-FrontiersinPublicHealth-2016)).
 
 ![](fig/periods-SEIR.png)
 
 -   **Generation time (interval)**
     -   Definition: In modeling, the generation interval refers to the period of time between the onset of **the infectious period** in a primary case to the onset of **the infectious period** in a secondary case infected by the primary case.
-    -   Source: Milwid et al. (2016), Wallinga & Teunis (2004).
+    -   Source: Milwid et al. ([2016](#ref-Milwid.etal-FrontiersinPublicHealth-2016)), Wallinga & Teunis ([2004](#ref-Wallinga.Teunis-AmericanJournalofEpidemiology-2004))
     -   Chinese: 世代时间
 -   **Serial interval**
     -   Definition: In epidemiology, the serial interval is defined as the period of time between the onset of **symptoms** in a primary case to the onset of **symptoms** in a secondary case infected by the primary case.
-    -   Source: Milwid et al. (2016), Fine (2003).
+    -   Source: Milwid et al. ([2016](#ref-Milwid.etal-FrontiersinPublicHealth-2016)), Fine ([2003](#ref-Fine-AmericanJournalofEpidemiology-2003)).
     -   Chinese: 传代间期
 -   **Morbidity (rate)**
     -   Definition: Morbidity is another term for illness.
@@ -270,56 +261,56 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
     -   Chinese: 死亡率
 -   **Incidence**
     -   Definition: Disease incidence is defined by both epidemiologists and modelers as the number of **new** cases in a population generated within a certain time period.
-    -   Source: Milwid et al. (2016).
+    -   Source: Milwid et al. ([2016](#ref-Milwid.etal-FrontiersinPublicHealth-2016))
     -   Chinese: 发病率
 -   **Prevalence**
     -   Definition: Disease prevalence is defined as the number of cases of a disease at a single time point in a population.
-    -   Source: Milwid et al. (2016).
+    -   Source: Milwid et al. ([2016](#ref-Milwid.etal-FrontiersinPublicHealth-2016))
     -   Chinese: 患病率
 -   **Attack rate**
     -   Definition: The attack rate describes the proportion of the population that becomes **infected** over a specified period of time.
-    -   Source: Milwid et al. (2016).
+    -   Source: Milwid et al. ([2016](#ref-Milwid.etal-FrontiersinPublicHealth-2016))
     -   Chinese: 罹患率
 -   **Clinical attack rate**
     -   Definition: The clinical attack rate measures the proportion fo the population that develops disease **symptoms** as a result of an infection.
-    -   Source: Milwid et al. (2016).
+    -   Source: Milwid et al. ([2016](#ref-Milwid.etal-FrontiersinPublicHealth-2016))
     -   Chinese: 临床罹患率
 -   **Secondary attack rate**
     -   Definition: The secondary attack rate (SAR) is the probability that infection occurs among susceptible persons within a reasonable incubation period following known contact with an infectious person or another infectious source.
-    -   Source: Armitage & Colton (2005).
+    -   Source: Altman et al. ([2005](#ref-Altman.etal-Encyclopediaofbiostatistics-2005))
     -   Chinese: 续发率
 -   **Basic reproduction/reproductive number/ratio**
     -   Symbol: *R*<sub>0</sub>
     -   Definition: the expected number of secondary cases produced by a typical primary case in an **entirely susceptible population**.
-    -   Source: Wallinga & Teunis (2004).
+    -   Source: Wallinga & Teunis ([2004](#ref-Wallinga.Teunis-AmericanJournalofEpidemiology-2004))
     -   Chinese: 基本再生数
 -   **Effective reproduction/reproductive number/ratio**
     -   Symbol: *R*<sub>*t*</sub>
     -   Definition: A population will rarely be totally susceptible to an infection in the real world. The effective reproductive number estimates the average number of secondary cases per infectious case at time *t* in a population made up of both susceptible and non-susceptible hosts.
--   Source: <http://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/epidemic-theory>
+    -   Source: <http://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/epidemic-theory>
     -   Chinese: 有效再生数
-    -   Remark: Wallinga & Teunis (2004) proposed a method that is generic and requires only case incidence data and the distribution of the serial interval to estimate effective reproduction number over the course of an epidemic. However, the approach has several drawbacks. First, estimates are **right censored**, because the estimate of *R* at time *t* requires incidence data from times later than *t*. Approaches to correct for this issue have been developed by Cauchemez et al. (2006). Furthermore, when the data aggregation time step is small (e.g., daily data), estimates of *R* can vary considerably over short time periods., producting substantial negative autocorrelation. For more details we refer the reader to Cori et al. (2013).
+    -   Remark: Wallinga & Teunis ([2004](#ref-Wallinga.Teunis-AmericanJournalofEpidemiology-2004)) proposed a method that is generic and requires only case incidence data and the distribution of the serial interval to estimate effective reproduction number over the course of an epidemic. However, the approach has several drawbacks. First, estimates are **right censored**, because the estimate of *R* at time *t* requires incidence data from times later than *t*. Approaches to correct for this issue have been developed by Cauchemez et al. ([2006](#ref-Cauchemez.etal-EmergingInfectiousDiseases-2006)). Furthermore, when the data aggregation time step is small (e.g., daily data), estimates of *R* can vary considerably over short time periods., producting substantial negative autocorrelation. For more details we refer the reader to Cori et al. ([2013](#ref-Cori.etal-AmericanJournalofEpidemiology-2013)).
 -   **Case reproduction number**
     -   Definition: The case reproduction number is a property of individuals infected at time *t*, and is the average number of people someone infected at time t can expect to infect. It is sometimes called the **cohort reproduction number** because it counts the average number of secondary transmissions caused by a cohort infected at time step *t*.
-    -   Source: Fraser (2007), Cori et al. (2013).
+    -   Source: Fraser ([2007](#ref-Fraser-PLoSONE-2007)), Cori et al. ([2013](#ref-Cori.etal-AmericanJournalofEpidemiology-2013))
     -   Chinese: 病例再生数
-    -   Remark: The case reproduction number is denoted *R*<sub>*c*</sub>(*t*) in Fraser (2007) while *R*<sup>*c*</sup>(*t*) in Cori et al. (2013). Essentially, It is the widely used effective reproduction number. The case reproduction number is the quantity estimated in the Wallinga and Teunis-type approaches.
+    -   Remark: The case reproduction number is denoted *R*<sub>*c*</sub>(*t*) in Fraser ([2007](#ref-Fraser-PLoSONE-2007)) while *R*<sup>*c*</sup>(*t*) in Cori et al. ([2013](#ref-Cori.etal-AmericanJournalofEpidemiology-2013)). Essentially, It is the widely used effective reproduction number. The case reproduction number is the quantity estimated in the Wallinga and Teunis-type approaches.
 -   **Instantaneous reproduction number**
     -   Definition: The instantaneous reproduction number is a property of epidemic at time *t*, and is the average number of people someone infected at time *t* could expect to infect should the condition remain unchanged.
-    -   Source: Fraser (2007), Cori et al. (2013).
+    -   Source: Fraser ([2007](#ref-Fraser-PLoSONE-2007)), Cori et al. ([2013](#ref-Cori.etal-AmericanJournalofEpidemiology-2013))
     -   Chinese: 瞬时再生数
-    -   Remark: In both Fraser (2007) and Cori et al. (2013), the instantaneous reproduction number is denoted *R*(*t*), which is usually used as the notation for effective reproduction number. The instantaneous reproduction number is the only repproduction number easily estimated in real time. Moreover, effective control measures undertaken at time *t* are expected to result in a sudden decrease in the instantaneous reproduction number and a smoother decrease in the case reproduction number. Hence, assessing the efficiency of control measures is easier by using estimates of the instantaneous reproduction number.
+    -   Remark: In both Fraser ([2007](#ref-Fraser-PLoSONE-2007)) and Cori et al. ([2013](#ref-Cori.etal-AmericanJournalofEpidemiology-2013)), the instantaneous reproduction number is denoted *R*(*t*), which is usually used as the notation for effective reproduction number. The instantaneous reproduction number is the only repproduction number easily estimated in real time. Moreover, effective control measures undertaken at time *t* are expected to result in a sudden decrease in the instantaneous reproduction number and a smoother decrease in the case reproduction number. Hence, assessing the efficiency of control measures is easier by using estimates of the instantaneous reproduction number.
 -   **Household reproduction number**
     -   Definition: The household reproduction number is defined as the number of households infected by each infected household.
-    -   Source: Fraser (2007).
+    -   Source: Fraser ([2007](#ref-Fraser-PLoSONE-2007))
     -   Chinese: 家庭再生数
 -   **Vaccine efficacy**
     -   Definition: In epidemiological and clinical studies, vaccine efficacy refers to the percentage reduction in the attack rate of the vaccinated cohort compared to the unvaccinated cohort as observed in randomized controlled (field) trial.
-    -   Source: Milwid et al. (2016).
+    -   Source: Milwid et al. ([2016](#ref-Milwid.etal-FrontiersinPublicHealth-2016))
     -   Chinese: 疫苗效能
 -   **Vaccine effectiveness**
     -   Definition: Vaccine effectiveness refers to the ability of a vaccine to prevent infection or related outcomes in the population in real-world conditions.
-    -   Source: Milwid et al. (2016).
+    -   Source: Milwid et al. ([2016](#ref-Milwid.etal-FrontiersinPublicHealth-2016))
     -   Chinese: 疫苗有效性
 -   **Herd immunity**
     -   Definition: a form of indirect protection from infectious disease that occurs when a large percentage of a population has become immune to an infection, thereby providing a measure of protection for individuals who are not immune.
@@ -328,7 +319,7 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
 -   **Herd immunity threshold, Eradication fraction**
     -   Symbol: *S*<sub>*h*</sub>
     -   Definition: Under a compartmental framwork with homogenous mixing, the minimum fraction of susceptibles that must be immune (or vaccinated at birth (assuming 100% vaccine efficacy)) to reduce *R*<sub>*t*</sub> below 1 and eradicate infection; that is, by the removal of susceptible hosts.
-    -   Source: Mishra et al. (2010).
+    -   Source: Mishra et al. ([2010](#ref-Mishra.etal-JournalofEpidemiologyandCommunityHealth-2010))
     -   Chinese: 群体免疫阈值
 -   **Epidemic**
     -   Definition: an increase in the frequency of occurrence of a disease in a population above its baseline or expected level in a given period.
@@ -343,18 +334,6 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
     -   Source: <https://en.wikipedia.org/wiki/Emerging_infectious_disease>
     -   Chinese: 新发传染病
 
-*References*
-
--   Armitage, P., & Colton, T. (2005). [Encyclopedia of Biostatistics](http://onlinelibrary.wiley.com/book/10.1002/0470011815).
--   Cauchemez, S., Boëlle, P. Y., Donnelly, C. A., Ferguson, N. M., Thomas, G., Leung, G. M., ... & Valleron, A. J. (2006). [Real-time estimates in early detection of SARS](https://wwwnc.cdc.gov/eid/article/12/1/05-0593_article). Emerging infectious diseases, 12(1), 110.
--   Cori, A., Ferguson, N. M., Fraser, C., & Cauchemez, S. (2013). [A new framework and software to estimate time-varying reproduction numbers during epidemics](http://aje.oxfordjournals.org/content/178/9/1505.short). American journal of epidemiology, 178(9), 1505-1512.
--   Fine, P. E. (2003). [The interval between successive cases of an infectious disease](http://aje.oxfordjournals.org/content/158/11/1039.short). American Journal of Epidemiology, 158(11), 1039-1047.
--   Fraser, C. (2007). [Estimating individual and household reproduction numbers in an emerging epidemic](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000758). PLoS One, 2(8), e758.
--   Milwid, R., Steriu, A., Arino, J., Heffernan, J., Hyder, A., Schanzer, D., ... & Moghadas, S. M. (2016). [Toward Standardizing a Lexicon of Infectious Disease Modeling Terms](http://journal.frontiersin.org/article/10.3389/fpubh.2016.00213/full). Frontiers in Public Health, 4.
--   Mishra, S., Fisman, D. N., & Boily, M. C. (2010). [The ABC of terms used in mathematical models of infectious diseases](http://jech.bmj.com/content/early/2010/10/21/jech.2009.097113.short). Journal of epidemiology and community health, jech-2009.
--   Porta, M. (Ed.). (2014). [A dictionary of epidemiology](https://www.amazon.com/Dictionary-Epidemiology-Miquel-Porta/dp/0199976732/). Oxford University Press.
--   Wallinga, J., & Teunis, P. (2004). [Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures](http://aje.oxfordjournals.org/content/160/6/509.short). American Journal of Epidemiology, 160(6), 509-516.
-
 Films and TV Series
 -------------------
 
@@ -367,3 +346,36 @@ Contributing
 Your contributions are always welcome!
 
 This work is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+
+References
+----------
+
+Altman, D. G., Armitage, P., & Colton, T. (2005). Encyclopedia of biostatistics. *Encyclopedia of Biostatistics*.
+
+Butler, D. (2013). When google got flu wrong. *Nature*, *494*(7436), 155–156. Retrieved from <http://www.nature.com/news/when-google-got-flu-wrong-1.12413>
+
+Cauchemez, S., Boëlle, P.-Y., Donnelly, C. A., Ferguson, N. M., Thomas, G., Leung, G. M., … Valleron, A.-J. (2006). Real-time estimates in early detection of sars. *Emerging Infectious Diseases*, *12*(1), 110. Retrieved from <http://wwwnc.cdc.gov/eid/article/12/1/05-0593>
+
+Cori, A., Ferguson, N. M., Fraser, C., & Cauchemez, S. (2013). A new framework and software to estimate time-varying reproduction numbers during epidemics. *American Journal of Epidemiology*, *178*(9), 1505–1512. Retrieved from <http://aje.oxfordjournals.org/content/178/9/1505.abstract>
+
+Fine, P. E. M. (2003). The interval between successive cases of an infectious disease. *American Journal of Epidemiology*, *158*(11), 1039–1047. Retrieved from <http://aje.oxfordjournals.org/content/158/11/1039.abstract>
+
+Fraser, C. (2007). Estimating individual and household reproduction numbers in an emerging epidemic. *PLoS ONE*, *2*(8), e758. <https://doi.org/10.1371/journal.pone.0000758>
+
+Freifeld, C. C., Mandl, K. D., Reis, B. Y., & Brownstein, J. S. (2008). HealthMap: Global infectious disease monitoring through automated classification and visualization of internet media reports. *Journal of the American Medical Informatics Association*, *15*(2), 150–157. Retrieved from <http://jamia.oxfordjournals.org/content/15/2/150.abstract>
+
+Ginsberg, J., Mohebbi, M. H., Patel, R. S., Brammer, L., Smolinski, M. S., & Brilliant, L. (2009). Detecting influenza epidemics using search engine query data. *Nature*, *457*(7232), 1012–1014. Retrieved from <http://dx.doi.org/10.1038/nature07634>
+
+Lazer, D., Kennedy, R., King, G., & Vespignani, A. (2014). The parable of google flu: Traps in big data analysis. *Science*, *343*(6176), 1203–1205. Retrieved from <http://www.sciencemag.org/content/343/6176/1203.short>
+
+Milwid, R., Steriu, A., Arino, J., Heffernan, J., Hyder, A., Schanzer, D., … Moghadas, S. M. (2016). Toward standardizing a lexicon of infectious disease modeling terms. *Frontiers in Public Health*, *4*, 213. Retrieved from <http://journal.frontiersin.org/article/10.3389/fpubh.2016.00213>
+
+Mishra, S., Fisman, D. N., & Boily, M.-C. (2010). The abc of terms used in mathematical models of infectious diseases. *Journal of Epidemiology and Community Health*. Retrieved from <http://jech.bmj.com/content/early/2010/10/21/jech.2009.097113.abstract>
+
+Panhuis, W. G. van, Grefenstette, J., Jung, S. Y., Chok, N. S., Cross, A., Eng, H., … Burke, D. S. (2013). Contagious diseases in the united states from 1888 to the present. *New England Journal of Medicine*, *369*(22), 2152–2158. <https://doi.org/10.1056/NEJMms1215400>
+
+Porta, M. (2014). *A dictionary of epidemiology*. Oxford university press.
+
+Squires, R. B., Noronha, J., Hunt, V., García-Sastre, A., Macken, C., Baumgarth, N., … Scheuermann, R. H. (2012). Influenza research database: An integrated bioinformatics resource for influenza research and surveillance. *Influenza and Other Respiratory Viruses*, *6*(6), 404–416. Retrieved from <http://dx.doi.org/10.1111/j.1750-2659.2011.00331.x>
+
+Wallinga, J., & Teunis, P. (2004). Different epidemic curves for severe acute respiratory syndrome reveal similar impacts of control measures. *American Journal of Epidemiology*, *160*(6), 509–516. Retrieved from <http://aje.oxfordjournals.org/content/160/6/509.abstract>
