@@ -25,7 +25,7 @@ output:
 - [Databases for Influenza Research](#databases-for-influenza-research)
 - [Software Packages for Influenza Research](#software-packages-for-influenza-research)
 - [Workshops and Conferences](#workshops-and-conferences)
-- [MOOCs](#moocs)
+- [Courses](#courses)
 - [Glossary](#glossary)
 - [Films and TV Series](#films-and-tv-series)
 - [Contributing](#contributing)
@@ -180,12 +180,31 @@ output:
 * [Epidemics: International Conference on Infectious Disease Dynamics](http://www.epidemics.elsevier.com/)
 * [Annual Ecology and Evolution of Infectious Disease Conference](http://eeidconference.org/)
 
-## MOOCs
-*Massive Open Online Courses*
+## Courses
+*Massive Open Online Courses (MOOCs)*
 
 * [Epidemics - the Dynamics of Infectious Diseases](https://www.coursera.org/course/epidemics): a course provided by the Pennsylvania State University discusses about the dynamics of Malaria, HIV/AIDS, Influenza, Measles - how they emerge, how they spread around the globe, and how they can best be controlled.
 
 * [Epidemics](https://www.edx.org/course/epidemics-hkux-hku01x-0): a course provided by the University of Hong Kong covers these four topics: origins of novel pathogens; analysis of the spread of infectious diseases; medical and public health countermeasures to prevent and control epidemics; panel discussions involving leading public health experts with deep frontline experiences to share their views on risk communication, crisis management, ethics and public trust in the context of infectious disease control.
+
+*Short courses*
+
+* [Introduction to Mathematical Models of the Epidemiology & Control of Infectious Diseases](http://www.infectiousdiseasemodels.org/): an interactive short course taught by leading researchers who advise policy-makers internationally. Topics include HIV, TB, malaria, Ebola, pandemic influenza, health economics, vaccination programmes, stochastic models & more.
+
+* [Introduction to Infectious Disease Modelling and Its Applications](https://www.lshtm.ac.uk/study/courses/short-courses/infectious-disease-modelling): a two week course organised jointly between the [London School of Hygiene & Tropical Medicine (LSHTM)](https://www.lshtm.ac.uk/) and [Public Health England](https://www.gov.uk/government/organisations/public-health-england)
+
+* [Model Fitting and Inference for Infectious Disease Dynamics (MFIIDD)](https://www.lshtm.ac.uk/study/courses/short-courses/infectious-diseases-dynamics): a short course taught by members of the [Centre for the Mathematical Modelling of Infectious Diseases](http://cmmid.lshtm.ac.uk/) at the [London School of Hygiene & Tropical Medicine (LSHTM)](https://www.lshtm.ac.uk/). MFIIDD 2016 course materials can be found [here](http://sbfnk.github.io/mfiidd/index.html).
+
+* [Model-based Inference in Ecology and Epidemiology](http://kingaa.github.io/short-course/): an introduction to ecological and epidemiological stochastic dynamical systems models using a series of examples with real data.
+
+*Summer School*
+
+* [Computational Biology for Infectious Diseases (CBID)](http://cbid.asia/): The summer school is for students, researchers and professionals working on infectious diseases and wishing to acquire knowledge and practice in quantitative analyses or, on the contrary, working in modeling sciences (mathematics, informatics) and wishing to acquire knowledge in health sciences applications.
+
+* [Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)](https://www.biostat.washington.edu/suminst/sismid): The summer institute is designed to introduce infectious disease researchers to modern methods of statistical analysis and mathematical modeling and to introduce statisticians and mathematical modelers to the statistical and dynamic problems posed by modern infectious disease data.
+    - [Materials for SISMID 2016 Module 7: Simulation-based Inference for Epidemiological Dynamics](http://kingaa.github.io/sbied/)
+    - [Materials for SISMID 2016 Module 15: Pathogen Evolution, Selection, and Immunity ](http://bedford.io/projects/sismid/)
+
 
 ## Glossary
 *Review Papers*
