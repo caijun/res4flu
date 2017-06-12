@@ -202,9 +202,13 @@ output:
 * [Computational Biology for Infectious Diseases (CBID)](http://cbid.asia/): The summer school is for students, researchers and professionals working on infectious diseases and wishing to acquire knowledge and practice in quantitative analyses or, on the contrary, working in modeling sciences (mathematics, informatics) and wishing to acquire knowledge in health sciences applications.
 
 * [Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)](https://www.biostat.washington.edu/suminst/sismid): The summer institute is designed to introduce infectious disease researchers to modern methods of statistical analysis and mathematical modeling and to introduce statisticians and mathematical modelers to the statistical and dynamic problems posed by modern infectious disease data.
+    - [Materials](http://faculty.washington.edu/kenrice/rintro/index.shtml) for [SISMID 2016 Module 4: Introduction to R](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1604)
     - [Materials](http://vnminin.github.io/SISMID_MCMC_I/) for [SISMID 2016 Module 7: MCMC I for Infectious Diseases](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1607)
     - [Materials](http://kingaa.github.io/sbied/) for [SISMID 2016 Module 9: Simulation-based Inference for Epidemiological Dynamics](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1609)
+    - [Materials](https://github.com/chendaniely/2016-07-sismid/tree/master/sismid_10-statistics_and_modeling_with_novel_data_streams) for [SISMID 2016 Module 10: Statistics and Modeling with Novel Data Streams](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1610)
+    - [Materials](https://github.com/chendaniely/2016-07-sismid/tree/master/sismid_11-mcmc2_for_infectious_diseases) for [SISMID 2016 Module 11: MCMC II for Infectious Diseases](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1611)
     - [Materials](http://bedford.io/projects/sismid/) for [SISMID 2016 Module 15: Pathogen Evolution, Selection, and Immunity](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1615)
+    - [Materials](https://github.com/chendaniely/2016-07-sismid/tree/master/sismid_16-spatial_statistics) for [SISMID 2016 Module 16: Spatial Statistics in Epidemiology and Public Health](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1616)
 
 
 ## Glossary
