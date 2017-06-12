@@ -198,9 +198,9 @@ Courses
 
 -   [Introduction to Mathematical Models of the Epidemiology & Control of Infectious Diseases](http://www.infectiousdiseasemodels.org/): an interactive short course taught by leading researchers who advise policy-makers internationally. Topics include HIV, TB, malaria, Ebola, pandemic influenza, health economics, vaccination programmes, stochastic models & more.
 
--   [Introduction to Infectious Disease Modelling and Its Applications](https://www.lshtm.ac.uk/study/courses/short-courses/infectious-disease-modelling): a two week course organised jointly between the [London School of Hygiene & Tropical Medicine (LSHTM)](https://www.lshtm.ac.uk/) and [Public Health England](https://www.gov.uk/government/organisations/public-health-england)
+-   [Introduction to Infectious Disease Modelling and Its Applications](https://www.lshtm.ac.uk/study/courses/short-courses/infectious-disease-modelling): a two week course organised jointly between the [London School of Hygiene & Tropical Medicine (LSHTM)](https://www.lshtm.ac.uk/) and [Public Health England](https://www.gov.uk/government/organisations/public-health-england).
 
--   [Model Fitting and Inference for Infectious Disease Dynamics (MFIIDD)](https://www.lshtm.ac.uk/study/courses/short-courses/infectious-diseases-dynamics): a short course taught by members of the [Centre for the Mathematical Modelling of Infectious Diseases](http://cmmid.lshtm.ac.uk/) at the [London School of Hygiene & Tropical Medicine (LSHTM)](https://www.lshtm.ac.uk/). MFIIDD 2016 course materials can be found [here](http://sbfnk.github.io/mfiidd/index.html).
+-   [Model Fitting and Inference for Infectious Disease Dynamics (MFIIDD)](https://www.lshtm.ac.uk/study/courses/short-courses/infectious-diseases-dynamics): a short course taught by members of the [Centre for the Mathematical Modelling of Infectious Diseases (CMMID)](http://cmmid.lshtm.ac.uk/) at the [London School of Hygiene & Tropical Medicine (LSHTM)](https://www.lshtm.ac.uk/). MFIIDD 2016 course materials can be found [here](http://sbfnk.github.io/mfiidd/index.html).
 
 -   [Model-based Inference in Ecology and Epidemiology](http://kingaa.github.io/short-course/): an introduction to ecological and epidemiological stochastic dynamical systems models using a series of examples with real data.
 
