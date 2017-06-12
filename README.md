@@ -209,8 +209,9 @@ Courses
 -   [Computational Biology for Infectious Diseases (CBID)](http://cbid.asia/): The summer school is for students, researchers and professionals working on infectious diseases and wishing to acquire knowledge and practice in quantitative analyses or, on the contrary, working in modeling sciences (mathematics, informatics) and wishing to acquire knowledge in health sciences applications.
 
 -   [Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)](https://www.biostat.washington.edu/suminst/sismid): The summer institute is designed to introduce infectious disease researchers to modern methods of statistical analysis and mathematical modeling and to introduce statisticians and mathematical modelers to the statistical and dynamic problems posed by modern infectious disease data.
-    -   [Materials for SISMID 2016 Module 7: Simulation-based Inference for Epidemiological Dynamics](http://kingaa.github.io/sbied/)
-    -   [Materials for SISMID 2016 Module 15: Pathogen Evolution, Selection, and Immunity](http://bedford.io/projects/sismid/)
+    -   [Materials](http://vnminin.github.io/SISMID_MCMC_I/) for [SISMID 2016 Module 7: MCMC I for Infectious Diseases](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1607)
+    -   [Materials](http://kingaa.github.io/sbied/) for [SISMID 2016 Module 9: Simulation-based Inference for Epidemiological Dynamics](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1609)
+    -   [Materials](http://bedford.io/projects/sismid/) for [SISMID 2016 Module 15: Pathogen Evolution, Selection, and Immunity](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1615)
 
 Glossary
 --------
