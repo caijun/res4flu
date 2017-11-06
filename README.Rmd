@@ -94,7 +94,7 @@ output:
 
 *Review Papers*
 
-* Rates, C. (2011). [Global Influenza Seasonality: Reconciling Patterns Across Temperate and Tropical Regions](http://ehp.niehs.nih.gov/1002383/). Environmental health perspectives, 119(4), 439.
+* Tamerius, J., Nelson, M. I., Zhou, S. Z., Viboud, C., Miller, M. A., & Alonso, W. J. (2011). [Global influenza seasonality: reconciling patterns across temperate and tropical regions](http://ehp.niehs.nih.gov/1002383/). Environmental health perspectives, 119(4), 439.
 - [x] Fuhrmann, C. (2010). [The Effects of Weather and Climate on the Seasonality of Influenza: What We Know and What We Need to Know](http://onlinelibrary.wiley.com/doi/10.1111/j.1749-8198.2010.00343.x/full). Geography Compass, 4(7), 718-730.
 - [x] Lipsitch, M., & Viboud, C. (2009). [Influenza Seasonality: Lifting the Fog](http://www.pnas.org/content/106/10/3645.short). Proceedings of the National Academy of Sciences, 106(10), 3645-3646.
 * Lofgren, E., Fefferman, N. H., Naumov, Y. N., Gorski, J., & Naumova, E. N. (2007). [Influenza Seasonality: Underlying Causes and Modeling Theories](http://jvi.asm.org/content/81/11/5429.short). Journal of virology, 81(11), 5429-5436.
