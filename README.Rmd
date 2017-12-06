@@ -8,7 +8,7 @@ output:
     fig_caption: no
     latex_engine: xelatex
   md_document:
-    variant: markdown_github
+    variant: gfm
 ---
 
 # Resources for Influenza Research
@@ -359,6 +359,7 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
 
 ## Films and TV Series
 
+* CNN documentary film [Unseen Enemy](http://www.takesallofus.com/)
 * [Flu](https://en.wikipedia.org/wiki/Flu_(film)) from South Korea
 * [亚洲英雄](http://baike.baidu.com/view/1952499.htm) from Hong Kong
 
