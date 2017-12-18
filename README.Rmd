@@ -4,11 +4,11 @@ csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
 link-citations: yes
 output:
+  md_document:
+    variant: gfm
   pdf_document:
     fig_caption: no
     latex_engine: xelatex
-  md_document:
-    variant: gfm
 ---
 
 # Resources for Influenza Research
@@ -26,6 +26,7 @@ output:
 - [Software Packages for Influenza Research](#software-packages-for-influenza-research)
 - [Workshops and Conferences](#workshops-and-conferences)
 - [Courses](#courses)
+- [Channels](#channels)
 - [Glossary](#glossary)
 - [Films and TV Series](#films-and-tv-series)
 - [Contributing](#contributing)
@@ -212,6 +213,11 @@ output:
     - [Materials](https://github.com/chendaniely/2016-07-sismid/tree/master/sismid_11-mcmc2_for_infectious_diseases) for [SISMID 2016 Module 11: MCMC II for Infectious Diseases](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1611)
     - [Materials](http://bedford.io/projects/sismid/) for [SISMID 2016 Module 15: Pathogen Evolution, Selection, and Immunity](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1615)
     - [Materials](https://github.com/chendaniely/2016-07-sismid/tree/master/sismid_16-spatial_statistics) for [SISMID 2016 Module 16: Spatial Statistics in Epidemiology and Public Health](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1616)
+    
+
+## Channels
+
+* [Disease Forecasting & Surveillance](https://channels.plos.org/dfs): a global forum for disease forecasting and surveillance research.
 
 
 ## Glossary

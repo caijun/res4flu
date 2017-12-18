@@ -17,6 +17,7 @@
     Research](#software-packages-for-influenza-research)
   - [Workshops and Conferences](#workshops-and-conferences)
   - [Courses](#courses)
+  - [Channels](#channels)
   - [Glossary](#glossary)
   - [Films and TV Series](#films-and-tv-series)
   - [Contributing](#contributing)
@@ -472,6 +473,11 @@
         for [SISMID 2016 Module 16: Spatial Statistics in Epidemiology
         and Public
         Health](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1616)
+
+## Channels
+
+  - [Disease Forecasting & Surveillance](https://channels.plos.org/dfs):
+    a global forum for disease forecasting and surveillance research.
 
 ## Glossary
 
