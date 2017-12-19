@@ -478,6 +478,8 @@
 
   - [Disease Forecasting & Surveillance](https://channels.plos.org/dfs):
     a global forum for disease forecasting and surveillance research.
+  - [RECON learn](https://reconlearn.netlify.com/): a free, open
+    platform for training material on epidemics analysis.
 
 ## Glossary
 
