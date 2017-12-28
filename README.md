@@ -1,5 +1,3 @@
-# Resources for Influenza Research
-
   - [Topics and Keywords](#topics-and-keywords)
   - [Infectious Disease Epidemiology](#infectious-disease-epidemiology)
   - [Modeling Infectious Diseases](#modeling-infectious-diseases)

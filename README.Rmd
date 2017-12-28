@@ -1,17 +1,18 @@
 ---
+title: "Resources for Influenza Research"
 bibliography: bibliography.bib
 csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
 link-citations: yes
 output:
   md_document:
+    toc: true
     variant: gfm
   pdf_document:
+    toc: true
     fig_caption: no
     latex_engine: xelatex
 ---
-
-# Resources for Influenza Research
 
 - [Topics and Keywords](#topics-and-keywords)
 - [Infectious Disease Epidemiology](#infectious-disease-epidemiology)
