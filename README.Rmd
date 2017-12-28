@@ -5,6 +5,8 @@ csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
 link-citations: yes
 output:
+  md_document:
+    toc: true
   github_document:
     toc: true
   pdf_document:
