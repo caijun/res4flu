@@ -5,12 +5,12 @@ csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
 link-citations: yes
 output:
-  github_document:
-    toc: true
   pdf_document:
     toc: true
     fig_caption: no
     latex_engine: xelatex
+  github_document:
+    toc: true
   md_document:
     toc: true
 ---
@@ -78,6 +78,7 @@ output:
 
 *Review Papers*
 
+* Altizer, S., Dobson, A., Hosseini, P., Hudson, P., Pascual, M., & Rohani, P. (2006). [Seasonality and the dynamics of infectious diseases](http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2005.00879.x/full). Ecology letters, 9(4), 467-484.
 * Tamerius, J., Nelson, M. I., Zhou, S. Z., Viboud, C., Miller, M. A., & Alonso, W. J. (2011). [Global influenza seasonality: reconciling patterns across temperate and tropical regions](http://ehp.niehs.nih.gov/1002383/). Environmental health perspectives, 119(4), 439.
 - [x] Fuhrmann, C. (2010). [The Effects of Weather and Climate on the Seasonality of Influenza: What We Know and What We Need to Know](http://onlinelibrary.wiley.com/doi/10.1111/j.1749-8198.2010.00343.x/full). Geography Compass, 4(7), 718-730.
 - [x] Lipsitch, M., & Viboud, C. (2009). [Influenza Seasonality: Lifting the Fog](http://www.pnas.org/content/106/10/3645.short). Proceedings of the National Academy of Sciences, 106(10), 3645-3646.

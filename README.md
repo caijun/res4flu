@@ -151,6 +151,10 @@ Resources for Influenza Research
 
 *Review Papers*
 
+  - Altizer, S., Dobson, A., Hosseini, P., Hudson, P., Pascual, M., &
+    Rohani, P. (2006). [Seasonality and the dynamics of infectious
+    diseases](http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2005.00879.x/full).
+    Ecology letters, 9(4), 467-484.
   - Tamerius, J., Nelson, M. I., Zhou, S. Z., Viboud, C., Miller, M. A.,
     & Alonso, W. J. (2011). [Global influenza seasonality: reconciling
     patterns across temperate and tropical
