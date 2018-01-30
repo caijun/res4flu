@@ -1,30 +1,6 @@
 Resources for Influenza Research
 ================
 
-## Contents
--   [Topics and Keywords](#topics-and-keywords)
--   [Infectious Disease Epidemiology](#infectious-disease-epidemiology)
--   [Modeling Infectious Diseases](#modeling-infectious-diseases)
--   [Ecology and Evolution of
-    Influenza](#ecology-and-evolution-of-influenza)
--   [Seasonality of Influenza](#seasonality-of-influenza)
--   [Dynamics of Influenza](#dynamics-of-influenza)
-    -   [Influenza Transmission](#influenza-transmission)
-    -   [Influenza Forecasting](#influenza-forecasting)
-    -   [Digital Detection of
-        Influenza](#digital-detection-of-influenza)
--   [Databases for Influenza
-    Research](#databases-for-influenza-research)
--   [Software Packages for Influenza
-    Research](#software-packages-for-influenza-research)
--   [Workshops and Conferences](#workshops-and-conferences)
--   [Courses](#courses)
--   [Channels](#channels)
--   [Glossary](#glossary)
--   [Films and TV Series](#films-and-tv-series)
--   [Contributing](#contributing)
--   [References](#references)
-
 ## Topics and Keywords
 
   - [Influenza](http://en.wikipedia.org/wiki/Influenza) | Flu
@@ -94,6 +70,10 @@ Resources for Influenza Research
 
 *Review Papers*
 
+  - Metcalf, C. J. E., & Lessler, J. (2017). [Opportunities and
+    challenges in modeling emerging infectious
+    diseases](http://science.sciencemag.org/content/357/6347/149).
+    Science, 357(6347), 149-152.
   - \[x\] Heesterbeek, H., Anderson, R. M., Andreasen, V., Bansal, S.,
     De Angelis, D., Dye, C., … & Viboud, C. (2015). [Modeling Infectious
     Disease Dynamics in the Complex Landscape of Global

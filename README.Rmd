@@ -5,12 +5,12 @@ csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
 link-citations: yes
 output:
+  github_document:
+    toc: true
   pdf_document:
     toc: true
     fig_caption: no
     latex_engine: xelatex
-  github_document:
-    toc: true
   md_document:
     toc: true
 ---
@@ -53,6 +53,7 @@ output:
 
 *Review Papers*
 
+* Metcalf, C. J. E., & Lessler, J. (2017). [Opportunities and challenges in modeling emerging infectious diseases](http://science.sciencemag.org/content/357/6347/149). Science, 357(6347), 149-152.
 - [x] Heesterbeek, H., Anderson, R. M., Andreasen, V., Bansal, S., De Angelis, D., Dye, C., ... & Viboud, C. (2015). [Modeling Infectious Disease Dynamics in the Complex Landscape of Global Health](http://www.sciencemag.org/content/347/6227/aaa4339.short). Science, 347(6227), aaa4339.
 * A Special Issue of *Epidemics* on [Challenges in Modelling Infectious Disease Dynamics](http://www.sciencedirect.com/science/journal/17554365/10).
 - [x] Grassly, N. C., & Fraser, C. (2008). [Mathematical Models of Infectious Disease Transmission](http://www.nature.com/nrmicro/journal/v6/n6/full/nrmicro1845.html). Nature Reviews Microbiology, 6(6), 477-487.
