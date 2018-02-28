@@ -5,12 +5,13 @@ csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
 link-citations: yes
 output:
-  github_document:
-    toc: true
   pdf_document:
     toc: true
     fig_caption: no
     latex_engine: xelatex
+  github_document:
+    toc: true
+    pandoc_args: --webtex
   md_document:
     toc: true
 ---
