@@ -1,31 +1,6 @@
 Resources for Influenza Research
 ================
 
-## Contents
-
--   [Topics and Keywords](#topics-and-keywords)
--   [Infectious Disease Epidemiology](#infectious-disease-epidemiology)
--   [Modeling Infectious Diseases](#modeling-infectious-diseases)
--   [Ecology and Evolution of
-    Influenza](#ecology-and-evolution-of-influenza)
--   [Seasonality of Influenza](#seasonality-of-influenza)
--   [Dynamics of Influenza](#dynamics-of-influenza)
-    -   [Influenza Transmission](#influenza-transmission)
-    -   [Influenza Forecasting](#influenza-forecasting)
-    -   [Digital Detection of
-        Influenza](#digital-detection-of-influenza)
--   [Databases for Influenza
-    Research](#databases-for-influenza-research)
--   [Software Packages for Influenza
-    Research](#software-packages-for-influenza-research)
--   [Workshops and Conferences](#workshops-and-conferences)
--   [Courses](#courses)
--   [Channels](#channels)
--   [Glossary](#glossary)
--   [Films and TV Series](#films-and-tv-series)
--   [Contributing](#contributing)
--   [References](#references)
-
 ## Topics and Keywords
 
   - [Influenza](http://en.wikipedia.org/wiki/Influenza) | Flu
@@ -349,6 +324,13 @@ Resources for Influenza Research
     ([2000](#ref-Finkenstaedt.Grenfell-JournaloftheRoyalStatisticalSociety:SeriesCAppliedStatistics-2000))
     using a number of different fitting options for infectious disease
     time series data.
+  - [fitR](https://github.com/sbfnk/fitR): Provides functions for model
+    fitting and
+    inference.
+  - [socialmixr](https://cran.r-project.org/web/packages/socialmixr/index.html):
+    Provides methods for sampling contact matrices from diary data for
+    use in infectious disease modelling, as discussed in Mossong et al.
+    ([2008](#ref-Mossong.etal-PLoSMed-2008)).
   - [epidemics](https://github.com/ensoesie/epidemics): An R package to
     define seasonal influenza epidemic onset and duration.
   - [The R-epi
@@ -744,6 +726,12 @@ SEIR model is illustrated in Figure 1 of Milwid et al.
         a given period.
       - Source: <https://en.wikipedia.org/wiki/Epidemic>
       - Chinese: 流行病
+  - **Epidemic final size**
+      - Definition: TODO
+      - Source: A Note on the Derivation of Epidemic Final Sizes,
+        Generality of the Final Size Formula for an Epidemic of a Newly
+        Invading Infectious Disease, Epidemic final size calculation
+      - Chinese: TODO
   - **Epidemic curve**
       - Definition: the frequency of new cases over time based on the
         date of onset of disease.
@@ -887,6 +875,15 @@ Mishra, S., Fisman, D. N., & Boily, M.-C. (2010). The abc of terms used
 in mathematical models of infectious diseases. *Journal of Epidemiology
 and Community Health*. Retrieved from
 <http://jech.bmj.com/content/early/2010/10/21/jech.2009.097113.abstract>
+
+</div>
+
+<div id="ref-Mossong.etal-PLoSMed-2008">
+
+Mossong, J., Hens, N., Jit, M., Beutels, P., Auranen, K., Mikolajczyk,
+R., … Edmunds, W. J. (2008). Social contacts and mixing patterns
+relevant to the spread of infectious diseases. *PLoS Med*, *5*(3), e74.
+<https://doi.org/10.1371/journal.pmed.0050074>
 
 </div>
 
