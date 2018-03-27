@@ -385,8 +385,9 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
 ## Films and TV Series
 
 * CNN documentary film [Unseen Enemy](http://www.takesallofus.com/)
+* BBC documentary [Contagion! The BBC Four Pandemic](http://www.bbc.co.uk/programmes/p059y0p1)
 * [Flu](https://en.wikipedia.org/wiki/Flu_(film)) from South Korea
-* [亚洲英雄](http://baike.baidu.com/view/1952499.htm) from Hong Kong
+* [亚洲英雄](http://baike.baidu.com/view/1952499.htm) from Hong Kong, based on the SARS outbreak in 2003
 
 
 ## Contributing

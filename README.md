@@ -3,28 +3,28 @@ Resources for Influenza Research
 
 ## Contents
 
--   [Topics and Keywords](#topics-and-keywords)
--   [Infectious Disease Epidemiology](#infectious-disease-epidemiology)
--   [Modeling Infectious Diseases](#modeling-infectious-diseases)
--   [Ecology and Evolution of
+  - [Topics and Keywords](#topics-and-keywords)
+  - [Infectious Disease Epidemiology](#infectious-disease-epidemiology)
+  - [Modeling Infectious Diseases](#modeling-infectious-diseases)
+  - [Ecology and Evolution of
     Influenza](#ecology-and-evolution-of-influenza)
--   [Seasonality of Influenza](#seasonality-of-influenza)
--   [Dynamics of Influenza](#dynamics-of-influenza)
-    -   [Influenza Transmission](#influenza-transmission)
-    -   [Influenza Forecasting](#influenza-forecasting)
-    -   [Digital Detection of
+  - [Seasonality of Influenza](#seasonality-of-influenza)
+  - [Dynamics of Influenza](#dynamics-of-influenza)
+      - [Influenza Transmission](#influenza-transmission)
+      - [Influenza Forecasting](#influenza-forecasting)
+      - [Digital Detection of
         Influenza](#digital-detection-of-influenza)
--   [Databases for Influenza
+  - [Databases for Influenza
     Research](#databases-for-influenza-research)
--   [Software Packages for Influenza
+  - [Software Packages for Influenza
     Research](#software-packages-for-influenza-research)
--   [Workshops and Conferences](#workshops-and-conferences)
--   [Courses](#courses)
--   [Channels](#channels)
--   [Glossary](#glossary)
--   [Films and TV Series](#films-and-tv-series)
--   [Contributing](#contributing)
--   [References](#references)
+  - [Workshops and Conferences](#workshops-and-conferences)
+  - [Courses](#courses)
+  - [Channels](#channels)
+  - [Glossary](#glossary)
+  - [Films and TV Series](#films-and-tv-series)
+  - [Contributing](#contributing)
+  - [References](#references)
 
 ## Topics and Keywords
 
@@ -773,8 +773,11 @@ SEIR model is illustrated in Figure 1 of Milwid et al.
 ## Films and TV Series
 
   - CNN documentary film [Unseen Enemy](http://www.takesallofus.com/)
+  - BBC documentary [Contagion\! The BBC Four
+    Pandemic](http://www.bbc.co.uk/programmes/p059y0p1)
   - [Flu](https://en.wikipedia.org/wiki/Flu_\(film\)) from South Korea
-  - [亚洲英雄](http://baike.baidu.com/view/1952499.htm) from Hong Kong
+  - [亚洲英雄](http://baike.baidu.com/view/1952499.htm) from Hong Kong,
+    based on the SARS outbreak in 2003
 
 ## Contributing
 
