@@ -324,10 +324,8 @@ Resources for Influenza Research
     Packages*
 
   - [cdcfluview](https://cran.r-project.org/web/packages/cdcfluview/index.html):
-    Retrieve U.S. Flu Season Data from the CDC FluView Portal.
-  - [R0](https://cran.r-project.org/web/packages/R0/index.html):
-    Estimation of R0 and Real-Time Reproduction Number from
-    Epidemics.
+    Retrieve U.S. Flu Season Data from the CDC FluView
+    Portal.
   - [EpiDynamics](https://cran.r-project.org/web/packages/EpiDynamics/index.html):
     Dynamic Models in Epidemiology. Currently, the R package
     **EpiDynamics** implements the computer programs written in other
@@ -337,35 +335,42 @@ Resources for Influenza Research
     ([2008](#ref-Keeling.Rohani-Modelinginfectiousdiseases-2008)).
     Python Programs for this book can also be found
     [here](http://wiki.deductivethinking.com/wiki/Python_Programs_for_Modelling_Infectious_Diseases_book).
+  - [epidemics](https://github.com/ensoesie/epidemics): An R package to
+    define seasonal influenza epidemic onset and
+    duration.
   - [EpiModel](https://cran.r-project.org/web/packages/EpiModel/index.html):
     Mathematical Modeling of Infectious
     Disease.
   - [epitools](https://cran.r-project.org/web/packages/epitools/index.html):
     Tools for training and practicing epidemiologists including methods
     for two-way and multi-way contingency tables.
+  - [epinet](https://cran.r-project.org/web/packages/epinet/index.html):
+    An R package to analyze epidemics spread across contact networks.
+    Details are described in Groendyke & Welch
+    ([2018](#ref-Groendyke.Welch-JournalofStatisticalSoftware-2018)).
+  - [fitR](https://github.com/sbfnk/fitR): Provides functions for model
+    fitting and inference.
+  - [R0](https://cran.r-project.org/web/packages/R0/index.html):
+    Estimation of R0 and Real-Time Reproduction Number from Epidemics.
+    Details are described in Obadia et al.
+    ([2012](#ref-Obadia.etal-BMCMedicalInformaticsandDecisionMaking-2012)).
+  - [socialmixr](https://cran.r-project.org/web/packages/socialmixr/index.html):
+    Provides methods for sampling contact matrices from diary data for
+    use in infectious disease modelling, as discussed in Mossong et al.
+    ([2008](#ref-Mossong.etal-PLoSMed-2008)).
   - [tsiR](https://cran.r-project.org/web/packages/tsiR/index.html): An
     implementation of the time-series Susceptible-Infected-Recovered
     (TSIR) model described by Finkenstädt & Grenfell
     ([2000](#ref-Finkenstaedt.Grenfell-JournaloftheRoyalStatisticalSociety:SeriesCAppliedStatistics-2000))
     using a number of different fitting options for infectious disease
     time series data.
-  - [fitR](https://github.com/sbfnk/fitR): Provides functions for model
-    fitting and
-    inference.
-  - [socialmixr](https://cran.r-project.org/web/packages/socialmixr/index.html):
-    Provides methods for sampling contact matrices from diary data for
-    use in infectious disease modelling, as discussed in Mossong et al.
-    ([2008](#ref-Mossong.etal-PLoSMed-2008)).
-  - [epidemics](https://github.com/ensoesie/epidemics): An R package to
-    define seasonal influenza epidemic onset and duration.
-  - [The R-epi
-    project](https://sites.google.com/site/therepiproject/home): lists
-    resources for infectious disease epidemiology using the R software.
-    These resources include an overview of R packages, alongside
-    dedicated documentation, cross-packages tutorials, and links to
-    relevant forums of discussion. Now these are migrated to the
-    [projects](http://www.repidemicsconsortium.org/projects/) of [R
-    Epidemics Consortium (RECON)](http://www.repidemicsconsortium.org/).
+  - [Projects](http://www.repidemicsconsortium.org/projects/) of [R
+    Epidemics Consortium (RECON)](http://www.repidemicsconsortium.org/):
+    lists released projects and packages, up-and-coming packages, and
+    related packages that authored by RECON members and relevant for
+    infectious disease epidemiology. The precursor of RECON is [The
+    R-epi project](https://sites.google.com/site/therepiproject/home),
+    which will eventually be replaced the RECON website.
 
 *Python Packages*
 
@@ -871,6 +876,14 @@ engine query data. *Nature*, *457*(7232), 1012–1014. Retrieved from
 
 </div>
 
+<div id="ref-Groendyke.Welch-JournalofStatisticalSoftware-2018">
+
+Groendyke, C., & Welch, D. (2018). Epinet: An r package to analyze
+epidemics spread across contact networks. *J. Stat. Softw.*, *83*(11),
+1–22.
+
+</div>
+
 <div id="ref-Keeling.Rohani-Modelinginfectiousdiseases-2008">
 
 Keeling, M. J., & Rohani, P. (2008). *Modeling infectious diseases in
@@ -912,6 +925,15 @@ Mossong, J., Hens, N., Jit, M., Beutels, P., Auranen, K., Mikolajczyk,
 R., … Edmunds, W. J. (2008). Social contacts and mixing patterns
 relevant to the spread of infectious diseases. *PLoS Med*, *5*(3), e74.
 <https://doi.org/10.1371/journal.pmed.0050074>
+
+</div>
+
+<div id="ref-Obadia.etal-BMCMedicalInformaticsandDecisionMaking-2012">
+
+Obadia, T., Haneef, R., & Boelle, P.-Y. (2012). The r0 package: A
+toolbox to estimate reproduction numbers for epidemic outbreaks. *BMC
+Med. Inform. Decis. Mak.*, *12*(1), 147. Retrieved from
+<http://www.biomedcentral.com/1472-6947/12/147>
 
 </div>
 
