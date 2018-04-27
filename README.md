@@ -780,6 +780,8 @@ SEIR model is illustrated in Figure 1 of Milwid et al.
   - CNN documentary film [Unseen Enemy](http://www.takesallofus.com/)
   - BBC documentary [Contagion\! The BBC Four
     Pandemic](http://www.bbc.co.uk/programmes/p059y0p1)
+  - [Contagion](https://en.wikipedia.org/wiki/Contagion_\(film\)) from
+    U.S.
   - [Flu](https://en.wikipedia.org/wiki/Flu_\(film\)) from South Korea
   - [亚洲英雄](http://baike.baidu.com/view/1952499.htm) from Hong Kong,
     based on the SARS outbreak in 2003
