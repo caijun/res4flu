@@ -5,13 +5,13 @@ csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
 link-citations: yes
 output:
-  github_document:
-    toc: true
-    pandoc_args: --webtex
   pdf_document:
     toc: false
     fig_caption: no
     latex_engine: xelatex
+  github_document:
+    toc: true
+    pandoc_args: --webtex
   md_document:
     toc: true
 ---
@@ -178,7 +178,8 @@ output:
 * [EpiModel](https://cran.r-project.org/web/packages/EpiModel/index.html): Mathematical Modeling of Infectious Disease.
 * [epitools](https://cran.r-project.org/web/packages/epitools/index.html): Tools for training and practicing epidemiologists including methods for two-way and multi-way contingency tables.
 * [epinet](https://cran.r-project.org/web/packages/epinet/index.html): An R package to analyze epidemics spread across contact networks. Details are described in @Groendyke.Welch-JournalofStatisticalSoftware-2018.
-* [fitR](https://github.com/sbfnk/fitR): Provides functions for model fitting and inference.
+* [fitR](https://cran.r-project.org/web/packages/mem/): Provides functions for model fitting and inference.
+* [mem](https://github.com/sbfnk/fitR): The Moving Epidemic Method, created by Tomás Vega and José E. Lozano (see details in @Vega.etal-IRV-2013 and @Vega.etal-IRV-2015), allows the weekly assessment of the epidemic and intensity status to help in routine respiratory infections surveillance in health systems.
 * [R0](https://cran.r-project.org/web/packages/R0/index.html): Estimation of R0 and Real-Time Reproduction Number from Epidemics. Details are described in @Obadia.etal-BMCMedicalInformaticsandDecisionMaking-2012.
 * [socialmixr](https://cran.r-project.org/web/packages/socialmixr/index.html): Provides methods for sampling contact matrices from diary data for use in infectious disease modelling, as discussed in @Mossong.etal-PLoSMed-2008.
 * [tsiR](https://cran.r-project.org/web/packages/tsiR/index.html): An implementation of the time-series Susceptible-Infected-Recovered (TSIR) model described by @Finkenstaedt.Grenfell-JournaloftheRoyalStatisticalSociety:SeriesCAppliedStatistics-2000 using a number of different fitting options for infectious disease time series data.

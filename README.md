@@ -348,8 +348,14 @@ Resources for Influenza Research
     An R package to analyze epidemics spread across contact networks.
     Details are described in Groendyke & Welch
     ([2018](#ref-Groendyke.Welch-JournalofStatisticalSoftware-2018)).
-  - [fitR](https://github.com/sbfnk/fitR): Provides functions for model
-    fitting and inference.
+  - [fitR](https://cran.r-project.org/web/packages/mem/): Provides
+    functions for model fitting and inference.
+  - [mem](https://github.com/sbfnk/fitR): The Moving Epidemic Method,
+    created by Tomás Vega and José E. Lozano (see details in Vega et al.
+    ([2013](#ref-Vega.etal-IRV-2013)) and Vega et al.
+    ([2015](#ref-Vega.etal-IRV-2015))), allows the weekly assessment of
+    the epidemic and intensity status to help in routine respiratory
+    infections surveillance in health systems.
   - [R0](https://cran.r-project.org/web/packages/R0/index.html):
     Estimation of R0 and Real-Time Reproduction Number from Epidemics.
     Details are described in Obadia et al.
@@ -963,6 +969,24 @@ An integrated bioinformatics resource for influenza research and
 surveillance. *Influenza and Other Respiratory Viruses*, *6*(6),
 404–416. Retrieved from
 <http://dx.doi.org/10.1111/j.1750-2659.2011.00331.x>
+
+</div>
+
+<div id="ref-Vega.etal-IRV-2015">
+
+Vega, T., Lozano, J. E., Meerhoff, T., Snacken, R., Beauté, J.,
+Jorgensen, P., … Nielsen, J. (2015). Influenza surveillance in europe:
+Comparing intensity levels calculated using the moving epidemic method.
+*Influenza and Other Respiratory Viruses*, *9*(5), 234–246.
+
+</div>
+
+<div id="ref-Vega.etal-IRV-2013">
+
+Vega, T., Lozano, J. E., Meerhoff, T., Snacken, R., Mott, J., Ortiz de
+Lejarazu, R., & Nunes, B. (2013). Influenza surveillance in europe:
+Establishing epidemic thresholds by the moving epidemic method.
+*Influenza and Other Respiratory Viruses*, *7*(4), 546–558.
 
 </div>
 
