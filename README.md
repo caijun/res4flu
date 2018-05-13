@@ -376,7 +376,7 @@ Resources for Influenza Research
     related packages that authored by RECON members and relevant for
     infectious disease epidemiology. The precursor of RECON is [The
     R-epi project](https://sites.google.com/site/therepiproject/home),
-    which will eventually be replaced the RECON website.
+    which will eventually be replaced by the RECON website.
 
 *Python Packages*
 
