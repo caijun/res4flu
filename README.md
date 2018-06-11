@@ -111,6 +111,10 @@ Resources for Influenza Research
     Infectious Disease
     Transmission](http://www.nature.com/nrmicro/journal/v6/n6/full/nrmicro1845.html).
     Nature Reviews Microbiology, 6(6), 477-487.
+  - McCallum, H., Barlow, N., & Hone, J. (2001). [How should pathogen
+    transmission be
+    modelled?](https://www.sciencedirect.com/science/article/pii/S0169534701021449).
+    Trends in ecology & evolution, 16(6), 295-300.
   - Hethcote, H. W. (2000). [The Mathematics of Infectious
     Diseases](http://epubs.siam.org/doi/abs/10.1137/S0036144500371907).
     SIAM review, 42(4), 599-653.
