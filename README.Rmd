@@ -8,12 +8,12 @@ output:
   github_document:
     toc: true
     pandoc_args: --webtex
-  md_document:
-    toc: true
   pdf_document:
     toc: false
     fig_caption: no
     latex_engine: xelatex
+  md_document:
+    toc: true
 ---
 
 ## Contents
@@ -365,8 +365,7 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
     - Chinese: 群体免疫阈值
   
 + **Epidemic**
-    - Definition: an increase in the frequency of occurrence of a disease in a population above its baseline or expected level in a given period.
-    - Source: https://en.wikipedia.org/wiki/Epidemic
+    - Definition: The occurrence of more cases of disease, injury or other health condition than expected in a given area or among a specific group of persons during a particular period. Usually, the cases are presumed to have a common cause or to be related to one another in some way[@Orbann.etal-Epidemics-2017].
     - Chinese: 流行病
  
 + **Epidemic final size**

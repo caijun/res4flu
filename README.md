@@ -761,10 +761,12 @@ SEIR model is illustrated in Figure 1 of Milwid et al.
         [2010](#ref-Mishra.etal-JournalofEpidemiologyandCommunityHealth-2010)).
       - Chinese: 群体免疫阈值
   - **Epidemic**
-      - Definition: an increase in the frequency of occurrence of a
-        disease in a population above its baseline or expected level in
-        a given period.
-      - Source: <https://en.wikipedia.org/wiki/Epidemic>
+      - Definition: The occurrence of more cases of disease, injury or
+        other health condition than expected in a given area or among a
+        specific group of persons during a particular period. Usually,
+        the cases are presumed to have a common cause or to be related
+        to one another in some way(Orbann et al.,
+        [2017](#ref-Orbann.etal-Epidemics-2017)).
       - Chinese: 流行病
   - **Epidemic final size**
       - Definition: TODO
@@ -946,6 +948,15 @@ Obadia, T., Haneef, R., & Boelle, P.-Y. (2012). The r0 package: A
 toolbox to estimate reproduction numbers for epidemic outbreaks. *BMC
 Med. Inform. Decis. Mak.*, *12*(1), 147. Retrieved from
 <http://www.biomedcentral.com/1472-6947/12/147>
+
+</div>
+
+<div id="ref-Orbann.etal-Epidemics-2017">
+
+Orbann, C., Sattenspiel, L., Miller, E., & Dimka, J. (2017). Defining
+epidemics in computer simulation models: How do definitions influence
+conclusions? *Epidemics*, *19*, 24–32. Retrieved from
+<http://www.sciencedirect.com/science/article/pii/S1755436516300627>
 
 </div>
 
