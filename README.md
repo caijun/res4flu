@@ -153,6 +153,16 @@ Resources for Influenza Research
 
 *Key Paper*
 
+  - \[x\] Dushoff, J., Plotkin, J. B., Levin, S. A., & Earn, D. J.
+    (2004). [Dynamical resonance can account for seasonality of
+    influenza
+    epidemics](http://www.pnas.org/content/101/48/16915.short).
+    Proceedings of the National Academy of Sciences of the United States
+    of America, 101(48), 16915-16916.
+  - \[x\] Shaman, J., & Kohn, M. (2009). [Absolute humidity modulates
+    influenza survival, transmission, and
+    seasonality](http://www.pnas.org/content/106/9/3243.short).
+    Proceedings of the National Academy of Sciences, 106(9), 3243-3248.
   - \[x\] Deyle, E. R., Maher, M. C., Hernandez, R. D., Basu, S., &
     Sugihara, G. (2016). [Global environmental drivers of
     influenza](http://www.pnas.org/content/113/46/13081.abstract).
@@ -164,6 +174,13 @@ Resources for Influenza Research
     Rohani, P. (2006). [Seasonality and the dynamics of infectious
     diseases](http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2005.00879.x/full).
     Ecology letters, 9(4), 467-484.
+  - Grassly, N. C., & Fraser, C. (2006). [Seasonal infectious disease
+    epidemiology](http://rspb.royalsocietypublishing.org/content/273/1600/2541.short).
+    Proceedings of the Royal Society of London B: Biological Sciences,
+    273(1600), 2541-2550.
+  - Fisman, D. N. (2007). [Seasonality of infectious
+    diseases](http://www.annualreviews.org/doi/abs/10.1146/annurev.publhealth.28.021406.144128).
+    Annu. Rev. Public Health, 28, 127-143.
   - Tamerius, J., Nelson, M. I., Zhou, S. Z., Viboud, C., Miller, M. A.,
     & Alonso, W. J. (2011). [Global influenza seasonality: reconciling
     patterns across temperate and tropical
