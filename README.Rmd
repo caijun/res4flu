@@ -27,6 +27,7 @@ output:
 -   [Dynamics of Influenza](#dynamics-of-influenza)
     -   [Influenza Transmission](#influenza-transmission)
     -   [Influenza Forecasting](#influenza-forecasting)
+    -   [Surveillance of Influenza](#surveillance-of-influenza)
     -   [Digital Detection of
         Influenza](#digital-detection-of-influenza)
 -   [Databases for Influenza
@@ -136,6 +137,11 @@ output:
 * The [Delphi](http://delphi.midas.cs.cmu.edu/) group at Carnegie Mellon University focuses on developing the theory and practice of epidemiological forecasting.
     - [ILI-Nearby](http://delphi.midas.cs.cmu.edu/nowcast/): Geographically detailed real-time estimates (nowcasts) of Influenza-Like-Illness.
     - [Delphi's forecasts](http://delphi.midas.cs.cmu.edu/forecast/): Weekly forecasts of Influenza-Like-Illness nationally and in 10 U.S. regions.
+    
+### Surveillance of Influenza
+*Review Paper*
+
+- [x] Unkel, S., Farrington, C., Garthwaite, P. H., Robertson, C., & Andrews, N. (2012). [Statistical methods for the prospective detection of infectious disease outbreaks: a review](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-985X.2011.00714.x). Journal of the Royal Statistical Society: Series A (Statistics in Society), 175(1), 49-82.
 
 ### Digital Detection of Influenza
 *Review Paper*
