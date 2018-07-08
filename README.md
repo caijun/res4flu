@@ -480,6 +480,12 @@ Resources for Influenza Research
     introduction to ecological and epidemiological stochastic dynamical
     systems models using a series of examples with real data.
 
+  - [Network Modeling for Epidemics](http://statnet.github.io/nme/): a
+    5-day short course at the University of Washington that provides an
+    introduction to stochastic network models for infectious disease
+    transmission dynamics, with a focus on empirically based modeling of
+    HIV transmission.
+
 *Summer School*
 
   - \[x\] [Computational Biology for Infectious Diseases

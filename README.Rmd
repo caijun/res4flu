@@ -5,13 +5,13 @@ csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
 link-citations: yes
 output:
-  github_document:
-    toc: true
-    pandoc_args: --webtex
   pdf_document:
     toc: false
     fig_caption: no
     latex_engine: xelatex
+  github_document:
+    toc: true
+    pandoc_args: --webtex
   md_document:
     toc: true
 ---
@@ -225,6 +225,8 @@ output:
 - \[x] [Model Fitting and Inference for Infectious Disease Dynamics (MFIIDD)](https://www.lshtm.ac.uk/study/courses/short-courses/infectious-diseases-dynamics): a short course taught by members of the [Centre for the Mathematical Modelling of Infectious Diseases (CMMID)](http://cmmid.lshtm.ac.uk/) at the [London School of Hygiene & Tropical Medicine (LSHTM)](https://www.lshtm.ac.uk/). MFIIDD 2016 course materials can be found [here](http://sbfnk.github.io/mfiidd/index.html).
 
 * [Model-based Inference in Ecology and Epidemiology](http://kingaa.github.io/short-course/): an introduction to ecological and epidemiological stochastic dynamical systems models using a series of examples with real data.
+
+* [Network Modeling for Epidemics](http://statnet.github.io/nme/): a 5-day short course at the University of Washington that provides an introduction to stochastic network models for infectious disease transmission dynamics, with a focus on empirically based modeling of HIV transmission.
 
 *Summer School*
 
