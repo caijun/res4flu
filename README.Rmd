@@ -5,13 +5,13 @@ csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
 link-citations: yes
 output:
+  github_document:
+    toc: true
+    pandoc_args: --webtex
   pdf_document:
     toc: false
     fig_caption: no
     latex_engine: xelatex
-  github_document:
-    toc: true
-    pandoc_args: --webtex
   md_document:
     toc: true
 ---
@@ -178,6 +178,7 @@ output:
 * [NCBI Influenza Virus Resource](http://www.ncbi.nlm.nih.gov/genomes/FLU/)
 * [Global Initiative on Sharing Avian Influenza Data (GISAID)](http://platform.gisaid.org/)
 * [EMPRES Global Animal Disease Information System (EMPRES-i)](http://empres-i.fao.org/eipws3g/)
+* [Social contact data](http://www.socialcontactdata.org/): a website for sharing social contact data and data analysis methods between researchers in infectious diseases modelling.
 
 
 ## Software Packages for Influenza Research
@@ -384,6 +385,11 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
     - Definition: TODO
     - Source: A Note on the Derivation of Epidemic Final Sizes, Generality of the Final Size Formula for an Epidemic of a Newly Invading Infectious Disease, Epidemic final size calculation
     - Chinese: TODO
+    
++ **Epidemic threshold**
+    - Definition: TODO
+    - Source: TODO
+    - Chinese: TODO
   
 + **Epidemic curve**
     - Definition: the frequency of new cases over time based on the date of onset of disease.
@@ -395,6 +401,15 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
     - Source: https://en.wikipedia.org/wiki/Emerging_infectious_disease
     - Chinese: 新发传染病
 
++ **Seasonal threshold**
+    - Definition: TODO
+    - Source: TODO
+    - Chinese: TODO
+    
++ **Alert threshold**
+    - Definition: TODO
+    - Source: TODO
+    - Chinese: TODO
 
 ## Films and TV Series
 

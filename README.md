@@ -350,6 +350,9 @@ Resources for Influenza Research
     (GISAID)](http://platform.gisaid.org/)
   - [EMPRES Global Animal Disease Information System
     (EMPRES-i)](http://empres-i.fao.org/eipws3g/)
+  - [Social contact data](http://www.socialcontactdata.org/): a website
+    for sharing social contact data and data analysis methods between
+    researchers in infectious diseases modelling.
 
 ## Software Packages for Influenza Research
 
@@ -809,6 +812,10 @@ SEIR model is illustrated in Figure 1 of Milwid et al.
         Generality of the Final Size Formula for an Epidemic of a Newly
         Invading Infectious Disease, Epidemic final size calculation
       - Chinese: TODO
+  - **Epidemic threshold**
+      - Definition: TODO
+      - Source: TODO
+      - Chinese: TODO
   - **Epidemic curve**
       - Definition: the frequency of new cases over time based on the
         date of onset of disease.
@@ -821,6 +828,14 @@ SEIR model is illustrated in Figure 1 of Milwid et al.
       - Source:
         <https://en.wikipedia.org/wiki/Emerging_infectious_disease>
       - Chinese: 新发传染病
+  - **Seasonal threshold**
+      - Definition: TODO
+      - Source: TODO
+      - Chinese: TODO
+  - **Alert threshold**
+      - Definition: TODO
+      - Source: TODO
+      - Chinese: TODO
 
 ## Films and TV Series
 
