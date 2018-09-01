@@ -5,13 +5,13 @@ csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
 link-citations: yes
 output:
-  github_document:
-    toc: true
-    pandoc_args: --webtex
   pdf_document:
     toc: false
     fig_caption: no
     latex_engine: xelatex
+  github_document:
+    toc: true
+    pandoc_args: --webtex
   md_document:
     toc: true
 ---
@@ -247,7 +247,7 @@ output:
 ## Channels
 
 * [Disease Forecasting & Surveillance](https://channels.plos.org/dfs): a global forum for disease forecasting and surveillance research.
-* [RECON learn](https://reconlearn.netlify.com/): a free, open platform for training material on epidemics analysis.
+* [RECON learn](https://www.reconlearn.org/): a free, open platform for training material on epidemics analysis.
 
 
 ## Glossary
