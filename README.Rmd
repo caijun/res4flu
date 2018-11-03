@@ -5,13 +5,13 @@ csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
 link-citations: yes
 output:
+  github_document:
+    toc: true
+    pandoc_args: --webtex
   pdf_document:
     toc: false
     fig_caption: no
     latex_engine: xelatex
-  github_document:
-    toc: true
-    pandoc_args: --webtex
   md_document:
     toc: true
 ---
@@ -76,6 +76,7 @@ output:
 * Sattenspiel, L. (2009). [The Geographic Spread of Infectious Diseases: Models and Applications](http://www.amazon.com/Geographic-Spread-Infectious-Diseases-Computational/dp/069112132X/). Princeton University Press.
 - [x] Vynnycky, E., & White, R. (2010). [An Introduction to Infectious Disease Modelling](https://www.amazon.com/Introduction-Infectious-Disease-Modelling/dp/0198565763). Oxford University Press.
     - Book website: [www.anintroductiontoinfectiousdiseasemodelling.com](http://www.anintroductiontoinfectiousdiseasemodelling.com/)
+* Bjørnstad, Ottar N. (2018). [Epidemics: Models and Data Using R](https://www.amazon.com/Epidemics-Models-Data-Using-R/dp/3319974866). Springer International Publishing.
 * Fine, P. (1981). [Influenza Models: Prospects for Development and Use](http://www.springer.com/gp/book/9789401180528). Proceedings of a Working Group on Epidemiological Models of Influenza and Their Practical Application.
 
 *Review Papers*
@@ -187,6 +188,7 @@ output:
 * [cdcfluview](https://cran.r-project.org/web/packages/cdcfluview/index.html): Retrieve U.S. Flu Season Data from the CDC FluView Portal.
 * [EpiDynamics](https://cran.r-project.org/web/packages/EpiDynamics/index.html): Dynamic Models in Epidemiology. Currently, the R package **EpiDynamics** implements the computer programs written in other programming languages and available in [the web page of the book](http://www.modelinginfectiousdiseases.org/) written by  @Keeling.Rohani-Modelinginfectiousdiseases-2008. Python Programs for this book can also be found [here](http://wiki.deductivethinking.com/wiki/Python_Programs_for_Modelling_Infectious_Diseases_book).
 * [epidemics](https://github.com/ensoesie/epidemics): An R package to define seasonal influenza epidemic onset and duration.
+* [epimdr](https://cran.r-project.org/web/packages/epimdr/index.html): Functions and Data for "Epidemics: Models and Data in R".
 * [EpiModel](https://cran.r-project.org/web/packages/EpiModel/index.html): Mathematical Modeling of Infectious Disease.
 * [epitools](https://cran.r-project.org/web/packages/epitools/index.html): Tools for training and practicing epidemiologists including methods for two-way and multi-way contingency tables.
 * [epinet](https://cran.r-project.org/web/packages/epinet/index.html): An R package to analyze epidemics spread across contact networks. Details are described in @Groendyke.Welch-JournalofStatisticalSoftware-2018.
@@ -213,7 +215,7 @@ output:
 ## Courses
 *Massive Open Online Courses (MOOCs)*
 
-* [Epidemics - the Dynamics of Infectious Diseases](https://www.coursera.org/course/epidemics): a course provided by the Pennsylvania State University discusses about the dynamics of Malaria, HIV/AIDS, Influenza, Measles - how they emerge, how they spread around the globe, and how they can best be controlled.
+* [Epidemics - the Dynamics of Infectious Diseases](https://www.coursera.org/course/epidemics): a course provided by the Pennsylvania State University discusses about the dynamics of Malaria, HIV/AIDS, Influenza, Measles - how they emerge, how they spread around the globe, and how they can best be controlled. The R package [epimdr](https://cran.r-project.org/web/packages/epimdr/index.html) is an advanced quantitative companion to this course.
 
 * [Epidemics](https://www.edx.org/course/epidemics-hkux-hku01x-0): a course provided by the University of Hong Kong covers these four topics: origins of novel pathogens; analysis of the spread of infectious diseases; medical and public health countermeasures to prevent and control epidemics; panel discussions involving leading public health experts with deep frontline experiences to share their views on risk communication, crisis management, ethics and public trust in the context of infectious disease control.
 

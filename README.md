@@ -89,6 +89,9 @@ Resources for Influenza Research
     Oxford University Press.
       - Book website:
         [www.anintroductiontoinfectiousdiseasemodelling.com](http://www.anintroductiontoinfectiousdiseasemodelling.com/)
+  - Bjørnstad, Ottar N. (2018). [Epidemics: Models and Data Using
+    R](https://www.amazon.com/Epidemics-Models-Data-Using-R/dp/3319974866).
+    Springer International Publishing.
   - Fine, P. (1981). [Influenza Models: Prospects for Development and
     Use](http://www.springer.com/gp/book/9789401180528). Proceedings of
     a Working Group on Epidemiological Models of Influenza and Their
@@ -372,8 +375,10 @@ Resources for Influenza Research
     Python Programs for this book can also be found
     [here](http://wiki.deductivethinking.com/wiki/Python_Programs_for_Modelling_Infectious_Diseases_book).
   - [epidemics](https://github.com/ensoesie/epidemics): An R package to
-    define seasonal influenza epidemic onset and
-    duration.
+    define seasonal influenza epidemic onset and duration.
+  - [epimdr](https://cran.r-project.org/web/packages/epimdr/index.html):
+    Functions and Data for “Epidemics: Models and Data in
+    R”.
   - [EpiModel](https://cran.r-project.org/web/packages/EpiModel/index.html):
     Mathematical Modeling of Infectious
     Disease.
@@ -443,7 +448,9 @@ Resources for Influenza Research
     provided by the Pennsylvania State University discusses about the
     dynamics of Malaria, HIV/AIDS, Influenza, Measles - how they emerge,
     how they spread around the globe, and how they can best be
-    controlled.
+    controlled. The R package
+    [epimdr](https://cran.r-project.org/web/packages/epimdr/index.html)
+    is an advanced quantitative companion to this course.
 
   - [Epidemics](https://www.edx.org/course/epidemics-hkux-hku01x-0): a
     course provided by the University of Hong Kong covers these four
