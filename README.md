@@ -433,9 +433,9 @@ Resources for Influenza Research
   - [Options for the Control of Influenza
     Conference](https://www.isirv.org/site/)
   - [International Conference on Emerging Infectious
-    Diseases](http://www.iceid.org/)
+    Diseases](https://www.cdc.gov/iceid/index.html)
   - [Epidemics: International Conference on Infectious Disease
-    Dynamics](http://www.epidemics.elsevier.com/)
+    Dynamics](https://www.elsevier.com/events/conferences/international-conference-on-infectious-disease-dynamics)
   - [Annual Ecology and Evolution of Infectious Disease
     Conference](http://eeidconference.org/)
 

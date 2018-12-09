@@ -208,8 +208,8 @@ output:
 
 * [Multinational Influenza Seasonal Mortality Study (MISMS) Workshop](http://www.origem.info/misms/)
 * [Options for the Control of Influenza Conference](https://www.isirv.org/site/)
-* [International Conference on Emerging Infectious Diseases](http://www.iceid.org/)
-* [Epidemics: International Conference on Infectious Disease Dynamics](http://www.epidemics.elsevier.com/)
+* [International Conference on Emerging Infectious Diseases](https://www.cdc.gov/iceid/index.html)
+* [Epidemics: International Conference on Infectious Disease Dynamics](https://www.elsevier.com/events/conferences/international-conference-on-infectious-disease-dynamics)
 * [Annual Ecology and Evolution of Infectious Disease Conference](http://eeidconference.org/)
 
 ## Courses
