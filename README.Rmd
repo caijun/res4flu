@@ -5,13 +5,13 @@ csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
 link-citations: yes
 output:
-  github_document:
-    toc: true
-    pandoc_args: --webtex
   pdf_document:
     toc: false
     fig_caption: no
     latex_engine: xelatex
+  github_document:
+    toc: true
+    pandoc_args: --webtex
   md_document:
     toc: true
 ---
@@ -209,6 +209,7 @@ output:
 * [Multinational Influenza Seasonal Mortality Study (MISMS) Workshop](http://www.origem.info/misms/)
 * [Options for the Control of Influenza Conference](https://www.isirv.org/site/)
 * [International Conference on Emerging Infectious Diseases](https://www.cdc.gov/iceid/index.html)
+* [International Meeting on Emerging Diseases and Surveillance](http://imed.isid.org/)
 * [Epidemics: International Conference on Infectious Disease Dynamics](https://www.elsevier.com/events/conferences/international-conference-on-infectious-disease-dynamics)
 * [Annual Ecology and Evolution of Infectious Disease Conference](http://eeidconference.org/)
 
