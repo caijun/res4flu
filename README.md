@@ -1,6 +1,31 @@
 Resources for Influenza Research
 ================
 
+  - [Contents](#contents)
+  - [Topics and Keywords](#topics-and-keywords)
+  - [Infectious Disease Epidemiology](#infectious-disease-epidemiology)
+  - [Modeling Infectious Diseases](#modeling-infectious-diseases)
+  - [Ecology and Evolution of
+    Influenza](#ecology-and-evolution-of-influenza)
+  - [Seasonality of Influenza](#seasonality-of-influenza)
+  - [Dynamics of Influenza](#dynamics-of-influenza)
+      - [Influenza Transmission](#influenza-transmission)
+      - [Influenza Forecasting](#influenza-forecasting)
+      - [Surveillance of Influenza](#surveillance-of-influenza)
+      - [Digital Detection of
+        Influenza](#digital-detection-of-influenza)
+  - [Databases for Influenza
+    Research](#databases-for-influenza-research)
+  - [Software Packages for Influenza
+    Research](#software-packages-for-influenza-research)
+  - [Workshops and Conferences](#workshops-and-conferences)
+  - [Courses](#courses)
+  - [Channels](#channels)
+  - [Glossary](#glossary)
+  - [Films and TV Series](#films-and-tv-series)
+  - [Contributing](#contributing)
+  - [References](#references)
+
 ## Contents
 
   - [Topics and Keywords](#topics-and-keywords)
@@ -49,13 +74,13 @@ Resources for Influenza Research
   - Gordis, L. (2013).
     [Epidemiology](http://www.amazon.com/Epidemiology-STUDENT-CONSULT-Online-Access/dp/145573733X).
     Elsevier: Saunders.
-      - \[ \] Chapter 2 The Dynamics of Disease Transmission
+      - [ ] Chapter 2 The Dynamics of Disease Transmission
   - Nelson, K. E., & Williams, C. (2013). [Infectious disease
     epidemiology](https://www.amazon.com/Infectious-Disease-Epidemiology-Theory-Practice/dp/1449683797).
     Jones & Bartlett Publishers.
-      - \[x\] Chapter 6 Infectious Disease Dynamics
-      - \[ \] Chapter 7 Geographic Information Systems
-      - \[x\] Chapter 15 Epidemiology and Prevention of Influenza
+      - [x] Chapter 6 Infectious Disease Dynamics
+      - [ ] Chapter 7 Geographic Information Systems
+      - [x] Chapter 15 Epidemiology and Prevention of Influenza
 
 ## Modeling Infectious Diseases
 
@@ -83,8 +108,8 @@ Resources for Influenza Research
     Diseases: Models and
     Applications](http://www.amazon.com/Geographic-Spread-Infectious-Diseases-Computational/dp/069112132X/).
     Princeton University Press.
-  - \[x\] Vynnycky, E., & White, R. (2010). [An Introduction to
-    Infectious Disease
+  - [x] Vynnycky, E., & White, R. (2010). [An Introduction to Infectious
+    Disease
     Modelling](https://www.amazon.com/Introduction-Infectious-Disease-Modelling/dp/0198565763).
     Oxford University Press.
       - Book website:
@@ -103,15 +128,15 @@ Resources for Influenza Research
     challenges in modeling emerging infectious
     diseases](http://science.sciencemag.org/content/357/6347/149).
     Science, 357(6347), 149-152.
-  - \[x\] Heesterbeek, H., Anderson, R. M., Andreasen, V., Bansal, S.,
-    De Angelis, D., Dye, C., … & Viboud, C. (2015). [Modeling Infectious
+  - [x] Heesterbeek, H., Anderson, R. M., Andreasen, V., Bansal, S., De
+    Angelis, D., Dye, C., … & Viboud, C. (2015). [Modeling Infectious
     Disease Dynamics in the Complex Landscape of Global
     Health](http://www.sciencemag.org/content/347/6227/aaa4339.short).
     Science, 347(6227), aaa4339.
   - A Special Issue of *Epidemics* on [Challenges in Modelling
     Infectious Disease
     Dynamics](http://www.sciencedirect.com/science/journal/17554365/10).
-  - \[x\] Grassly, N. C., & Fraser, C. (2008). [Mathematical Models of
+  - [x] Grassly, N. C., & Fraser, C. (2008). [Mathematical Models of
     Infectious Disease
     Transmission](http://www.nature.com/nrmicro/journal/v6/n6/full/nrmicro1845.html).
     Nature Reviews Microbiology, 6(6), 477-487.
@@ -137,14 +162,14 @@ Resources for Influenza Research
   - Nelson, M. I., & Holmes, E. C. (2007). [The Evolution of Epidemic
     Influenza](http://www.nature.com/nrg/journal/v8/n3/abs/nrg2053.html).
     Nature reviews genetics, 8(3), 196-205.
-  - \[x\] Earn, D. J., Dushoff, J., & Levin, S. A. (2002). [Ecology and
+  - [x] Earn, D. J., Dushoff, J., & Levin, S. A. (2002). [Ecology and
     Evolution of the
     Flu](http://www.sciencedirect.com/science/article/pii/S0169534702025028).
     Trends in ecology & evolution, 17(7), 334-340.
-  - \[x\] Potter, C. W. (2001). [A History of
+  - [x] Potter, C. W. (2001). [A History of
     Influenza](http://onlinelibrary.wiley.com/doi/10.1046/j.1365-2672.2001.01492.x/full).
     Journal of applied microbiology, 91(4), 572-579.
-  - \[x\] Cox, N. J., & Subbarao, K. (2000). [Global Epidemiology of
+  - [x] Cox, N. J., & Subbarao, K. (2000). [Global Epidemiology of
     Influenza: Past and
     Present](http://www.annualreviews.org/doi/abs/10.1146/annurev.med.51.1.407).
     Annual review of medicine, 51(1), 407-421.
@@ -157,17 +182,16 @@ Resources for Influenza Research
 
 *Key Paper*
 
-  - \[x\] Dushoff, J., Plotkin, J. B., Levin, S. A., & Earn, D. J.
-    (2004). [Dynamical resonance can account for seasonality of
-    influenza
+  - [x] Dushoff, J., Plotkin, J. B., Levin, S. A., & Earn, D. J. (2004).
+    [Dynamical resonance can account for seasonality of influenza
     epidemics](http://www.pnas.org/content/101/48/16915.short).
     Proceedings of the National Academy of Sciences of the United States
     of America, 101(48), 16915-16916.
-  - \[x\] Shaman, J., & Kohn, M. (2009). [Absolute humidity modulates
+  - [x] Shaman, J., & Kohn, M. (2009). [Absolute humidity modulates
     influenza survival, transmission, and
     seasonality](http://www.pnas.org/content/106/9/3243.short).
     Proceedings of the National Academy of Sciences, 106(9), 3243-3248.
-  - \[x\] Deyle, E. R., Maher, M. C., Hernandez, R. D., Basu, S., &
+  - [x] Deyle, E. R., Maher, M. C., Hernandez, R. D., Basu, S., &
     Sugihara, G. (2016). [Global environmental drivers of
     influenza](http://www.pnas.org/content/113/46/13081.abstract).
     Proceedings of the National Academy of Sciences, 201607747.
@@ -190,11 +214,11 @@ Resources for Influenza Research
     patterns across temperate and tropical
     regions](http://ehp.niehs.nih.gov/1002383/). Environmental health
     perspectives, 119(4), 439.
-  - \[x\] Fuhrmann, C. (2010). [The Effects of Weather and Climate on
-    the Seasonality of Influenza: What We Know and What We Need to
+  - [x] Fuhrmann, C. (2010). [The Effects of Weather and Climate on the
+    Seasonality of Influenza: What We Know and What We Need to
     Know](http://onlinelibrary.wiley.com/doi/10.1111/j.1749-8198.2010.00343.x/full).
     Geography Compass, 4(7), 718-730.
-  - \[x\] Lipsitch, M., & Viboud, C. (2009). [Influenza Seasonality:
+  - [x] Lipsitch, M., & Viboud, C. (2009). [Influenza Seasonality:
     Lifting the Fog](http://www.pnas.org/content/106/10/3645.short).
     Proceedings of the National Academy of Sciences, 106(10), 3645-3646.
   - Lofgren, E., Fefferman, N. H., Naumov, Y. N., Gorski, J., & Naumova,
@@ -208,7 +232,7 @@ Resources for Influenza Research
 
 *Classical Paper*
 
-  - \[x\] Rvachev, L. A., & Longini, I. M. (1985). [A Mathematical Model
+  - [x] Rvachev, L. A., & Longini, I. M. (1985). [A Mathematical Model
     for the Global Spread of
     Influenza](http://www.sciencedirect.com/science/article/pii/0025556485900641).
     Mathematical biosciences, 75(1), 3-22.
@@ -222,7 +246,7 @@ Resources for Influenza Research
     Dynamics of Influenza
     Outbreaks](http://onlinelibrary.wiley.com/doi/10.1111/irv.12226/full).
     Influenza and other respiratory viruses, 8(3), 309-316.
-  - \[x\] Chretien, J. P., George, D., Shaman, J., Chitale, R. A., &
+  - [x] Chretien, J. P., George, D., Shaman, J., Chitale, R. A., &
     McKenzie, F. E. (2014). [Influenza Forecasting in Human Populations:
     a Scoping
     Review](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094130).
@@ -252,7 +276,7 @@ Resources for Influenza Research
 
 *Review Paper*
 
-  - \[x\] Unkel, S., Farrington, C., Garthwaite, P. H., Robertson, C., &
+  - [x] Unkel, S., Farrington, C., Garthwaite, P. H., Robertson, C., &
     Andrews, N. (2012). [Statistical methods for the prospective
     detection of infectious disease outbreaks: a
     review](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-985X.2011.00714.x).
@@ -270,7 +294,7 @@ Resources for Influenza Research
 
 *Classical Paper*
 
-  - \[x\] Ginsberg, J., Mohebbi, M. H., Patel, R. S., Brammer, L.,
+  - [x] Ginsberg, J., Mohebbi, M. H., Patel, R. S., Brammer, L.,
     Smolinski, M. S., & Brilliant, L. (2009). [Detecting Influenza
     Epidemics using Search Engine Query
     Data](http://www.nature.com/nature/journal/v457/n7232/abs/nature07634.html).
@@ -479,7 +503,7 @@ Resources for Influenza Research
     [Public Health
     England](https://www.gov.uk/government/organisations/public-health-england).
 
-  - \[x\] [Model Fitting and Inference for Infectious Disease Dynamics
+  - [x] [Model Fitting and Inference for Infectious Disease Dynamics
     (MFIIDD)](https://www.lshtm.ac.uk/study/courses/short-courses/infectious-diseases-dynamics):
     a short course taught by members of the [Centre for the Mathematical
     Modelling of Infectious Diseases (CMMID)](http://cmmid.lshtm.ac.uk/)
@@ -500,7 +524,7 @@ Resources for Influenza Research
 
 *Summer School*
 
-  - \[x\] [Computational Biology for Infectious Diseases
+  - [x] [Computational Biology for Infectious Diseases
     (CBID)](http://cbid.asia/): The summer school is for students,
     researchers and professionals working on infectious diseases and
     wishing to acquire knowledge and practice in quantitative analyses
@@ -575,7 +599,7 @@ Resources for Influenza Research
     Infection](http://nccid.ca/publications/a-logical-modelling-framework-for-influenza-infection/).
     NCCID, 1-24.
 
-  - \[x\] Milwid, R., Steriu, A., Arino, J., Heffernan, J., Hyder, A.,
+  - [x] Milwid, R., Steriu, A., Arino, J., Heffernan, J., Hyder, A.,
     Schanzer, D., … & Moghadas, S. M. (2016). [Toward Standardizing a
     Lexicon of Infectious Disease Modeling
     Terms](http://journal.frontiersin.org/article/10.3389/fpubh.2016.00213/full).
@@ -586,7 +610,7 @@ Resources for Influenza Research
     Language](http://nccid.ca/publications/glossary-terms-infectious-disease-modelling-proposal-consistent-language/).
     NCCID, 1-3.
 
-  - \[x\] Mishra, S., Fisman, D. N., & Boily, M. C. (2010). [The ABC of
+  - [x] Mishra, S., Fisman, D. N., & Boily, M. C. (2010). [The ABC of
     terms used in mathematical models of infectious
     diseases](http://jech.bmj.com/content/early/2010/10/21/jech.2009.097113.short).
     Journal of epidemiology and community health, jech-2009.
@@ -613,13 +637,13 @@ Resources for Influenza Research
         between exposure to a disease with successful transmission and
         the onset of **infectiousness** (Milwid et al.,
         [2016](#ref-Milwid.etal-FrontiersinPublicHealth-2016)).
-      - Chinese: 潜伏期
+      - Chinese: 潜隐期
   - **Incubation period**
       - Definition: The incubation period is defined as the period of
         time between exposure to the disease (if transmission occurs)
         and the onset of **clinical symptoms** (Milwid et al.,
         [2016](#ref-Milwid.etal-FrontiersinPublicHealth-2016)).
-      - Chinese: 潜育期
+      - Chinese: 潜伏期
   - **Infectious period**
       - Definition: The infectious period is defined as the time
         interval in which the infected individual is capable of
@@ -796,7 +820,7 @@ SEIR model is illustrated in Figure 1 of Milwid et al.
         become immune to an infection, thereby providing a measure of
         protection for individuals who are not immune.
       - Source: <https://en.wikipedia.org/wiki/Herd_immunity>
-      - Chinese: 群体免疫
+      - Chinese: 人群免疫力
   - **Herd immunity threshold, Eradication fraction**
       - Symbol: ![S\_h](https://latex.codecogs.com/png.latex?S_h "S_h")
       - Definition: Under a compartmental framwork with homogenous
@@ -814,7 +838,7 @@ SEIR model is illustrated in Figure 1 of Milwid et al.
         the cases are presumed to have a common cause or to be related
         to one another in some way(Orbann et al.,
         [2017](#ref-Orbann.etal-Epidemics-2017)).
-      - Chinese: 流行病
+      - Chinese: 流行
   - **Epidemic final size**
       - Definition: TODO
       - Source: A Note on the Derivation of Epidemic Final Sizes,
@@ -824,7 +848,7 @@ SEIR model is illustrated in Figure 1 of Milwid et al.
   - **Epidemic threshold**
       - Definition: TODO
       - Source: TODO
-      - Chinese: TODO
+      - Chinese: 流行阈值
   - **Epidemic curve**
       - Definition: the frequency of new cases over time based on the
         date of onset of disease.

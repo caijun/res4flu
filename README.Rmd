@@ -5,15 +5,15 @@ csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
 link-citations: yes
 output:
-  pdf_document:
-    toc: false
-    fig_caption: no
-    latex_engine: xelatex
   github_document:
     toc: true
     pandoc_args: --webtex
   md_document:
     toc: true
+  pdf_document:
+    toc: false
+    fig_caption: no
+    latex_engine: xelatex
 ---
 
 ## Contents
@@ -284,11 +284,11 @@ output:
   
 + **Latent period**
     - Definition: The latent period refers to the period of time between exposure to a disease with successful transmission and the onset of **infectiousness** [@Milwid.etal-FrontiersinPublicHealth-2016].
-    - Chinese: 潜伏期
+    - Chinese: 潜隐期
   
 + **Incubation period**
     - Definition: The incubation period is defined as the period of time between exposure to the disease (if transmission occurs) and the onset of **clinical symptoms** [@Milwid.etal-FrontiersinPublicHealth-2016].
-    - Chinese: 潜育期
+    - Chinese: 潜伏期
   
 + **Infectious period**
     - Definition: The infectious period is defined as the time interval in which the infected individual is capable of transmitting the disease [@Milwid.etal-FrontiersinPublicHealth-2016].
@@ -373,7 +373,7 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
 + **Herd immunity**
     - Definition: a form of indirect protection from infectious disease that occurs when a large percentage of a population has become immune to an infection, thereby providing a measure of protection for individuals who are not immune.
     - Source: https://en.wikipedia.org/wiki/Herd_immunity
-    - Chinese: 群体免疫
+    - Chinese: 人群免疫力
 
 + **Herd immunity threshold, Eradication fraction**
     - Symbol: $S_h$
@@ -382,7 +382,7 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
   
 + **Epidemic**
     - Definition: The occurrence of more cases of disease, injury or other health condition than expected in a given area or among a specific group of persons during a particular period. Usually, the cases are presumed to have a common cause or to be related to one another in some way[@Orbann.etal-Epidemics-2017].
-    - Chinese: 流行病
+    - Chinese: 流行
  
 + **Epidemic final size**
     - Definition: TODO
@@ -392,7 +392,7 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
 + **Epidemic threshold**
     - Definition: TODO
     - Source: TODO
-    - Chinese: TODO
+    - Chinese: 流行阈值
   
 + **Epidemic curve**
     - Definition: the frequency of new cases over time based on the date of onset of disease.
