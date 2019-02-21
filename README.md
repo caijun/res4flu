@@ -813,7 +813,7 @@ SEIR model is illustrated in Figure 1 of Milwid et al.
         vaccine to prevent infection or related outcomes in the
         population in real-world conditions (Milwid et al.,
         [2016](#ref-Milwid.etal-FrontiersinPublicHealth-2016)).
-      - Chinese: 疫苗有效性
+      - Chinese: 疫苗效果
   - **Herd immunity**
       - Definition: a form of indirect protection from infectious
         disease that occurs when a large percentage of a population has

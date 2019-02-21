@@ -368,7 +368,7 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
   
 + **Vaccine effectiveness**
     - Definition: Vaccine effectiveness refers to the ability of a vaccine to prevent infection or related outcomes in the population in real-world conditions [@Milwid.etal-FrontiersinPublicHealth-2016].
-    - Chinese: 疫苗有效性
+    - Chinese: 疫苗效果
   
 + **Herd immunity**
     - Definition: a form of indirect protection from infectious disease that occurs when a large percentage of a population has become immune to an infection, thereby providing a measure of protection for individuals who are not immune.
