@@ -387,7 +387,7 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
 + **Epidemic final size**
     - Definition: TODO
     - Source: A Note on the Derivation of Epidemic Final Sizes, Generality of the Final Size Formula for an Epidemic of a Newly Invading Infectious Disease, Epidemic final size calculation
-    - Chinese: TODO
+    - Chinese: 流行最终规模
     
 + **Epidemic threshold**
     - Definition: TODO
@@ -407,17 +407,20 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
 + **Seasonal threshold**
     - Definition: TODO
     - Source: TODO
-    - Chinese: TODO
+    - Chinese: 季节性阈值
     
 + **Alert threshold**
     - Definition: TODO
     - Source: TODO
-    - Chinese: TODO
+    - Chinese: 预警阈值
 
 ## Films and TV Series
 
 * CNN documentary film [Unseen Enemy](http://www.takesallofus.com/)
 * BBC documentary [Contagion! The BBC Four Pandemic](http://www.bbc.co.uk/programmes/p059y0p1)
+* [Pandemic (2007)](https://www.imdb.com/title/tt0802821/)
+* [Pandemic (2016)](https://www.imdb.com/title/tt3774802/)
+* [Contagious](https://www.imdb.com/title/tt0118885/) from U.S.
 * [Contagion](https://en.wikipedia.org/wiki/Contagion_(film)) from U.S.
 * [Flu](https://en.wikipedia.org/wiki/Flu_(film)) from South Korea
 * [亚洲英雄](http://baike.baidu.com/view/1952499.htm) from Hong Kong, based on the SARS outbreak in 2003

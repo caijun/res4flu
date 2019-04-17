@@ -62,8 +62,7 @@ Resources for Influenza Research
       - Forecasting
   - Surveillence of Influenza
   - Ecology of Influenza
-  - Evolution of
-        Influenza
+  - Evolution of Influenza
       - [Phylodynamics](https://en.wikipedia.org/wiki/Viral_phylodynamics)
       - [Phylogeography](http://en.wikipedia.org/wiki/Phylogeography)
 
@@ -250,8 +249,7 @@ Resources for Influenza Research
     McKenzie, F. E. (2014). [Influenza Forecasting in Human Populations:
     a Scoping
     Review](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094130).
-    PloS one, 9(4),
-    e94130.
+    PloS one, 9(4), e94130.
 
 *Projects*
 
@@ -322,8 +320,7 @@ Resources for Influenza Research
     Report](http://www.cdc.gov/flu/weekly/)
       - [FluView](http://gis.cdc.gov/grasp/fluview/main.html):
         influenza-like illness (ILI) activity level indicator determined
-        by data reported to
-        ILINet.
+        by data reported to ILINet.
       - [FluView](http://gis.cdc.gov/grasp/fluview/fluportaldashboard.html):
         national and regional level outpatient illness and viral
         surveillence.
@@ -383,12 +380,10 @@ Resources for Influenza Research
 
 ## Software Packages for Influenza Research
 
-*R
-    Packages*
+*R Packages*
 
   - [cdcfluview](https://cran.r-project.org/web/packages/cdcfluview/index.html):
-    Retrieve U.S. Flu Season Data from the CDC FluView
-    Portal.
+    Retrieve U.S. Flu Season Data from the CDC FluView Portal.
   - [EpiDynamics](https://cran.r-project.org/web/packages/EpiDynamics/index.html):
     Dynamic Models in Epidemiology. Currently, the R package
     **EpiDynamics** implements the computer programs written in other
@@ -401,11 +396,9 @@ Resources for Influenza Research
   - [epidemics](https://github.com/ensoesie/epidemics): An R package to
     define seasonal influenza epidemic onset and duration.
   - [epimdr](https://cran.r-project.org/web/packages/epimdr/index.html):
-    Functions and Data for “Epidemics: Models and Data in
-    R”.
+    Functions and Data for “Epidemics: Models and Data in R”.
   - [EpiModel](https://cran.r-project.org/web/packages/EpiModel/index.html):
-    Mathematical Modeling of Infectious
-    Disease.
+    Mathematical Modeling of Infectious Disease.
   - [epitools](https://cran.r-project.org/web/packages/epitools/index.html):
     Tools for training and practicing epidemiologists including methods
     for two-way and multi-way contingency tables.
@@ -538,8 +531,7 @@ Resources for Influenza Research
     researchers to modern methods of statistical analysis and
     mathematical modeling and to introduce statisticians and
     mathematical modelers to the statistical and dynamic problems posed
-    by modern infectious disease
-        data.
+    by modern infectious disease data.
     
       - [Materials](http://faculty.washington.edu/kenrice/rintro/index.shtml)
         for [SISMID 2016 Module 4: Introduction to
@@ -844,7 +836,7 @@ SEIR model is illustrated in Figure 1 of Milwid et al.
       - Source: A Note on the Derivation of Epidemic Final Sizes,
         Generality of the Final Size Formula for an Epidemic of a Newly
         Invading Infectious Disease, Epidemic final size calculation
-      - Chinese: TODO
+      - Chinese: 流行最终规模
   - **Epidemic threshold**
       - Definition: TODO
       - Source: TODO
@@ -864,17 +856,20 @@ SEIR model is illustrated in Figure 1 of Milwid et al.
   - **Seasonal threshold**
       - Definition: TODO
       - Source: TODO
-      - Chinese: TODO
+      - Chinese: 季节性阈值
   - **Alert threshold**
       - Definition: TODO
       - Source: TODO
-      - Chinese: TODO
+      - Chinese: 预警阈值
 
 ## Films and TV Series
 
   - CNN documentary film [Unseen Enemy](http://www.takesallofus.com/)
   - BBC documentary [Contagion\! The BBC Four
     Pandemic](http://www.bbc.co.uk/programmes/p059y0p1)
+  - [Pandemic (2007)](https://www.imdb.com/title/tt0802821/)
+  - [Pandemic (2016)](https://www.imdb.com/title/tt3774802/)
+  - [Contagious](https://www.imdb.com/title/tt0118885/) from U.S.
   - [Contagion](https://en.wikipedia.org/wiki/Contagion_\(film\)) from
     U.S.
   - [Flu](https://en.wikipedia.org/wiki/Flu_\(film\)) from South Korea
