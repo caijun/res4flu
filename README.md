@@ -861,6 +861,12 @@ SEIR model is illustrated in Figure 1 of Milwid et al.
       - Definition: TODO
       - Source: TODO
       - Chinese: 预警阈值
+  - **Critical community size (CCS)**
+      - Definition: the minimum size of a closed population within which
+        a human-to-human, non-zoonotic pathogen can persist
+        indefinitely.
+      - Source: <https://en.wikipedia.org/wiki/Critical_community_size>
+      - Chinese: TODO
 
 ## Films and TV Series
 

@@ -413,6 +413,11 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
     - Definition: TODO
     - Source: TODO
     - Chinese: 预警阈值
+    
++ **Critical community size (CCS)**
+    - Definition: the minimum size of a closed population within which a human-to-human, non-zoonotic pathogen can persist indefinitely.
+    - Source: https://en.wikipedia.org/wiki/Critical_community_size
+    - Chinese: TODO
 
 ## Films and TV Series
 
