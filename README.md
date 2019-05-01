@@ -1,33 +1,6 @@
 Resources for Influenza Research
 ================
 
-  - [Contents](#contents)
-  - [Topics and Keywords](#topics-and-keywords)
-  - [Infectious Disease Epidemiology](#infectious-disease-epidemiology)
-  - [Modeling Infectious Diseases](#modeling-infectious-diseases)
-  - [Ecology and Evolution of
-    Influenza](#ecology-and-evolution-of-influenza)
-  - [Seasonality of Influenza](#seasonality-of-influenza)
-  - [Dynamics of Influenza](#dynamics-of-influenza)
-      - [Influenza Transmission](#influenza-transmission)
-      - [Influenza Forecasting](#influenza-forecasting)
-      - [Surveillance of Influenza](#surveillance-of-influenza)
-      - [Digital Detection of
-        Influenza](#digital-detection-of-influenza)
-  - [Databases for Influenza
-    Research](#databases-for-influenza-research)
-  - [Software Packages for Influenza
-    Research](#software-packages-for-influenza-research)
-  - [Workshops and Conferences](#workshops-and-conferences)
-  - [Courses](#courses)
-  - [Channels](#channels)
-  - [Glossary](#glossary)
-  - [Films and TV Series](#films-and-tv-series)
-  - [Contributing](#contributing)
-  - [References](#references)
-
-## Contents
-
   - [Topics and Keywords](#topics-and-keywords)
   - [Infectious Disease Epidemiology](#infectious-disease-epidemiology)
   - [Modeling Infectious Diseases](#modeling-infectious-diseases)
