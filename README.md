@@ -415,11 +415,11 @@ Resources for Influenza Research
 
 ## Workshops and Conferences
 
-  - [Multinational Influenza Seasonal Mortality Study (MISMS)
+  - [x] [Multinational Influenza Seasonal Mortality Study (MISMS)
     Workshop](http://www.origem.info/misms/)
   - [Options for the Control of Influenza
     Conference](https://www.isirv.org/site/)
-  - [International Conference on Emerging Infectious
+  - [x] [International Conference on Emerging Infectious
     Diseases](https://www.cdc.gov/iceid/index.html)
   - [International Meeting on Emerging Diseases and
     Surveillance](http://imed.isid.org/)
@@ -427,6 +427,8 @@ Resources for Influenza Research
     Dynamics](https://www.elsevier.com/events/conferences/international-conference-on-infectious-disease-dynamics)
   - [Annual Ecology and Evolution of Infectious Disease
     Conference](http://eeidconference.org/)
+  - [IDDconf: A Conference on Infectious Disease
+    Dynamics](http://iddconf.org/)
 
 ## Courses
 

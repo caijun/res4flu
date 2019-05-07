@@ -5,15 +5,15 @@ csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
 link-citations: yes
 output:
+  github_document:
+    toc: true
+    pandoc_args: --webtex
+  md_document:
+    toc: true
   pdf_document:
     toc: true
     fig_caption: no
     latex_engine: xelatex
-  md_document:
-    toc: true
-  github_document:
-    toc: true
-    pandoc_args: --webtex
 ---
 
 ## Topics and Keywords
@@ -180,12 +180,13 @@ output:
 
 ## Workshops and Conferences
 
-* [Multinational Influenza Seasonal Mortality Study (MISMS) Workshop](http://www.origem.info/misms/)
+- [x] [Multinational Influenza Seasonal Mortality Study (MISMS) Workshop](http://www.origem.info/misms/)
 * [Options for the Control of Influenza Conference](https://www.isirv.org/site/)
-* [International Conference on Emerging Infectious Diseases](https://www.cdc.gov/iceid/index.html)
+- [x] [International Conference on Emerging Infectious Diseases](https://www.cdc.gov/iceid/index.html)
 * [International Meeting on Emerging Diseases and Surveillance](http://imed.isid.org/)
 * [Epidemics: International Conference on Infectious Disease Dynamics](https://www.elsevier.com/events/conferences/international-conference-on-infectious-disease-dynamics)
 * [Annual Ecology and Evolution of Infectious Disease Conference](http://eeidconference.org/)
+* [IDDconf: A Conference on Infectious Disease Dynamics](http://iddconf.org/)
 
 ## Courses
 *Massive Open Online Courses (MOOCs)*
