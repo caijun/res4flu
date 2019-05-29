@@ -315,6 +315,10 @@ Resources for Influenza Research
         [cdcfluview](https://cran.r-project.org/web/packages/cdcfluview/index.html)
         can retrieve the U.S. flu season data from the CDC FluView
         portal.
+      - [delphi-epidata](https://github.com/cmu-delphi/delphi-epidata):
+        DELPHI’s real-time epidemiological data API, which currently
+        contains influenza and dengue data for the United States and
+        Taiwan.
   - Weekly influenza reports from [Chinese National Influenza
     Center](http://www.chinaivdc.cn/lgzx/zyzx/lgzb/)
   - Estimated flu activity from [Google Flu

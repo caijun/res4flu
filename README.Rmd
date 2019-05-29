@@ -144,6 +144,7 @@ output:
     - [FluView](https://gis.cdc.gov/GRASP/Fluview/PedFluDeath.html): influenza-associated pediatric mortality.
     - FluView: laboratory-confirmed influenza hospitalizations [preliminary cumulative rates](https://gis.cdc.gov/GRASP/Fluview/PedFluDeath.html) and [preliminary data](https://gis.cdc.gov/grasp/fluview/FluHospChars.html).
     - The R package [cdcfluview](https://cran.r-project.org/web/packages/cdcfluview/index.html) can retrieve the U.S. flu season data from the CDC FluView portal.
+    - [delphi-epidata](https://github.com/cmu-delphi/delphi-epidata): DELPHI's real-time epidemiological data API, which currently contains influenza and dengue data for the United States and Taiwan.
 * Weekly influenza reports from [Chinese National Influenza Center](http://www.chinaivdc.cn/lgzx/zyzx/lgzb/)
 * Estimated flu activity from [Google Flu Trends](https://www.google.org/flutrends/intl/en_us/). Google is no longer publishing estimates of disease activity (as of August 20, 2015), but it continue to provide signal data for research purposes. See details on [the next chapter for Google Flu Trends](https://research.googleblog.com/2015/08/the-next-chapter-for-flu-trends.html) [@Ginsberg-etal:2009; @Butler:2013; @Lazer-etal:2014].
 * [HealthMap Flu Trends](http://www.healthmap.org/flutrends/) [see @Freifeld-etal:2008 for details]
