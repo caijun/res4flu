@@ -360,6 +360,8 @@ Resources for Influenza Research
 
   - [cdcfluview](https://cran.r-project.org/web/packages/cdcfluview/index.html):
     Retrieve U.S. Flu Season Data from the CDC FluView Portal.
+  - [coarseDataTools](https://CRAN.R-project.org/package=coarseDataTools):
+    Analysis of Coarsely Observed Data.
   - [EpiDynamics](https://cran.r-project.org/web/packages/EpiDynamics/index.html):
     Dynamic Models in Epidemiology. Currently, the R package
     **EpiDynamics** implements the computer programs written in other
@@ -402,6 +404,8 @@ Resources for Influenza Research
     (TSIR) model described by Finkenstädt & Grenfell
     ([2000](#ref-Finkenstaedt-Grenfell:2000)) using a number of
     different fitting options for infectious disease time series data.
+  - [tycho2](https://github.com/allopole/tycho2): R interface to
+    [Project Tycho 2.0 API](https://www.tycho.pitt.edu/dataset/api/).
   - [Projects](http://www.repidemicsconsortium.org/projects/) of [R
     Epidemics Consortium (RECON)](http://www.repidemicsconsortium.org/):
     lists released projects and packages, up-and-coming packages, and
