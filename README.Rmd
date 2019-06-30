@@ -3,7 +3,7 @@ title: "Resources for Influenza Research"
 bibliography: bibliography.bib
 csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
-link-citations: yes
+link-citations: true
 output:
   github_document:
     toc: true
