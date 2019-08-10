@@ -353,7 +353,7 @@ Resources for Influenza Research
   - [1918-1919 Influenza Pandemic Mortality in England and
     Wales](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=4350):
     this dataset can be used for reproducing results from several
-    studies that investigated the spatio-temproal spread of 1918-1919
+    studies that investigated the spatio-temporal spread of 1918-1919
     influenza pandemic in England and Wales.
   - [Social Contact Data](http://www.socialcontactdata.org/): a website
     for sharing social contact data and data analysis methods between
