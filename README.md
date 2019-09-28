@@ -167,6 +167,13 @@ Resources for Influenza Research
     Sugihara, G. (2016). [Global environmental drivers of
     influenza](http://www.pnas.org/content/113/46/13081.abstract).
     Proceedings of the National Academy of Sciences, 201607747.
+  - Metcalf, C. J. E., Walter, K. S., Wesolowski, A., Buckee, C. O.,
+    Shevliakova, E., Tatem, A. J., … & Pitzer, V. E. (2017).
+    [Identifying climate drivers of infectious disease dynamics: recent
+    advances and challenges
+    ahead](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.0901).
+    Proceedings of the Royal Society B: Biological Sciences, 284(1860),
+    20170901.
 
 *Review Papers*
 

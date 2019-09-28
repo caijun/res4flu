@@ -81,6 +81,7 @@ output:
 - [x] Dushoff, J., Plotkin, J. B., Levin, S. A., & Earn, D. J. (2004). [Dynamical resonance can account for seasonality of influenza epidemics](http://www.pnas.org/content/101/48/16915.short). Proceedings of the National Academy of Sciences of the United States of America, 101(48), 16915-16916.
 - [x] Shaman, J., & Kohn, M. (2009). [Absolute humidity modulates influenza survival, transmission, and seasonality](http://www.pnas.org/content/106/9/3243.short). Proceedings of the National Academy of Sciences, 106(9), 3243-3248.
 - [x] Deyle, E. R., Maher, M. C., Hernandez, R. D., Basu, S., & Sugihara, G. (2016). [Global environmental drivers of influenza](http://www.pnas.org/content/113/46/13081.abstract). Proceedings of the National Academy of Sciences, 201607747.
+- Metcalf, C. J. E., Walter, K. S., Wesolowski, A., Buckee, C. O., Shevliakova, E., Tatem, A. J., ... & Pitzer, V. E. (2017). [Identifying climate drivers of infectious disease dynamics: recent advances and challenges ahead](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2017.0901). Proceedings of the Royal Society B: Biological Sciences, 284(1860), 20170901.
 
 *Review Papers*
 
