@@ -631,7 +631,7 @@ Resources for Influenza Research
         interval in which the infected individual is capable of
         transmitting the disease (Milwid et al.,
         [2016](#ref-Milwid-etal:2016)).
-      - Chinese: 传染期
+      - Chinese: 感染期
 
 The relationship of periods: latent, incubation, and infectious in the
 SEIR model is illustrated in Figure 1 of Milwid et al.
@@ -835,7 +835,7 @@ SEIR model is illustrated in Figure 1 of Milwid et al.
       - [Definition](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/EP/EP713_DescriptiveEpi/EP713_DescriptiveEpi3.html):
         the minimum size of a closed population within which a
         human-to-human, non-zoonotic pathogen can persist indefinitely.
-      - Chinese: TODO
+      - Chinese: 社区规模临界值
 
 ## Films and TV Series
 
