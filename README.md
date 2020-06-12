@@ -653,7 +653,7 @@ SEIR model is illustrated in Figure 1 of Milwid et al.
         primary case to the onset of **symptoms** in a secondary case
         infected by the primary case (Fine, [2003](#ref-Fine:2003);
         Milwid et al., [2016](#ref-Milwid-etal:2016)).
-      - Chinese: 传代间期
+      - Chinese: 代际间隔
   - **Morbidity (rate)**
       - [Definition](https://www.health.ny.gov/diseases/chronic/basicstat.htm):
         Morbidity is another term for illness.

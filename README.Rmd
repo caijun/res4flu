@@ -5,15 +5,15 @@ csl: apa-edited.csl
 header-includes: \usepackage{xeCJK}
 link-citations: true
 output:
+  github_document:
+    toc: true
+    pandoc_args: --webtex
+  md_document:
+    toc: true
   pdf_document:
     toc: true
     fig_caption: no
     latex_engine: xelatex
-  md_document:
-    toc: true
-  github_document:
-    toc: true
-    pandoc_args: --webtex
 ---
 
 ## Topics and Keywords
@@ -283,7 +283,7 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
   
 + **Serial interval**
     - Definition: In epidemiology, the serial interval is defined as the period of time between the onset of **symptoms** in a primary case to the onset of **symptoms** in a secondary case infected by the primary case [@Milwid-etal:2016; @Fine:2003].
-    - Chinese: 传代间期
+    - Chinese: 代际间隔
   
 + **Morbidity (rate)**
     - [Definition](https://www.health.ny.gov/diseases/chronic/basicstat.htm): Morbidity is another term for illness.
