@@ -25,6 +25,9 @@ Resources for Influenza Research
   - [Contributing](#contributing)
   - [References](#references)
 
+Note that the resources listed here can also be applied to general
+infectious respiratory diseases such as COVID-19.
+
 ## Topics and Keywords
 
   - [Influenza](http://en.wikipedia.org/wiki/Influenza) | Flu
@@ -388,6 +391,9 @@ Resources for Influenza Research
     Functions and Data for “Epidemics: Models and Data in R”.
   - [EpiModel](https://cran.r-project.org/web/packages/EpiModel/index.html):
     Mathematical Modeling of Infectious Disease.
+  - [EpiNow2](https://cran.r-project.org/web/packages/EpiNow2/index.html):
+    Estimate Real-Time Case Counts and Time-Varying Epidemiological
+    Parameters.
   - [epitools](https://cran.r-project.org/web/packages/epitools/index.html):
     Tools for training and practicing epidemiologists including methods
     for two-way and multi-way contingency tables.
