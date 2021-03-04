@@ -2,7 +2,9 @@
 title: "Resources for Influenza Research"
 bibliography: bibliography.bib
 csl: apa-edited.csl
-header-includes: \usepackage{xeCJK}
+header-includes: 
+  \usepackage{xeCJK}
+  \usepackage{amsfonts}
 link-citations: true
 output:
   github_document:
@@ -261,7 +263,8 @@ Note that the resources listed here can also be applied to general infectious re
     - Chinese: 原发病例
   
 + **Secondary case**
-    - Definition: TODO
+    - Definition: A transmission of an infection from an infected person
+        (primary case) to another person who then becomes infected [@ECDC:2012].
     - Chinese: 二代病例，继发病例，续发病例
   
 + **Latent period**
