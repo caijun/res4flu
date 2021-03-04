@@ -618,7 +618,9 @@ infectious respiratory diseases such as COVID-19.
         case in a family or group (Porta, [2014](#ref-Porta:2014)).
       - Chinese: 原发病例
   - **Secondary case**
-      - Definition: TODO
+      - Definition: A transmission of an infection from an infected person
+        (primary case) to another person who then becomes infected (ECDC
+        Field Epi Manual [2012](#ref-ecdcfieldepi)
       - Chinese: 二代病例，继发病例，续发病例
   - **Latent period**
       - Definition: The latent period refers to the period of time
@@ -900,6 +902,14 @@ framework and software to estimate time-varying reproduction numbers
 during epidemics. *American Journal of Epidemiology*, *178*(9),
 1505–1512. Retrieved from
 <http://aje.oxfordjournals.org/content/178/9/1505.abstract>
+
+</div>
+
+<div id="#ref-ecdcfieldepi">
+
+European Centre for Disease Prevention and Control (ECDC) Field
+Epidemiology Manual (2012). Incubation period, Latent period and
+Generation time. Retrieved from <https://wiki.ecdc.europa.eu/fem/Pages/Incubation%20period,%20Latent%20period%20and%20Generation%20time..aspx>
 
 </div>
 
