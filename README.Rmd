@@ -173,6 +173,7 @@ Note that the resources listed here can also be applied to general infectious re
 * [epimdr](https://cran.r-project.org/web/packages/epimdr/index.html): Functions and Data for "Epidemics: Models and Data in R".
 * [EpiModel](https://cran.r-project.org/web/packages/EpiModel/index.html): Mathematical Modeling of Infectious Disease.
 * [EpiNow2](https://cran.r-project.org/web/packages/EpiNow2/index.html): Estimate Real-Time Case Counts and Time-Varying Epidemiological Parameters.
+* [epinowcast](https://epiforecasts.io/epinowcast/index.html): Flexible hierarchical nowcasting.
 * [epitools](https://cran.r-project.org/web/packages/epitools/index.html): Tools for training and practicing epidemiologists including methods for two-way and multi-way contingency tables.
 * [epinet](https://cran.r-project.org/web/packages/epinet/index.html): An R package to analyze epidemics spread across contact networks. Details are described in @Groendyke-Welch:2018.
 * [fitR](https://cran.r-project.org/web/packages/mem/): Provides functions for model fitting and inference.
@@ -221,7 +222,7 @@ Note that the resources listed here can also be applied to general infectious re
 
 - \[x] [Computational Biology for Infectious Diseases (CBID)](http://cbid.asia/): The summer school is for students, researchers and professionals working on infectious diseases and wishing to acquire knowledge and practice in quantitative analyses or, on the contrary, working in modeling sciences (mathematics, informatics) and wishing to acquire knowledge in health sciences applications.
 
-* [Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)](https://www.biostat.washington.edu/suminst/sismid): The summer institute is designed to introduce infectious disease researchers to modern methods of statistical analysis and mathematical modeling and to introduce statisticians and mathematical modelers to the statistical and dynamic problems posed by modern infectious disease data.
+- \[x] [Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)](https://www.biostat.washington.edu/suminst/sismid): The summer institute is designed to introduce infectious disease researchers to modern methods of statistical analysis and mathematical modeling and to introduce statisticians and mathematical modelers to the statistical and dynamic problems posed by modern infectious disease data.
     - [Materials](http://faculty.washington.edu/kenrice/rintro/index.shtml) for [SISMID 2016 Module 4: Introduction to R](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1604)
     - Lectures [1](https://www.biostat.washington.edu/sites/default/files/modules//2016_SISMID_05_1.pdf), [2](https://www.biostat.washington.edu/sites/default/files/modules//2016_SISMID_05_2.pdf), [3](https://www.biostat.washington.edu/sites/default/files/modules//2016_SISMID_05_3.pdf), [4](https://www.biostat.washington.edu/sites/default/files/modules//2016_SISMID_05_4.pdf), [5](https://www.biostat.washington.edu/sites/default/files/modules//2016_SISMID_05_5.pdf), [6](http://www.cidid.org/s/SISMID2016_Module_5_Lecture_6.pptx), [7](https://www.biostat.washington.edu/sites/default/files/modules//2016_SISMID_05_7.pdf), [8](https://www.biostat.washington.edu/sites/default/files/modules//2016_SISMID_05_8.pdf), [9](https://www.biostat.washington.edu/sites/default/files/modules//2016_SISMID_05_9.pdf), [10](https://www.biostat.washington.edu/sites/default/files/modules//2016_SISMID_05_10.pdf) for [SISMID 2016 Module 5: Stochastic Epidemic Models with Inference](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1605)
     - [Materials](http://vnminin.github.io/SISMID_MCMC_I/) for [SISMID 2016 Module 7: MCMC I for Infectious Diseases](https://www.biostat.washington.edu/suminst/sismid2016/modules/MD1607)
@@ -236,6 +237,8 @@ Note that the resources listed here can also be applied to general infectious re
 
 * [Disease Forecasting & Surveillance](https://channels.plos.org/dfs): a global forum for disease forecasting and surveillance research.
 * [RECON learn](https://www.reconlearn.org/): a free, open platform for training material on epidemics analysis.
+* [epirecipes](http://epirecip.es/): an initiative to implement as many different epidemiological models as possible in a variety of computer languages.
+* [Stan for epidemiology](https://epidemiology-stan.github.io/): a centralized location for all types of work in epidemiology that use the software Stan for Bayesian inference.
 
 
 ## Glossary
@@ -268,7 +271,7 @@ Note that the resources listed here can also be applied to general infectious re
     - Chinese: 二代病例，继发病例，续发病例
   
 + **Latent period**
-    - Definition: The latent period refers to the period of time between exposure to a disease with successful transmission and the onset of **infectiousness** [@Milwid-etal:2016].
+    - Definition: The [latent period](https://enwik.org/dict/Latent_period_(epidemiology)) refers to the period of time between exposure to a disease with successful transmission and the onset of **infectiousness** [@Milwid-etal:2016].
     - Chinese: 潜隐期
   
 + **Incubation period**
@@ -402,7 +405,9 @@ The relationship of periods: latent, incubation, and infectious in the SEIR mode
 * [Contagious](https://www.imdb.com/title/tt0118885/) from U.S.
 * [Contagion](https://en.wikipedia.org/wiki/Contagion_(film)) from U.S.
 * [Flu](https://en.wikipedia.org/wiki/Flu_(film)) from South Korea
-* [亚洲英雄](http://baike.baidu.com/view/1952499.htm) from Hong Kong, based on the SARS outbreak in 2003
+* [Virus](https://en.wikipedia.org/wiki/Virus_(2019_film)) from India
+* [亚洲英雄](http://baike.baidu.com/view/1952499.htm) from Hong Kong SAR, China, based on the SARS outbreak in 2003
+* [埃博拉前线](https://baike.baidu.com/item/埃博拉前线/55621515) from mainland China, based on the story of the Chinese medical team that involves their fight against the Ebola virus in 2014
 
 
 ## Contributing
